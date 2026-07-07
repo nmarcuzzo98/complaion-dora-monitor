@@ -68,17 +68,27 @@ GEMINI_MAX_DIFF_CHARS = 8000
 
 TARGETS = [
     # --- Fonti italiane ---
-    {"id": "bankit-dora", "name": "Banca d'Italia - DORA", "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/regolamenti-ue/dora/index.html", "type": "page", "category": "DORA - Italia"},
+    {"id": "bankit-cyber-norme", "name": "Banca d'Italia - Norme cyber (include DORA)", "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html", "type": "page", "category": "DORA - Italia"},
     {"id": "consob-dora", "name": "CONSOB - DORA", "url": "https://www.consob.it/web/area-pubblica/dora", "type": "page", "category": "DORA - Italia"},
-    {"id": "ivass-dora", "name": "IVASS - DORA", "url": "https://www.ivass.it/normativa/nazionale/secondaria-ivass/dora/index.html", "type": "page", "category": "DORA - Italia"},
+    {"id": "ivass-dora", "name": "IVASS - DORA (Operatori)", "url": "https://www.ivass.it/operatori/dora/index.html", "type": "page", "category": "DORA - Italia"},
+    {"id": "ivass-reg-2554", "name": "IVASS - Regolamento (UE) 2022/2554", "url": "https://www.ivass.it/normativa/internazionale/internazionale-ue/regolamenti-europei/re-2022-2554/index.html", "type": "page", "category": "DORA - Italia"},
 
     # --- Fonti europee (ESAs) ---
-    {"id": "eba-dora", "name": "EBA - DORA Regulatory Framework", "url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience", "type": "page", "category": "DORA - EU"},
-    {"id": "esma-dora", "name": "ESMA - DORA", "url": "https://www.esma.europa.eu/policy-activities/dora-digital-operational-resilience-act", "type": "page", "category": "DORA - EU"},
-    {"id": "eiopa-dora", "name": "EIOPA - DORA", "url": "https://www.eiopa.europa.eu/browse/regulation-and-policy/digital-operational-resilience-act-dora_en", "type": "page", "category": "DORA - EU"},
+    {"id": "eba-dora", "name": "EBA - DORA (Direct Supervision and Oversight)", "url": "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act", "type": "page", "category": "DORA - EU"},
+    {"id": "eba-op-resilience", "name": "EBA - Operational Resilience", "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience", "type": "page", "category": "DORA - EU"},
+    {"id": "esma-dora", "name": "ESMA - DORA", "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora", "type": "page", "category": "DORA - EU"},
+    {"id": "eiopa-dora", "name": "EIOPA - DORA", "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en", "type": "page", "category": "DORA - EU"},
 
     # --- Contenuti tecnici (RTS/ITS) ---
     {"id": "eur-lex-2022-2554", "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA", "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554", "type": "page", "category": "DORA - Normativa"},
+# --- Joint Committee delle ESAs (documenti congiunti DORA) ---
+    {"id": "esas-joint-committee-dora", "name": "ESAs Joint Committee - DORA Technical Standards", "url": "https://www.eba.europa.eu/legacy/regulation-and-policy/regulatory-activities/operational-resilience/esas-joint-committee", "type": "page", "category": "DORA - EU"},
+
+    # --- ECB Banking Supervision ---
+    {"id": "ecb-supervision-priorities", "name": "ECB Banking Supervision - Priorita' di vigilanza", "url": "https://www.bankingsupervision.europa.eu/framework/priorities/", "type": "page", "category": "DORA - EU"},
+
+    # --- Normativa italiana di adeguamento a DORA ---
+    {"id": "normattiva-dlgs-23-2025", "name": "Normattiva - D.Lgs. 23/2025 (adeguamento italiano a DORA)", "url": "https://www.normattiva.it/eli/id/2025/03/11/25G00032/ORIGINAL", "type": "page", "category": "DORA - Italia"},
 ]
 
 DISCOVER_PDFS = True
