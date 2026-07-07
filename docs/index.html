@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Complaion - DORA Monitor</title>
+<meta name="description" content="Monitor delle pagine ufficiali DORA (Regolamento UE 2022/2554) - Banca d'Italia, CONSOB, IVASS, EBA, ESMA, EIOPA.">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">C</span>
+    <span class="brand-name">Complaion &middot; DORA Monitor</span>
+  </div>
+  <div class="topbar-actions">
+    <a class="about-link" href="#" id="about-link">Info</a>
+    <button class="theme-toggle" id="theme-toggle" title="Cambia tema"><span id="theme-icon">🌙</span></button>
+  </div>
+</header>
+
+<main class="container">
+  <section class="stats fade-in">
+    <div class="stat-card">
+      <div class="stat-label">📚 Risorse tracciate</div>
+      <div class="stat-value" id="stat-total">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">🟡 Variazioni 7 gg</div>
+      <div class="stat-value" id="stat-changes-7d">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">📊 Variazioni 30 gg</div>
+      <div class="stat-value" id="stat-changes-30d">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">📕 PDF tracciati</div>
+      <div class="stat-value" id="stat-pdfs">—</div>
+    </div>
+  </section>
+
+  <section class="deadlines-section" id="deadlines-section">
+    <div class="deadlines-header">
+      <h2><span class="icon">📅</span> Scadenze DORA rilevate</h2>
+      <span class="deadlines-meta" id="deadlines-meta">—</span>
+    </div>
+    <div class="deadlines-list" id="deadlines-list">
+      <!-- Popolato da app.js -->
+    </div>
+  </section>
+
+  <section class="section fade-in">
+    <div class="section-header">
+      <h2><span class="icon">📈</span> Andamento delle variazioni</h2>
+      <span class="section-meta" id="chart-meta">Ultimi 30 giorni</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="timeline-chart"></canvas>
+    </div>
+  </section>
+
+  <section class="section fade-in">
+    <div class="section-header">
+      <h2><span class="icon">🟡</span> Ultime variazioni rilevate</h2>
+      <span class="section-meta" id="changes-meta">—</span>
+    </div>
+    <div id="changes-list" class="changes-list">
+      <div class="empty">Caricamento…</div>
+    </div>
+  </section>
+
+  <section class="section fade-in">
+    <div class="section-header">
+      <h2><span class="icon">📁</span> Risorse monitorate</h2>
+    </div>
+    <div class="filters">
+      <input type="search" id="search" placeholder="🔍 Cerca per nome o URL…" />
+      <select id="filter-status">
+        <option value="">Tutti gli stati</option>
+        <option value="changed">🟡 Modificate</option>
+        <option value="new">🔵 Nuove</option>
+        <option value="unchanged">🟢 Invariate</option>
+        <option value="fetch_error">🔴 Errore</option>
+      </select>
+      <select id="filter-type">
+        <option value="">Tutti i tipi</option>
+        <option value="page">📄 Pagine</option>
+        <option value="pdf">📕 PDF</option>
+      </select>
+      <select id="filter-category">
+        <option value="">Tutte le categorie</option>
+      </select>
+      <select id="sort-by">
+        <option value="last_modified">Più recenti modifiche</option>
+        <option value="last_check">Più recenti controlli</option>
+        <option value="name">Nome A-Z</option>
+        <option value="status">Stato</option>
+      </select>
+      <button id="reset-filters">Reset</button>
+    </div>
+    <div class="resources-count" id="resources-count">—</div>
+    <div id="resources-list" class="resources-list">
+      <div class="empty">Caricamento…</div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div>© Complaion - DORA Monitor</div>
+    <div><a href="#" id="footer-about">Info sul progetto</a></div>
+    <div class="footer-meta" id="last-scan">—</div>
+  </div>
+</footer>
+
+<!-- About modal -->
+<div id="about-modal" class="modal hidden">
+  <div class="modal-content">
+    <button class="modal-close" id="modal-close">×</button>
+    <h2>Complaion - DORA Monitor</h2>
+    <p>Questo strumento monitora automaticamente le pagine ufficiali relative al <strong>Regolamento (UE) 2022/2554 - Digital Operational Resilience Act (DORA)</strong>, rilevando variazioni sui siti di:</p>
+    <ul>
+      <li><strong>Autorità nazionali</strong>: Banca d'Italia, CONSOB, IVASS</li>
+      <li><strong>Autorità europee (ESAs)</strong>: EBA, ESMA, EIOPA</li>
+      <li><strong>Fonti normative</strong>: EUR-Lex</li>
+    </ul>
+    <p>Ogni giorno alle 06:00 UTC lo scraper effettua una scansione delle pagine di riferimento e dei PDF collegati. Le variazioni vengono riassunte automaticamente tramite intelligenza artificiale (Google Gemini) e le eventuali scadenze future sono estratte e mostrate nella sezione dedicata.</p>
+    <p>Il monitoraggio copre in particolare: RTS/ITS, guidelines, Q&amp;A, template di segnalazione incidenti, registro dei fornitori ICT critici (CTPP), framework TLPT.</p>
+    <p><em>Progetto interno Complaion. Fonte pubblica dei dati: siti ufficiali delle autorità competenti.</em></p>
+  </div>
+</div>
+
+<!-- Diff modal -->
+<div id="diff-modal" class="modal hidden">
+  <div class="modal-content diff-modal-content">
+    <button class="modal-close" id="diff-modal-close">×</button>
+    <div id="diff-modal-body"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
