@@ -1,5 +1,34 @@
 {
-  "last_scan": null,
-  "total_tracked": 0,
-  "items": []
+  "last_scan": "2026-07-07T14:31:30+00:00",
+  "total_tracked": 2,
+  "items": [
+    {
+      "id": "consob-dora",
+      "name": "CONSOB - DORA",
+      "url": "https://www.consob.it/web/area-pubblica/dora",
+      "type": "page",
+      "category": "DORA - Italia",
+      "hash": "29d75d3c96fbd6f0a26e423dfe01c3726d580f8f9f5bfe9647c6a99bc668711a",
+      "size": 283945,
+      "content_type": "text/html",
+      "first_seen": "2026-07-07T14:31:24+00:00",
+      "last_check": "2026-07-07T14:31:24+00:00",
+      "last_modified": "2026-07-07T14:31:24+00:00",
+      "last_status": "new"
+    },
+    {
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "category": "DORA - Normativa",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "content_type": "text/html",
+      "first_seen": "2026-07-07T14:31:28+00:00",
+      "last_check": "2026-07-07T14:31:28+00:00",
+      "last_modified": "2026-07-07T14:31:28+00:00",
+      "last_status": "new"
+    }
+  ]
 }

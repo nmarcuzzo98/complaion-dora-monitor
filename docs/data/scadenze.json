@@ -1,5 +1,26 @@
 {
-  "last_updated": null,
-  "total_deadlines": 0,
-  "deadlines": []
+  "last_updated": "2026-07-07T14:31:30+00:00",
+  "total_deadlines": 2,
+  "deadlines": [
+    {
+      "date": "2027-04-30",
+      "date_text": "30 aprile 2027",
+      "context": "Termine indicativo per la trasmissione annuale del Registro degli accordi contrattuali sull'uso di servizi ICT forniti da terzi (Registro CTPP) alle autorita' competenti nazionali, ai sensi dell'art. 28 par. 3 del Regolamento (UE) 2022/2554.",
+      "source_id": "seed-ctpp-2027",
+      "source_name": "Scadenza DORA - Registro CTPP annuale 2027",
+      "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
+      "first_seen": "2026-07-07T14:31:30+00:00",
+      "last_seen": "2026-07-07T14:31:30+00:00"
+    },
+    {
+      "date": "2028-01-17",
+      "date_text": "17 gennaio 2028",
+      "context": "Termine per la conclusione del primo ciclo triennale di Threat-Led Penetration Testing (TLPT) ai sensi degli artt. 26-27 del Regolamento (UE) 2022/2554, per gli enti finanziari significativi identificati dalle autorita' competenti.",
+      "source_id": "seed-tlpt-2028",
+      "source_name": "Scadenza DORA - Primo ciclo TLPT triennale",
+      "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
+      "first_seen": "2026-07-07T14:31:30+00:00",
+      "last_seen": "2026-07-07T14:31:30+00:00"
+    }
+  ]
 }
