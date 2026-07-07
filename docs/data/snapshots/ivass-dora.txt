@@ -1,0 +1,160 @@
+IVASS - Regolamento DORA - Informazioni per gli Operatori
+torna alla home page
+MENU DI NAVIGAZIONE
+Strumenti
+English version
+EN
+Cerca nel sito
+L'IVASS in prospettiva
+Per i consumatori
+Per imprese e intermediari
+Informazioni
+Chi siamo
+Normativa
+Pubblicazioni e statistiche
+Media
+sei qui:
+Home
+Per imprese e intermediari
+Regolamento DORA - Informazioni per gli Operatori
+Regolamento DORA - Informazioni per gli Operatori
+Il Regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14 dicembre 2022 relativo alla resilienza operativa digitale per il settore finanziario (Digital Operational Resilience Act - DORA), applicabile dal 17 gennaio 2025, istituisce un quadro comune per la gestione dei rischi associati alle information e communication technologies (ICT).
+Il regolamento e i conseguenti atti applicativi (Implementing Technical Standard e Regulatory Technical Standard) prevedono numerosi adempimenti tecnico-amministrativi a carico delle entità finanziarie e delle Autorità nazionali.
+Per quanto riguarda il settore assicurativo sono soggetti alla disciplina DORA le imprese di assicurazione e di riassicurazione soggette a Solvency II e gli intermediari di assicurazione e di riassicurazione nonché gli intermediari a titolo accessorio che non sono microimprese o piccole o medie imprese (con numero di dipendenti pari o superiore a 250 e fatturato annuo superiore a 50 milioni di euro o un bilancio annuo superiore a 43 milioni di euro).
+In questa pagina sono riportate le comunicazioni agli operatori assicurativi emanate dall’IVASS, la normativa europea e nazionale di riferimento e la documentazione operativa per la trasmissione delle segnalazioni obbligatorie ai fini DORA.
+Ultimo aggiornamento
+19 marzo 2025
+Condividi su:
+Facebook
+Twitter
+Linkedin
+e-mail
+COMUNICAZIONI DELL'IVASS
+Lettera al mercato del 07/03/2025
+PDF
+358.4 KB
+Segnalazione DORA - Registro delle informazioni
+Lettera al mercato del 14/02/2025
+pdf
+323.3 KB
+Segnalazioni dei gravi incidenti informatici e delle minacce informatiche ai sensi del Regolamento UE 2022/2054 (DORA)
+DORA modello segnalazione incidenti
+xlsx
+127.9 KB
+Lettera al mercato del 14 febbraio 2025
+DORA modello segnalazione minacce informatiche
+xlsx
+65.7 KB
+Lettera al mercato del 14 febbraio 2025
+NORMATIVA DI RIFERIMENTO UE
+Regolamento 2022/2554 (DORA)
+(Link esterno)
+Regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14 dicembre 2022 relativo alla resilienza operativa digitale per il settore finanziario
+Regolamento di Esecuzione (UE) 2024/2956 della commissione del 29 novembre 2024
+(Link esterno)
+Regolamento che stabilisce norme tecniche di attuazione per l'applicazione del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio per quanto riguarda i modelli standard in relazione al registro delle informazioni
+EBA - Reporting framework e controlli (solo in inglese)
+(Link esterno)
+File di esempio reporting (solo in inglese)
+(Link esterno)
+Decisione dell'EBA, EIOPA e ESMA dell'8 novembre 2024 (solo in inglese)
+(Link esterno)
+Decisione sul reporting delle Autorità competenti alle ESA delle informazioni necessarie per la designazione dei fornitori terze parti critici di servizi ICT (articolo 31(1)(a) di DORA)
+DOCUMENTAZIONE OPERATIVA
+Piattaforma Infostat per la trasmissione all'IVASS delle segnalazioni di vigilanza e statistiche
+(Link esterno)
+Manuale utente Infostat
+pdf
+1.1 MB
+Modulo accreditamento Infostat
+docx
+115.9 KB
+Navigazione
+vai al livello superiore
+Per imprese e intermediari
+Footer
+IVASS
+Istituto per la Vigilanza sulle Assicurazioni
+via del Quirinale 21
+00187 Roma
+Tel
+: +39 06 421331
+e-mail
+:
+email@ivass.it
+PEC
+:
+ivass@pec.ivass.it
+Contatti
+Servizi online con accesso SPID
+Lavorare in IVASS
+Amministrazione trasparente
+Social media policy (PDF)
+Dichiarazione di accessibilità
+Open Data - Metadati Agid (RDF)
+Informazioni Legali
+Privacy
+Disclaimer
+Copyright
+Preferenze cookie
+Seguici su
+Instagram
+LinkedIn
+X
+Newsletter
+E-mail Alert
+YouTube
+Flickr
+RSS
+Siti d'interesse
+(link esterni)
+Banca d’Italia
+Arbitro Assicurativo (AAS)
+Consob
+AGCM
+COVIP
+Ministero dell'Economia e delle Finanze
+Comitato per l'Educazione Finanziaria
+Ministero delle Imprese e del Made in Italy
+EIOPA - European Insurance and Occupational Pensions Authority
+IAIS - International Association of Insurance Supervisors
+Ania
+Consap
+Numeri di contatto
+Contact Center Polizze CAT-NAT
+Numero Verde: 800 48 66 61
+dal Lunedì al Venerdì dalle 8:30 alle 14:30
+per chiamate dall'estero
+:
++39 06 9435 8604
+Contact Center Intermediari
++39 06 404 14 680
+dal lunedì al venerdì dalle 8:30 alle 14:30
+Preventivatore Pubblico
+Numero Verde: 800 48 66 61
+dal Lunedì al Venerdì dalle 8:30 alle 14:30
+per chiamate dall'estero
+:
++39 06 9435 8604
+© IVASS | C.F. 97730600588
+✕
+Informativa sui cookie:
+L'IVASS utilizza cookie tecnici e di terze parti per il funzionamento del sito: per maggiori informazioni e per sapere come abilitarli in modo selettivo leggere
+l'informativa sulla privacy
+. Utilizzare uno dei seguenti pulsanti per esprimere la propria preferenza. Se si clicca su “Chiudi/Rifiuta tutti i cookie” saranno attivati i soli cookie tecnici interni al sito.
+Accetta tutti i cookie
+Preferenze cookie
+Chiudi/Rifiuta tutti i cookie non necessari
+go to
+english version
+✕
+About this site's cookies:
+IVASS uses technical and third-party cookies for the operation of the site: for more information and to know how to selectively enable cookies, read the
+Privacy Policy
+.
+Click on one of the buttons below to express your preference. If you click "Close/Reject all cookies", only the internal technical cookies of the site will be activated.
+Accept all cookies
+Go to cookie preferences
+Close/Reject all non-essential cookies
+leggi la
+versione italiana

@@ -1,0 +1,232 @@
+Digital Operational Resilience Act (DORA) - European Insurance and Occupational Pensions Authority
+Skip to main content
+English
+Select your language
+Close
+bg
+български
+es
+español
+cs
+čeština
+da
+dansk
+de
+Deutsch
+et
+eesti
+el
+ελληνικά
+en
+English
+fr
+français
+ga
+Gaeilge
+hr
+hrvatski
+it
+italiano
+lv
+latviešu
+lt
+lietuvių
+hu
+magyar
+mt
+Malti
+nl
+Nederlands
+pl
+polski
+pt
+português
+ro
+română
+sk
+slovenčina
+sl
+slovenščina
+fi
+suomi
+sv
+svenska
+Search
+Search
+European Insurance and Occupational Pensions Authority
+Menu
+Close
+Menu
+Back
+Previous items
+Next items
+Home
+About
+Mission and tasks
+Work programme
+History
+Legal framework
+Annual reports
+Careers
+Governance structure
+Accountability and transparency
+Procurement
+Contact
+See all
+Browse by topic
+Regulation and policy
+Consumer protection
+Supervisory convergence
+Crisis Prevention
+Financial stability
+Digitalisation and financial innovation
+Sustainable finance
+Consultations and surveys
+See all
+For consumers
+Tools and data
+Catastrophe Data Hub
+Centre of excellence for catastrophe modelling and data
+Open-source tools for the modelling and management of climate change risks
+Solvency II Single Rulebook
+IDD Single Rulebook
+Risk-free interest rate term structures
+Symmetric adjustment of the equity capital charge
+Supervisory reporting - DPM and XBRL
+Insurance statistics
+Occupational pensions statistics
+Insurance Risk Dashboard
+Supervisory reporting
+Occupational pensions risk dashboard
+Registers, lists and databases
+Financial education map
+Data on sanctions imposed on insurance distributors
+Eurobarometer 2025: consumer trends in insurance and pension services
+Behavioural insights in insurance and pensions supervision
+Dashboard on insurance protection gap for natural catastrophes
+Q&A on regulation
+See all
+Document Library
+Corporate documents
+Guidelines
+Letters
+Opinions
+Protocols, decisions and memoranda
+Reports and research
+Supervisory statements
+Technical standards
+Documents disclosed through public access to documents
+Occasional research papers
+See all
+Media
+News
+Events
+Speeches & Presentations
+Interviews & contributions
+Feature articles
+Image gallery
+Factsheets and infographics
+Videos and explainer films
+Newsletter
+Invite us to speak
+Media Contact
+See all
+Home
+Digital Operational Resilience Act (DORA)
+Digital Operational Resilience Act (DORA)
+The
+Digital Operational Resilience Act (DORA)
+is a regulation introduced by the European Union to strengthen the digital resilience of financial entities. It entered into application on 17 Jan 2025 and ensures that banks, insurance companies, investment firms and other financial entities can withstand, respond to, and recover from ICT (Information and Communication Technology) disruptions, such as cyberattacks or system failures.
+DORA brings harmonisation to rules relating to operational resilience for the financial sector, applicable to 20 different types of financial entities and ICT third-party service providers.
+Page contents
+Page contents
+Why is DORA needed?
+The financial sector is increasingly dependent on technology and on tech companies to deliver financial services. This makes financial entities vulnerable to cyber-attacks or incidents.
+When not managed properly, ICT risks can lead to disruptions of financial services offered across borders. This in turn, can have an impact on other companies, sectors and even on the rest of the economy, which underlines the importance of the digital operational resilience of the financial sector.
+This is where the Digital Operational Resilience Act, or DORA, comes into play.
+What does DORA cover?
+ICT risk management
+Principles and requirements on ICT risk management framework
+ICT third-party risk management
+Monitoring third-party risk providers
+Key contractual provisions
+Digital operational resilience testing
+Basic and advanced testing
+ICT-related incidents
+General requirements
+Reporting of major ICT-related incidents to competent authorities
+Information sharing
+Exchange of information and intelligence on cyber threats
+Oversight of critical third-party providers
+Oversight framework for critical ICT third-party providers
+DORA legal provisions
+The DORA regulation is implemented on three levels.
+Level 1 - Regulation and amending Directive
+Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector
+Directive (EU) 2022/2556 of the European Parliament and of the Council of 14 December 2022 amending Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 and (EU) 2016/2341 as regards digital operational resilience for the financial sector
+Level 2 - Regulatory, implementing and delegated acts in the official journal
+RTS on ICT risk management framework
+RTS on ICT incidents classification
+RTS on ICT incidents reporting process
+ITS on ICT incidents reporting
+RTS on Threat Led Penetration Testing (TLPT)
+RTS on ICT third-party policy
+RTS on subcontracting
+ITS on Register of Information
+DR on CTPPs designation criteria
+DR on DORA oversight fees
+RTS on harmonisation of oversight conditions
+RTS on Joint Examination Team (JET)
+Level 3 - Guidelines
+Guidelines on oversight cooperation
+Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents
+Reporting of the register of information:
+ESAs Decision the reporting by competent authorities to the ESAs of information necessary for the designation of critical ICT third-party service providers
+Reporting tools
+Opinions:
+EIOPA Opinion on the scope of DORA in light of the review of the Solvency II framework
+Q&As on DORA:
+look for
+previously answered questions on DORA
+ask a question in relation to the application of DORA
+Other resources:
+ESAs Report on the feasibility for further centralisation of reporting of major ICT-related incidents under DORA
+ESAs public statement on DORA application
+Establishing the EU's systemic cyber incident coordination framework (EU-SCICF)
+ESAs' report on the landscape of ICT third-party providers in the EU
+Commission’s rejection letter of the ITS on register of information
+ESAs' response to the Commission's rejection of ITS on registers of information
+ESAs' response to the Commission's rejection of RTS on subcontracting
+Roadmap for CTPPs designation
+Oversight
+DORA establishes an EU-wide oversight framework for critical ICT third-party providers (CTPPs) to ensure that the financial sector remains secure and resilient against ICT disruptions.
+The oversight framework helps to address potential systemic and concentration risks arising from the financial sector's reliance on a limited number of ICT providers.
+Learn more
+Declarations of interest
+Members, alternates and observers of the DORA Oversight Forum (OF) are subject to the Ethics Rules for non-staff members of the ESAs and shall declare any interest as defined in Article 1(2) in relation to entities defined in Article 3(23) of DORA.
+15 DECEMBER 2025
+Overview of Declarations of Interests of the OF
+English
+(31.96 KB - XLSX)
+Download
+European Insurance and Occupational Pensions Authority
+Contact us
+Contact information
+Ask a regulatory question
+Organise a visit at EIOPA
+Media inquiries
+Complaints
+Follow us
+Linkedin
+YouTube
+About us
+Whistleblowing
+Cookies
+Legal notice
+Subscribe to our newsletter
+Related links
+Extranet Access Portal
+EBA
+ESMA
+ESRB
+CEIOPS Archive

@@ -1,0 +1,254 @@
+Provisional request to the European Supervisory Authorities (ESAs) for technical
+advice on two delegated acts specifying further criteria for critical ICT third-
+party service providers (CTPPs) and determining fees levied on such providers
+With this provisional mandate, the Commission seeks ESAs' technical advice on two delegated
+acts based on empowerments established in the Regulation on Digital Operational Resilience
+for the Financial Sector (the "Regulation"). The delegated acts would be adopted in accordance
+with Article 290 of the Treaty on the Functioning of the European Union (TFEU).
+The present mandate is provisional as the Regulation has not yet entered into force. The
+European Parliament and the Council have adopted the Regulation and accompanying Directive
+on 10 and 28 November 2022, respectively. The acts are expected to be published in December
+2022 and enter into force in January 2023.
+The Commission reserves the right to revise and/or supplement this mandate. The technical
+advice received on the basis of this mandate should not prejudge the Commission's final
+decision.
+The mandate follows the Regulation - Article 31(6) and Article 43(2) - the Communication
+from the Commission to the European Parliament and the Council - Implementation of Article
+290 of the Treaty on the Functioning of the European Union1 (the "290 Communication"), the
+Interinstitutional Agreement between the European Parliament, the Council of the European
+Union and the European Commission on Better Law-Making2 and the Framework Agreement
+on Relations between the European Parliament and the European Commission3 (the
+"Framework Agreement").
+According to Article 31(6) of the Regulation and with regard to the criteria the ESAs must take
+into account when determining the critical nature of ICT third-party service providers, the
+Commission shall adopt a delegated act to further specify these criteria. In addition, according
+to Article 43(2) of the Regulation and with regard to the fees levied on CTPPs, the Commission
+shall adopt a delegated act to determine the amount of the fees and the way in which they are
+to be paid.
+***
+The European Parliament and the Council shall be duly informed about this mandate.
+1 COM/2022/230 final
+2 OJ L 123, 12.5.2016, p. 1–14
+3 OJ L 304, 20.11.2010, p. 47–62
+1
+In accordance with the Declaration 39 on Article 290 TFEU, annexed to the Final Act of the
+Intergovernmental Conference which adopted the Treaty of Lisbon, signed on 13 December
+2007, and in accordance with the established practice within the European Securities
+Committee, the Commission will continue, as appropriate, to consult experts appointed by the
+Member States in the preparation of possible delegated acts in the financial services area.
+In accordance with point 15 of the Framework Agreement, the Commission will provide full
+information and documentation on its meetings with experts appointed by the Member States
+within the framework of its work on the preparation and implementation of Union legislation,
+including soft law and delegated acts. Upon request by the Parliament, the Commission may
+also invite Parliament's experts to attend those meetings.
+The Commission is empowered to adopt delegated acts pursuant to Article 31 and Article 43 of
+the DORA Regulation. As soon as the Commission adopts a possible delegated act, the
+Commission will notify it simultaneously to the European Parliament and the Council.
+1. Context
+1.1. Scope
+As part of the 2020 Digital Finance package, the Commission put forward a legislative proposal
+for a Regulation on the Digital Operational resilience of the Financial Sector (DORA)
+accompanied by a Directive. The Council and the European Parliament reached on 10 May
+2022 a political agreement, later formally endorsed by the two co-legislators on 29 June 2022
+and 13 July 2022, respectively. The final adoption took place on 10 November 2022 and on 28
+November by the European Parliament and the Council, respectively. Publication in the Official
+Journal of the EU is expected for December 2022. The texts will enter into force on the
+twentieth day following their publication.
+The Regulation will create a comprehensive framework addressing various, core components
+of the digital operational resilience of financial entities. It will enhance the overall conduct of
+ICT risk management, establish testing rules for ICT systems, increase financial supervisors’
+awareness of cyber risks through an EU harmonized incident reporting scheme and introduce
+Union oversight to oversee financial entities’ dependency on ICT third-party service providers.
+The overall objective is to strengthen and align the digital operational resilience across the
+different Union financial areas.
+To address potential systemic and concentration risks posed by the financial sectors’ reliance
+on a small number of ICT third-party service providers, the Regulation introduces a Union
+oversight framework for providers deemed critical. As Lead Overseers, each of the three
+European Supervisory Authorities (EBA, ESMA and EIOPA) will have the power to monitor
+on pan-European scale the activity of CTPPs in the context of the ICT services they provide to
+the financial sector.
+2
+In accordance with Article 31 of the Regulation, an ICT third-party service provider that is
+considered critical to the stability and integrity of the Union financial system, will be designated
+by the ESAs (through the Joint Committee) as a CTPP. In assessing criticality, the ESAs, upon
+recommendation from the Oversight Forum, will take into account a set of criteria set out in the
+Regulation. These criteria need to be further specified by a Commission delegated act.
+In accordance with Article 43 of the Regulation, the Lead Overseers will charge fees to ICT
+third-party service providers designated as critical, and those fees shall cover all the expenditure
+incurred by the Lead Overseers in relation to the conduct of oversight tasks. The Lead Overseers
+will charge fees based on a Regulation on fees to be adopted by the Commission through a
+delegated act.
+This provisional mandate addresses certain technical aspects of the upcoming Regulations on
+fees and the designation criteria.
+More specifically, in relation to the delegated act on fees, the current mandate addresses some
+of the elements which are needed in the specification of the amount itself, as well as the way
+and method(s) in which such fees are to be paid. In providing their advice, the ESAs could draw
+on relevant experiences from both national supervisors and ESMA (when setting supervisory
+fees for financial institutions).
+In relation to the delegated act on specifying designation criteria, the current mandate addresses
+the need for further details aimed at shaping-up the designation criteria. The input sought here
+refers to several specific sets of indicators of a qualitative and quantitative nature, for each of
+the criteria, minimum thresholds triggering such indicators (if applicable in the case of
+qualitative indicators), and, more extensively, background information deemed relevant by the
+ESAs to help in the build-up of indicators.
+1.2. Principles that the ESAs should take into account
+On the working approach, the ESAs are invited to take into account the following principles:
+- The principle of proportionality; the technical advice should avoid excessive financial,
+administrative or procedural burdens for CTPPs.
+- The rule-of-law principle, which requires the respect of appropriate rights of defence for
+entities subject to ESAs’ oversight.
+3
+- In accordance with the ESAs Regulation4, the ESAs should not be confined in their
+reflections to elements that they consider should be addressed by the delegated acts itself
+but, if appropriate, may also indicate the need for any further guidelines and
+recommendations that accompany the delegated acts to ensure effectiveness or clarity.
+- The ESAs shall determine their own working methods depending on the content of the
+provisions being dealt with. Nevertheless, across the board questions should be dealt
+consistently with standards of work being carried out by expert groups.
+The ESAs should ensure cross-sectoral consistency, and, where relevant, cooperate with
+the European Systemic Risk Board on issues related to systemic cyber risk.
+- In accordance with the ESAs Regulation, the ESAs are invited to widely consult market
+participants, in an open and transparent manner, and take into account the resulting
+opinions in their advice. The ESAs should design this open consultation in a manner
+and approach they consider proportionate, appropriate and effective given the timeline
+of this advice. The ESAs should provide a detailed feedback statement on the
+consultation, specifying when consultations took place, as well as the main arguments
+for and against the issues raised. This feedback statement should be annexed to the
+technical advice. The technical advice should justify ESAs’ choices vis-à-vis the main
+arguments raised during the consultation process.
+- The ESAs are invited to justify their advice by providing a quantitative and qualitative
+cost-benefit analysis of all the options which they have considered and those which they
+have finally proposed in the advice. The ESAs should provide the Commission with a
+description of the problem, the objectives of the technical advice, options for
+consideration and a comparison of the main arguments for and against considered
+options. The cost-benefit analysis, that should be proportionate to the timeline of this
+advice, should justify ESAs’ choices vis-à-vis the main considered options.
+- The ESAs’ technical advice should not take the form of a legal text. However, they
+should provide the Commission with a clear and structured ("articulated") text,
+accompanied by sufficient and detailed explanations. Furthermore, the technical advice
+should be presented in an easily understandable language respecting current
+terminology in the Union.
+4 The European Banking Authority (‘EBA’) established by Regulation (EU) No 1093/2010, the European
+Securities and Markets Authority (‘ESMA’) established by Regulation (EU) No 1095/2010, and the
+European Investment and Occupational Pensions Authority (‘EIOPA’) established by Regulation (EU)
+No 1094/2010.
+4
+- The ESAs should provide a comprehensive technical analysis on the subject matters
+described in section 3 below, where these are covered by the delegated powers included
+in:
+ the relevant provisions of the Regulation;
+ the corresponding recitals, or;
+ the relevant Commission's request included in this mandate.
+- The ESAs should address to the Commission any question to clarify the text of the
+Regulation that the ESAs consider of relevance to the preparation of its technical advice.
+2. Procedure
+The Commission is requesting ESAs’ technical advice in view of the preparation of two
+delegated acts to be adopted pursuant to the Regulation and in particular regarding the questions
+referred to in section 3 of this mandate. The mandate considers the Regulation (Article 31 and
+Article 43), the ESAs Regulation, the 290 Communication, the Framework Agreement and the
+ESAs’ Financial Regulation.
+The Commission reserves the right to revise and/or supplement this mandate. The technical
+advice received based on this mandate will not prejudge the Commission's final decision.
+In accordance with established practice, the Commission may continue to consult experts
+appointed by the Member States in the preparation of delegated acts relating to the Regulation.
+The Commission shall duly inform the European Parliament and the Council about this
+mandate. As soon as the Commission adopts the delegated acts, it will notify it simultaneously
+to the European Parliament and the Council.
+3. The ESAs are invited to provide technical advice on the following issues
+Article 43(2) of the Regulation requires the Commission to adopt one delegated act to further
+specify the amount of the fees levied on CTPPs and the way in which they are to be paid by the
+latter, and a delegated act to further specify the criteria to be considered by the ESAs when
+assessing the critical nature of ICT third-party service providers.
+3.1. Specifying the amount of fees
+Article 43(1) of the Regulation specifies that the fees collected from CTPPs shall cover the
+necessary expenditure in relation to the conduct of oversight tasks, including the costs which
+may be incurred because of the work carried out by the joint examination teams, and the cost
+of advice provided by independent experts in relation to matters falling under the remit of direct
+oversight activities. The fees charged to CTPPs shall be proportionate to the turnover of the
+CTPPs concerned.
+5
+The ESAs are invited to provide technical advice to assist the Commission in formulating
+elements needed for the Commission to enact a delegated act on fees for CTPPs, and more
+specifically on the following aspects:
+- The ESAs are invited to detail their assessment of the estimated costs they will incur
+as Lead Overseers for the oversight tasks and the work of the joint examination teams,
+as well as the estimated cost of advice provided by the independent experts in relation
+to matters falling under the remit of direct oversight activities. The ESAs should provide
+information on their estimates and on methods of calculation, including how the
+expenditure necessary for the performance of their tasks in relation to CTPPs should be
+distributed to the individual overseen CTPP. The ESAs should advise on how the
+surpluses/deficits in the overall oversight budget should be managed, and whether fees
+should be yearly adjustable or fixed.
+- The ESAs are invited to detail their assessment of the estimated costs they will incur for
+the assessment of the opt-in requests sent by ICT third party service providers to be
+designated as CTPPs based on article 31(11). The ESAs should provide information on
+their estimates and on methods of calculation, and if such fees should be yearly updated
+or fixed.
+- The ESAs should suggest the timing and appropriate modalities of the payment of
+the fees by the CTPPs or opt-in applicants. The ESAs are invited to advise on
+appropriate schedules for collection of fees.
+- According to Article 43(1) of the Regulation, the amount of a fee charged to a CTPP
+shall be proportionate to the turnover of the CTPP concerned. The ESAs are invited
+to provide technical advice on the appropriate method, basis and available information
+for considering the turnover of the CTPP in fee calculation.
+3.2. Specifying the criteria for assessing criticality
+The ESAs are also invited to provide technical advice to assist the Commission in formulating
+elements needed for the Commission to enact a delegated act specifying further the criteria to
+be considered by the ESAs, upon recommendation of the Oversight Forum, when assessing the
+critical nature of ICT third-party service providers, including in case of voluntary opt-in request
+from an ICT third-party service provider based on Article 31 (11). These criteria set out in
+Article 31(2) of the Regulation are the following:
+- The systemic impact on the stability, continuity or quality of the provision of financial
+services in the event that a CTPP would face a large-scale operational failure to provide
+its services, taking into account the number of financial entities and the total value of
+assets of financial entities to which the CTPP provides services.
+- The systemic character or importance of the financial entities that rely on a CTPP, by
+taking into account (i) the number of global systemically important institutions (G–SIIs)
+6
+or other systemically important institutions (O–SIIs) that rely on the CTPP, and (ii) the
+interdependence between the G–SIIs or O–SIIs and other financial entities, including
+situations where the G–SIIs or O–SIIs provide financial infrastructure services to other
+financial entities.
+- The reliance of financial entities on the services provided by a CTPP, in relation to
+critical or important functions of financial entities that ultimately involve the same ICT
+third–party service provider, irrespective of whether financial entities rely on those
+services directly or indirectly, through subcontracting arrangements.
+- The degree of substitutability of a CTPP, by taking into account (i) the lack of real
+alternatives, even partial, and (ii) difficulties in relation to partially or fully migrating
+the relevant data and workloads from the CTPP to another ICT third–party service
+provider.
+The ESAs are invited to specify the relevant indicators of a qualitative and quantitative nature
+for each of the criteria of the Regulation mentioned above. This exercise would allow the
+criteria themselves to be applied, in concrete, to facilitate the designation. The ESAs are also
+invited to convey to the Commission any information necessary to build up and (if needed) to
+correctly read / interpret such indicators.
+The Commission services thus seek technical input on precise, detailed and complete sets of
+indicators of a qualitative and quantitative nature, for each of the relevant DORA criteria. The
+advice should also consider minimum threshold(s) (if applicable in the case of qualitative
+indicators) which would need to be considered for designation subject to a further qualitative
+assessment and, more extensively, background information deemed relevant by the ESAs to
+help in the actual build-up and interpretation of such indicators.
+The Commission services recall the importance of both the accuracy and completeness of these
+elements. To be able to carry out the assessment leading to the concrete designation process,
+the ESAs need to have at their disposal all relevant information and clarity of the parameters
+themselves.
+The ESAs are invited to reflect on the frequency of reviewing the respective delegated acts to
+reflect related developments.
+4. Indicative timeline
+This mandate takes into consideration the time that the ESAs need in preparing their technical
+advice and the timeline for the Commission to adopt delegated acts according to Article 290 of
+the TFEU.
+The power of the Commission to adopt these two delegated acts is granted by Articles 31 and
+Article 43 of the Regulation. The European Parliament and the Council may object to a
+delegated act within a period of three months, extendible by three further months. The delegated
+7
+act will only enter into force if neither the European Parliament nor the Council has objected
+(on expiry of that period) or if both institutions have informed the Commission of their intention
+not to raise objections.
+The Regulation requires the Commission to adopt these two delegated acts within twelve
+months from its entry into force.
+For the Regulation to be fully operational and the ESAs to initiate their oversight activities, it
+is of the outmost importance to start working on the matter as soon as possible. The deadline
+set to the ESAs to deliver the technical advice is 30 September 2023.
+8
+Electronically signed on 21/12/2022 15:42 (UTC+01) in accordance with Article 11 of Commission Decision (EU) 2021/2121

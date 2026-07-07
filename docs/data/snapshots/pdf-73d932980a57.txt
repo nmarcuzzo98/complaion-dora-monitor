@@ -1,0 +1,258 @@
+JC 2024 75
+15 October 2024
+Opinion of the European Supervisory Authorities
+On the Draft Implementing Technical Standards regarding the standard templates for the
+purposes of the register of information in relation to all contractual arrangements on the use
+of ICT services provided by ICT third-party service providers under Article 28(9) of Regulation
+(EU) 2022/2554
+Introduction and legal basis
+1. Article 28(9) of Regulation (EU) 2022/2554 on digital operational resilience for the financial sector
+(DORA)1, mandates the European Supervisory Authorities (ESAs) to develop draft implementing
+technical standards to establish the standard templates for the purposes of the register of
+information referred to in Article 28(3) of DORA. On 17 January 2024, the ESAs submitted the above-
+mentioned draft Implementing Technical Standards to the European Commission.
+2. The register of information is to be maintained and updated by financial entities as part of their ICT
+risk management framework and shall contain information on all contractual arrangements on the use
+of ICT services provided by ICT third-party service providers. As set out in Recital (65) and Article 31 of
+DORA, the register of information has three main objectives, namely (1) strengthening the financial
+entities’ management of ICT risks stemming from third-parties; (2) enabling the supervision of these
+risks by the relevant competent authorities; and (3) being the key source of information upon which
+the ESAs will designate certain ICT third-party service providers as critical2.
+3. On 03 September 2024, the European Commission, acting in accordance with the procedure set out
+in the fourth subparagraph of Article 15(1) of the ESAs Regulations, notified the ESAs that it rejects
+the ITS on the basis of the envisaged mandatory use of the LEI to identify ICT third-party service
+providers under Article 3(5) and (6) of the draft ITS3. The European Commission considered that it is
+necessary to give the choice to financial entities to identify their EU-registered ICT third-party service
+providers via the use of the LEI or the European Unique Identifier (EUID), as for the majority of EU-
+registered companies this EU identifier is already attributed to the relevant legal entity free of
+1 Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital
+operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012,
+(EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022 p. 1-79)
+2 As stipulated in Article 31(10) of DORA and in Article 6 of Commission Delegating Regulation (EU) 2024/1502 of
+22 February 2024.
+3 See letter to the Chair of the ESAs Joint Committee
+(https://finance.ec.europa.eu/document/download/d7f731c6-39a7-42e5-bd4b-
+f28434b7d51d_en?filename=240723-letter-esma-dora-register-information_en.pdf)
+1
+charge in accordance with Article 16 of the codified Company Law Directive (EU) 2017/11324. The
+European Commission has not changed the approach to the use of the identifiers for financial entities
+and for their ICT third-party service providers that are registered in third countries, allowing in both
+cases to use only the LEI as proposed by the ESAs.
+4. Pursuant to Article 15(4) of the ESAs Regulation, the ESAs prepared this Opinion on the proposed
+amendments to the draft ITS by the European Commission. In addition, the ESAs also suggest some
+other minor changes to the draft ITS based on the feedback received from the ‘dry run’ exercise the
+ESAs carried out during 2024 to support the industry in the preparation for submission of the registers
+of information and to test the reporting process.
+5. This opinion was prepared jointly by the ESAs and adopted by the three Board of Supervisors on 11
+October 2024. The Opinion will be published on the websites of the ESAs.
+General comments and proposals
+6. The use of the LEI is rooted in the process of achieving international convergence for the
+identification of legal entities participating in financial markets and related activities, which started
+in 2012. At that time, as a response to the collapse of Lehman Brothers and the financial crisis, the
+G20 endorsed the recommendations of the Financial Stability Board (FSB) regarding the framework
+for developing a global legal entity identifier (LEI) system for parties to financial transactions5. Since
+its introduction, the LEI has been adopted by nearly three million entities across more than 200
+countries, while the need for an LEI has been recognised by a range of parties across the world,
+including the European Commission6 and the US7.
+7. The EU has significantly contributed to the adoption of the LEI for both financial and non-financial
+entities involved in the financial sector, especially following the adoption of Union regulations in
+different sectors8. This has increased the authorities’ ability to evaluate systemic and developing
+risks and adopt remedial measures. In particular, the clear identification of contractual parties in a
+network of global financial contracts processed electronically at a very high-speed permits
+authorities to make use of existing technologies for analysing interconnectedness, identifying
+4 Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company
+law (codification), OJ L 169, 30.6.2017, p. 46–127 (ELI of current consolidated version ELI:
+http://data.europa.eu/eli/dir/2017/1132/2022-08-12)
+5 See G20 Leaders declaration, Los Cabos, available on the G20 website (https://www.fsb.org/wp-
+content/uploads/g20_leaders_declaration_los_cabos_2012.pdf ).
+6 For example, Michel Barnier, European Commissioner for Internal Market and Services, in addressing the Europe Financial
+Forum in February 2011, stated: “We must also work together on a common system to identify the market participants. It is an
+area where the USA have already given their input, but which requires global standards.”.
+7 The US authorities have recently taken additional steps to ensure further adoption of the LEI in the context of the application
+the 2022 Financial Data Transparency Act (See notice on proposed rulemaking published on 22nd August 2024, available here:
+https://www.occ.treas.gov/news-issuances/bulletins/2024/bulletin-2024-24.html).
+8 Such as Regulation (EU) No 648/2012 (EMIR), Regulation (EU) No 600/2014 (MiFIR), Regulation (EU) 2015/2365 (SFTR),
+Implementing Regulation (EU) 2021/451 (supervisory reporting in banking), see GLEIF for a comprehensive overview of the EU
+legal acts prescribing the use of LEI (https://www.gleif.org/en/lei-solutions/regulatory-use-of-the-lei).
+2
+potential chains of contagion and monitoring market integrity. The LEI has also become critical for
+connecting existing datasets of granular information on entities from multiple sources9.
+8. The LEI is already established for reporting in the financial sector for several years, considering its
+limited cost for ICT third-party service providers, and following the key international principles for
+data aggregation, standardisation, minimisation integration between various types of reporting and
+also contributes to the reduction of the overall costs associated with the reporting10. To this end, the
+ESAs considered that the mandatory use of the LEI for the identification of both financial entities and
+their (EU and non-EU) ICT third-party service providers in the register of information would bring
+efficiencies for both the industry and supervisors and achieve international convergence in the area
+of global cyber security and operational resilience. The ESAs suggested this approach in the final
+report on the draft ITS on the registers of information which was put for public consultation to
+stakeholders and authorities. The ESAs did not find alternatives that could meet the requirements for
+an identifier capable of achieving the above-mentioned objectives. In addition, many types11 of
+financial entities within the scope of DORA are already familiar with, use and obtain LEIs for non-
+financial entities in the area of supervisory reporting.
+9. Whilst the ESAs take note of the arguments of the European Commission, they see the changes as
+impactful for the implementation of DORA by financial entities, competent authorities and the ESAs
+also leading to potential increase of the overall reporting burden for financial entities. Although the
+EUID is available to obtain free of charge to all European companies12, the introduction of the EUID
+as identifier for the ICT third-party service providers within the registers of information would require
+previously not planned implementation and maintenance efforts and costs for the financial entities
+due to the changes in the register templates and the need to collect and provide additional
+information considering also the limitations on the access to and verification of the respective
+information by the financial entities and competent authorities.
+10. In particular, for financial entities, the introduction of EUID will bring additional and, so far, not
+planned implementation and maintenance efforts related to (1) introduce changes and additional
+data fields to their registers of information being currently developed, (2) collection and maintenance
+of additional data that are not easily available and must be manually collected on a one-by-one basis,
+(3) use of different standards identifying legal entities in different frameworks and for different
+aspects, (4) the management of likely resubmissions of the registers of information to their
+9 Extract from ESRB recommendation on identifying legal entities. Full document available here: Recommendation of the
+European Systemic Risk Board on identifying legal entities (ESRB/2020/12) (europa.eu)
+10 See the findings of the 2021 EBA Study of the cost of compliance with supervisory reporting requirements
+(EBA/Rep/2021/15) available here: https://www.eba.europa.eu/cost-compliance-supervisory-reporting
+11 Credit institutions, payment institutions, electronic money institutions, insurance and reinsurance undertakings, institutions
+for occupational retirement provision, investment firms, central securities depositories, central counterparties, trading venues,
+trade repositories, managers of alternative investment funds, management companies, data reporting service providers, credit
+rating agencies, administrators of critical benchmarks, securitisation repositories.
+12 LEI is offered on a cost-recovery basis at Ca 50 EUR par ICT third-party provider.
+3
+competent authorities following the data quality feedback from the competent authorities or the
+ESAs in case of errors when using the two identifiers.
+11. The introduction of the EUID would also require additional implementation efforts from the
+competent authorities related to the need to establish new processes for additional data quality
+checks for the registers of information reported to them and the lack of automated access via the
+Business Register Interconnection System (BRIS) to the reference data needed to verify the
+information that will be available only to the ESAs13.
+12. Furthermore, financial entities, competent authorities and the ESAs will lose the benefit of existing
+synergies with other financial and prudential reporting, requiring them additional efforts to ensure
+consistency with standards used for master data in other reporting frameworks and to carry out data
+quality checks.
+13. Annex 1 to this Opinion provides more details on the use of identifiers in financial reporting and
+elaborates on the impacts from the introduction of the EUID into the ITS on registers of information
+and the designation of critical ICT third-party service providers.
+14. Given the above considerations, the ESAs have concerns regarding the European Commission’s
+proposed approach to accommodate both the LEI and the EUID as alternative identifiers for the ICT
+third-party service providers in the register of information; thus the ESAs call for maintaining simplicity
+and efficiency in using the LEI as a common identifier. However, should the European Commission
+proceed with its proposal and introduce the EUID alongside the LEI in the final ITS, additional changes
+to the text of the ITS and data fields will be necessary for the operationalisation of the use of the EUID,
+including for the purposes of designation of the critical ICT third-party service providers. In particular,
+the ESAs suggest introducing three new fields, namely ‘Name of the ICT third-party service provider in
+Latin alphabet’, ‘Additional identification code of ICT third-party service provider’ and the ‘Type of the
+additional identification code’, to existing fields in the Annex to the ITS (see Annex 2 and 3 to this
+Opinion). Furthermore, the ESAs suggest to clarify the proposed framework of co-existence of two
+identifiers by giving priority to using LEI in the cases where both identifiers are available to the financial
+entity.
+Other technical and editorial amendments
+15. In addition to the changes related to the technical implementation of the European Commission
+proposal to incorporate the EUID as an alternative identifier to the LEI for ICT third-party service
+providers established in the EU, the ESAs would also propose additional relevant changes to the draft
+ITS (see Annex 2 and 3 to this Opinion), which aim to:
+a. ensure as much consistency as possible in data modelling and reporting already in place for
+some of the types of financial entities under DORA, which also fall under the sectoral
+13 European e-Justice Portal - Business registers at European level (europa.eu)
+4
+prudential regulation (prudential reporting). These changes would allow for greater
+consistency among the different types of existing sectoral reporting frameworks and thus
+would reduce the implementation efforts for the respective types of financial entities;
+b. reflect the practical feedback received from financial entities participating in the voluntary
+dry run exercise on reporting of registers of information the ESAs have carried out. These
+changes are mostly focused on the reporting instructions, with the view to improving their
+understanding by the financial entities through additional clarifications or simplifications;
+c. reinstating important provisions clarifying some requirements. In particular, Recital 7 has
+been amended with a new drafting to avoid misinterpretation of the initial meaning.
+5
+Annexes
+Annex 1. Additional consideration on the use of identifiers and impact of
+EUID on the registers of information and the designation of critical ICT
+third-party service providers
+16. Regarding the register of information referred to in this Opinion, competent authorities and the ESAs
+need to aggregate and compare information about the financial entities’ ICT third-party service
+providers. The objective is to assess financial entities’ dependency on, and interconnectedness with,
+ICT third-party service providers and to determine whether the latter are critical and should be placed
+under the ESAs’ oversight. This requires a single unique identifier for those ICT third-party service
+providers. Since the designation of the critical ICT third-party service providers is to be performed at
+group level14, the ESAs need a single identifier that allows to map whether a legal entity belongs to a
+group and to obtain insights on the group structure.
+17. Such identifiers should meet the common criteria developed by the international community for
+robust identification systems to ensure data comparability and aggregation for the monitoring of
+financial markets (see table below). These criteria have been consulted with global market
+stakeholders, agreed upon by financial regulators, and made public by the Committee on Payment
+and Settlement Systems, the International Organisation of Securities Commissions (CPMI-IOSCO)15
+and the Financial Stability Board (FSB)16 to guide the development of robust data standards. These
+criteria were also used by the ESAs to assess the most appropriate identifiers to be used in other
+technical standards on supervisory reporting and data. To ensure consistency and comparability of
+data, the same criteria should be considered for assessing the appropriate identifiers to be used in
+the context of this draft ITS.
+Criteria for the use of identifiers
+Unique identifier should be assigned to a given legal entity, and should never be reused even
+if the entity operates in several jurisdictions using different names
+Neutral identifier should have a format consisting of a single data field and entity
+characteristics should be viewed as separate elements within a reference data
+system available to authorities
+Reliable issuance and maintenance of the identifier, including storage and maintenance of all
+associated data, should involve robust quality assurance practices and system
+safeguard
+14 Article 31(3) of DORA
+15 Section 5.2.1 of CPMI-IOSCO Report on OTC derivatives data reporting and aggregation requirements - final report (bis.org)
+16 Annex 3 of FSB report on FSB LEI Report not embargoed Jun2012
+6
+Open source identifier and its reference data should have an open standard, to ensure that the
+identifier is compatible with existing automated systems of market participants and
+authorities
+Scalable identifier should be part of a system that is capable to cover all existing and potential
+future legal entities of all types that may be involved in financial markets17
+Accessible identifier and its reference data should be publicly available in a common language,
+while accommodating local jurisdictional differences and should be easily usable for
+the intended regulatory purpose
+Available at the funding system should be based on an efficient non-profit cost-recovery model
+reasonable costs
+Subject to an identifier system should be managed in a way that ensures that authorities can use
+appropriate the identifier to fulfil their responsibilities while avoiding monopoly rents to the
+governance provider of the identifier
+framework
+18. While the LEI meets the above-mentioned criteria, at present, the ESAs have not identified any
+alternative identifiers that would equally meet all of them. Importantly, through the use of LEIs,
+financial entities, competent authorities and the ESAs can validate the data against a golden copy
+provided by the Global Legal Entity Identifier Foundation (GLEIF) in a downloadable and machine-
+readable manner, with a known reference date, thus ensuring an automated access to a single
+source of truth for data quality checks. The use of the LEI is aimed at ensuring the highest quality of
+the data included in the register of information, which is particularly important for reporting
+purposes.
+19. On the other hand, the EUID was developed according to ISO 6523 to identify companies and
+branches for the purpose of exchanging information among national registers via BRIS established
+under Article 22 of the Codified Company Law Directive (EU) 2017/1132 and managed by the
+European Commission itself (DG JUST). The EUID is not part of the data typically handled by financial
+entities, it does not contain the same level of information as the LEI (e.g. on the group structure) and
+it does not allow the same data validation possibilities as the LEI for all actors in the reporting chain.
+20. In addition, the introduction of the EUID as identifier for ICT third-party service providers within the
+register of information would require implementation and maintenance efforts by the financial
+entities, as well as competent authorities and the ESAs. As BRIS is not a central database of
+standardised information, it has significant limitations on the access to data contained in the national
+business registers. In particular, financial entities would need to collect and incorporate EUID into
+their registers of information and, where relevant, make changes to the underlying IT systems leading
+17 These include parties of financial transactions, may be involved in any aspect of the financial issuance and transactions
+process, or may be subject to required due diligence by financial sector entities
+7
+to an implementation effort currently not foreseen by them. Moreover, financial entities would incur
+additional operational burden for performing EUID verification checks, due to the manual one-by-
+one checks against BRIS required in order to verify the identity of ICT third-party service providers, or
+requests for resubmissions from competent authorities or the ESAs due to data quality issues.
+21. The introduction of the EUID would also result in additional administrative and resource burden to
+competent authorities who will be required to carry out data quality checks of the registers before
+using them for their supervisory tasks related to ICT risks and third-party risk management and prior
+to providing the registers to the ESAs.
+22. Therefore, for all the above reasons, the EUID does not yet fully meet the above-mentioned criteria.
+23. Finally, the introduction of the EUID would introduce complexity for the ESAs to assess the criticality
+of ICT third-party service providers due to the need to reconcile information based on two identifiers.
+It would require additional implementation efforts to create an interface between the IT tool and
+BRIS to validate the EUIDs provided for EU ICT third-party service providers. Unlike the LEI reference
+data, EUID reference data cannot be downloaded from BRIS on a daily basis for the full set of entities
+present in BRIS. This means that the data at the ESAs’ disposal will not be up-to-date. This will also
+increase the cost and duration of the implementation of the ESAs’ IT tool for collecting the registers
+of information, thus mismatching with the estimations set out in the DORA’s legislative financial
+statement.
+Annex 2. ESAs proposals for further changes to the ITS on Registers of
+Information
+Annex 3. ESAs proposals for further changes to the Annex of the ITS on
+Registers of Information
+8

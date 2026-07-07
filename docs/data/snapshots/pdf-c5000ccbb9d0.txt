@@ -1,0 +1,245 @@
+ESA 2023 22
+19 09 2023
+ESAs Report on the landscape of ICT
+third-party providers in the EU
+Overview of the high-level exercise
+0
+Contents
+1. Executive Summary 2
+2. Introduction 3
+3. Landscape of ICT third-party providers 4
+4. Overview of ICT services 5
+5. Conclusion 8
+1
+1. Executive Summary
+1. The European Supervisory Authorities (ESAs), together with the competent authorities (CAs),
+in 2022 carried out a joint high-level analysis with the objective of getting a preliminary
+overview of the provision of information and communication technology (ICT) services to the
+EU financial entities by ICT third-party service providers (TPPs). The analysis was performed to
+inform preparations for the application of the Digital Operational Resilience Act1 (DORA).
+2. The analysis was carried out on the basis of voluntary information provided on a best-effort
+basis by a sample of financial entities across the EU2 representing different parts of the
+financial sector and providing information on their use of services (and, where relevant, the
+use of services by other entities in their corporate group) from ICT TPPs. The sample was
+selected to ensure broad coverage, but its degree of statistical representativeness is unknown.
+3. The high-level results of this analysis provide a first overview of ICT TPPs across the financial
+sector, including the services they provide to financial entities in the sample. The ESAs
+identified around 15,000 ICT TPPs directly serving financial sector entities across the EU.
+4. According to the results, the frequently used ICT TPPs directly support many critical or
+important functions and provide a large range of services. Moreover, where financial entities
+use services to support critical or important functions, or where service continuity would have
+a high impact, most of such services are non-substitutable.
+5. In addition to the first mapping of the ICT TPP landscape in the EU, the analysis also offered
+valuable input to the ESAs policy making process. In particular, the experience of the data
+collection, its analysis and the actual data analysed have already been taken into account when
+drafting the discussion paper on the joint ESAs advice to the European Commission on two
+delegated acts specifying further criteria for critical ICT TPPs and determining oversight fees
+levied on such providers3 and the first batch of DORA consultation papers, in particular the ITS
+to establish the templates for the register of information4.
+1 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2554
+2 Sample included 30 countries across the EEA
+3 https://www.eba.europa.eu/esas-launch-discussion-criteria-critical-ict-third-party-service-providers-and-oversight-fees
+4 https://www.eba.europa.eu/esas-consult-first-batch-dora-policy-products
+2
+2. Introduction
+6. On 27 December 2022, Regulation (EU) 2022/2554 of the European Parliament and the Council
+of 14 December 2022 on DORA was published in the Official Journal of the European Union. It
+entered into force on 16 January 2023 and will apply from 17 January 2025.
+7. DORA will create a comprehensive framework addressing various core components of the
+digital operational resilience of financial entities, with the overall objective to strengthen and
+align the digital operational resilience across the different Union financial areas.
+8. With regard to ICT third-party risk management, financial entities will have to maintain, at
+entity, sub-consolidated and consolidated level, a register of information on all their
+contractual arrangements on the use of ICT services provided by ICT TPPs. The requirement to
+maintain a register will oblige financial entities to gather a certain amount of information
+about their contracts with the ICT TPPs and about the ICT TPPs themselves.
+9. In addition, to address potential systemic and concentration risks posed by the financial
+sector’s reliance on a small number of ICT TPPs, DORA introduces a Union oversight framework
+for the ICT TPPs deemed critical from the perspective of the EU financial sector.
+10. As part of the preparations for the application of DORA and the establishment of the oversight
+framework the ESAs have jointly conducted a high-level exercise identifying and mapping ICT
+TPPs, with a focus on concentration and substitutability of service provision. For this purpose,
+the ESAs designed a template to collect data from a sample of financial entities covering all
+ICT-related contractual arrangements. Following data collection and work to check and
+improve data quality, the ESAs analysed the data.
+11. The collection of ICT TPP data was the first of its kind, covering contractual arrangements for
+many types of entities across the financial sector. Lessons learned and insights from its design
+and performance may prove to be useful during DORA implementation. For instance, the
+exercise underlined the importance of ensuring that financial entities provide unique
+identifiers in the data submitted and the need to develop an appropriate ICT services
+taxonomy. It has also supported the preparation of future DORA tasks, including the
+development of the consultation paper on ITS to establish the templates for the register of
+information and the discussion paper on a delegated act specifying further criteria for critical
+ICT third-party service providers. However, the template used in the exercise cannot be
+considered equivalent to the tables proposed by the ESAs in the consultation paper dedicated
+to the register of information.5 Additionally, the analysis does not identify critical TPPs for
+DORA purposes.
+12. The sample of financial entities was selected to ensure coverage across entity types and across
+the EEA. However, the results cannot be extrapolated to the entire EU financial sector, as the
+5 https://www.eba.europa.eu/esas-consult-first-batch-dora-policy-products
+3
+degree of statistical representativeness of the sample is unknown (at national and EU level) in
+terms of ICT TPPs and ICT services.
+3. Landscape of ICT third-party providers
+13. The exercise identified around 15,000 ICT TPPs directly serving around 1600 EU financial
+entities included in the sample. These EU financial entities comprise not just signatories to a
+given contract with an ICT TPP, but all Entities Making use of the Contract (EMCs).6 When
+subcontractors are included, thereby capturing indirect exposure of the financial sector to ICT
+TPPs via chain outsourcing, the number of ICT TPPs increases to around 20,000. Among the ICT
+TPPs directly serving the entities, around 9,000 supported critical or important functions.7
+14. To gain further insight into the role of different ICT TPPs in the financial sector, the number of
+financial entities to which they provide a contracted service was examined. Based on the
+analysis a few ICT TPPs serve between 250 and 500 EMCs, beyond which the number of EMCs
+served declines gradually.
+15. The concentration risk posed by third-party provision of ICT services depends on the criticality
+of the services in question. However, in the sample studied, the top 20 ICT TPPs by the number
+of EMCs is similar whether or not attention is restricted solely to ‘critical services’, i.e. ICT
+services used by a financial entity to support a critical or important function.
+16. In general, whether a service is deemed critical or important depends on the judgement of the
+financial entity, informed by its standard risk management practices. In some cases, however,
+the function supported by the ICT service deemed critical or important seems unlikely to in
+fact be so. Such instances will be instructive for the ESAs when considering how different types
+of ICT services should map into an assessment of criticality.
+17. Article 31(2)(d)- of DORA links substitutability to the “lack of real alternatives” as well as the
+“difficulties in relation to […] migrating the relevant data and workloads from the relevant ICT
+third- party service provider to another ICT third-party service provider”. To analyse
+substitutability of the sampled entities, the ICT TPPs providing services both directly and
+indirectly (as subcontractors) were considered.
+18. Subcontracting may take place through long chains of service provision. However, given the
+available data and its quality, the analysis focuses on subcontractors at the first level only, i.e.
+those reported as serving the ICT TPP.
+6 In other words, to avoid potential ambiguity, the term ‘EMCs’ refers to all financial entities that have the right to use an ICT
+service provided by an ICT TPP under the terms of a given contract.
+7 Precise figures can only be estimated, as it was necessary to make assumptions when cleaning the data to identify different
+provider names in the data as referring to the same entity, or to entities in the same corporate group. Estimated totals were
+15,077 ICT TPPs directly serving entities, 19,986 ICT TPPs when subcontractors are included, and 8,783 providers supporting
+services deemed critical or important by reporting entities.
+4
+19. According to the data, around half of EMCs use a critical service that is not substitutable8.
+When considering only the frequently used ICT TPPs, the number of EMCs using a critical
+service that is not substitutable rises to around three-quarters. The results also seem to be
+very similar when the analysis includes subcontractors.
+4. Overview of ICT services
+20. According to the DORA definition, ‘ICT services’ means “digital and data services provided
+through the ICT systems to one or more internal or external users on an ongoing basis,
+including hardware as a service and hardware services which include the provision of technical
+support via software or firmware updates by the hardware provider, excluding traditional
+analogue telephone services”. The regulation does not provide any further breakdown of ICT
+services. However, for the purpose of the data collection and to facilitate the analysis, the
+following seven ICT service categories were used:
+• software and application services (IT development; off the shelf software packages,
+licensing, and installation thereof etc);
+• network infrastructure services (excluding telecommunication services);
+• data centre (physical data centre space and basic utilities);
+• ICT consultancy and managed ICT services;
+• information security and cybersecurity services (including control and monitoring,
+penetration testing, security operations centre, etc.);
+• cloud computing (covering all service models and types);
+• data analysis and other data services (provision of data, data entry, data storage, data
+processing and reporting services, data monitoring as well as data-based business and
+decision support services);
+21. An additional category, ‘other services’, was added to allow the financial entities to cover any
+other ICT services that are not adequately described by the seven identified categories. To
+keep the summary of results simple, this category is omitted from the analysis below.
+22. The results of the analysis suggest that two ICT TPPs appear to be among the frequently used
+for services across all categories. Others appear among the frequently used only in certain
+categories.
+23. Table 1 provides an overview of the number of contractual arrangements by each of these
+types of service, the number of ICT TPPs providing each type of service, and the number of
+EMCs using each type of service. Among ICT TPPs providing a given type of service, the
+8 Here, ‘critical service’ includes those services whose discontinuity would have a high impact as well as services assessed by
+entities as supporting a critical or important function.
+5
+proportion that do so critically (i.e. in support of critical or important functions) ranges from
+around a third of ICT TPPs providing consultancy and managed ICT services, to around two-
+thirds of ICT TPPs providing network infrastructure services. By contrast, among EMCs using
+any given type of service, a large majority (80% to 92%) do so critically. The difference in these
+shares indicates that there is a relatively concentrated group of ICT TPPs that provide critical
+services to most EMCs in the sample.
+24. Overall, in the sample used for this analysis, most arrangements include multiple types of ICT
+services. ‘Software and application services’ was mentioned by financial entities the most
+frequently in the contractual arrangements (30 138 out of the total of 56 313 arrangements
+reported) followed by ‘ICT consultancy & managed ICT services’, ‘cloud computing’ and ‘data
+analysis and other data services’). The ranking of services used is similar when considering the
+number of distinct ICT TPPs (see Table 1).
+TABLE 1. Overview of ICT services provided
+Contractual ICT TPPs providing the EMCs using the service
+arrangements service
+Service provided Total % of which Total % providing Total % using
+number critical number critically number critically
+Software and
+30 138 45% 9 055 40% 1 415 88%
+application services
+Network infrastructure
+4 869 67% 1 816 65% 1 066 92%
+services
+Data centre 3 694 70% 1 417 61% 968 92%
+ICT consultancy &
+13 560 49% 3 991 33% 1086 83%
+managed ICT services
+Information security &
+5 648 49% 2 050 47% 1018 86%
+cybersecurity
+Cloud computing 13 111 55% 3 539 37% 1114 85%
+Data analysis and other
+11 873 64% 3 181 50% 1143 80%
+data services
+Note: “% of which critical” refers to the percentage of contractual arrangements for a given service that support a critical or
+important function. “% providing critically” refers to the percentage of ICT TPPs providing a given service in support of at least
+one critical or important function. “% using critically” refers to the percentage of EMCs using a given service in support of at
+least one critical or important function.
+Source: Joint ESAs high-level exercise on ICT third-party providers' landscape. 2022 data collection with end of 2021 as the
+reference date.
+25. Table 2 below lists the 10 ICT TPPs with the most EMCs using at least one service critically.9
+Each percentage represents the share of these EMCs that use a given type of ICT service to
+support a critical or important function. Within the sample, some ICT TPPs provide critical
+services across the entire spectrum. Other service providers, in contrast, have most of their
+critical services concentrated in one or two categories.
+9 This metric is purely illustrative and does not determine whether an ICT TPP is critical according to DORA Article 31.
+6
+26. Taking the first ICT TPP listed in the Table 2 as an example: among the EMCs that use one or
+more of its services critically, 71% use its software and application services critically, while 68%
+use its cloud computing services critically. The other types of services are provided to between
+15% and 30% of those EMCs.
+27. For the remaining ICT TPPs in the Table 2, the share of EMCs receiving critical services is highest
+for certain types of services. For example, the second listed ICT TPP provides critical services
+mostly in software and application services (64% of EMCs using critical services), cloud
+computing (46%) and data analysis (46%). These shares are based solely on the number of
+EMCs, and do not take into account their size or systemic nature.
+TABLE 2. Share of EMCs using services for critical functions, top 10 ICT TPPs
+ICT Software Network Data ICT Information Cloud Data analysis
+TPP and infrastructure centre consultancy security & computing and other
+application services & managed cybersecurity data services
+services ICT services services
+#1 71% 17% 15% 15% 36% 68% 30%
+#2 64% 7% 23% 9% 1% 46% 46%
+#3 66% 13% 8% 6% 5% 13% 56%
+#4 85% 35% 35% 19% 10% 7% 35%
+#5 30% 32% 28% 10% 18% 92% 38%
+#6 30% 6% 6% 4% 4% 90% 26%
+#7 92% 1% 52% 56% 3% 87% 61%
+#8 45% 2% 7% 9% 2% 79% 24%
+#9 97% 0% 68% 0% 69% 88% 70%
+#10 48% 6% 9% 1% 2% 15% 62%
+Note: 'Top 10 ICT TPPs' are estimated on the basis of numbers of EMCs reported as using at least one service critically
+Source: Joint ESAs high-level exercise on ICT third-party providers' landscape. 2022 data collection with end of 2021 as the
+reference date.
+7
+5. Conclusion
+28. The ESAs identified around 15,000 ICT TPPs directly serving EU financial entities. Most ICT TPPs
+serve only a small number of EU financial entities, though some of these entities may play a
+significant role in the financial system. The most popular ICT TPPs also tend to provide services
+supporting the greatest number of critical or important financial functions, which suggests that
+the market is highly concentrated despite the high number of ICT TPPs identified and the
+number of ICT services provided. The ICT services supporting most of these critical or
+important financial functions are often non-substitutable, which exacerbates the concerns
+over the concentration risk in the sector. In addition, the results of this exercise indicate a
+potential high degree of interconnectedness and interdependencies between providers.
+29. The high-level exercise has informed the work of the ESAs in the preparation of the
+implementation of DORA. The results and the comments received of both the sampled
+financial entities and the involved stakeholders, continue to be considered in the preparation
+of the relevant DORA policy mandates, especially the register of information and the ESAs
+response to the European Commission call for advice to specify further the criteria referred to
+in Article 31(2) of DORA to be considered by the ESAs when assessing the critical nature of ICT
+third-party service providers.
+8

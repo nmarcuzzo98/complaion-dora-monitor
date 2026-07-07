@@ -1,0 +1,30 @@
+The Systemic Cyber Incident Coordination
+Framework: EU-SCICF
+#RESILIENCE #COORDINATION #FINANCE #SYSTEMIC
+What is EU-SCICF?
+The Systemic Cyber Incident Coordination Framework, also known as EU-SCICF, is set up to
+facilitate communication and coordination among EU authorities and to liaise with other key
+stakeholders at international level, in case of cyber incidents posing a risk to financial stability.
+What kind of incidents are covered by the EU-SCICF?
+Major cross-border information and communication technologies (ICT) related incidents or
+related cyber threats potentially having a systemic impact on the Union’s financial sector.
+What is the envisioned composition?
+National Authorities Supervisory Macroprudential Resolution
+European Bodies
+How does the EU-SCICF work?
+The participating members will be alerted and will share information on potential systemic
+cyber incidents or threats. When a systemic risk materialises, the EU-SCICF will serve as
+forum for relevant authorities to communicate and coordinate on any needed action and on
+the use of tools to counter the crisis from a macroprudential perspective.
+Set-up
+Organisation Non-crisis mode Crisis mode
+EU-SCICF Secretariat Awareness Sharing information
+Supportive tools Development Discussion on impact,
+response and tools
+Governance and Crisis mode testing and
+arrangements maintenance Identifying areas of alignment
+Relevant documents: Systemic cyber risk, Mitigating systemic cyber risk, Advancing macroprudential tools for
+cyber resilience, Recommendation on a pan-European systemic cyber incident coordination framework for
+relevant authorities.
+The set-up is subject to the outcome of the Report to be drafted by the European Commission based on the
+Recommendation.

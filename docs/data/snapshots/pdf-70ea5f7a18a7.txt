@@ -1,0 +1,475 @@
+Preparing for the DORA Oversight Framework:
+CTPP Designation and Next Steps
+Workshop with technology service providers - 14 May 2025
+Disclaimer:Theseslidesareprovidedfortheconvenienceofparticipantstotheworkshoponlyandaimtogivehigh-levelindicationsconcerningtheoversightframework
+forcriticalICT-thirdpartyserviceproviders.TheydonotintendtoreplaceorprovideacomprehensiveoverviewonDORAandrelateddelegatedandimplementingacts–
+forwhichyoushouldconsulttheOfficialJournaloftheEU–anddonotrepresentanyfinalviewsoftheESAs.Inparticular,theseslidesproducenolegaleffectsandthe
+ESAsacceptnoresponsibilityorliabilitywhatsoeverwithregardtotheinformationcontainedwithinthem
+How to interact with us today: rules of engagement
+• The workshop is organised in two parts:
+1. A presentation by the ESAs providing an overview of the DORA oversight framework with a focus on the 2025 timeline and the
+process to designate ICT third-party service providers as critical.
+2. AQ&A session.
+• To interact with us, you will have the possibility to submit your inputs by using the MS Teams’ Q&A extension:
+– All inputs are moderated. The moderator will not accept submissions from individuals with incomplete names or those
+containing offensive content, as well as inputs related to aspects of DORAnot covered during this event.
+– You will have the possibility to upvote inputs submitted by other participants.
+• The ESAs may:
+– during the workshop, reply to your inputs in writing directly using the MS Teams’Q&Aextension or
+– during the Q&Asession, ask the person who submitted inputs to raise his/her hand by using the “” button and take the floor
+to present his/her input.
+• Please keep your intervention to max. 2 minutes to allow others to share their views. Always indicate your name and organisation.
+• Due to time constraints, we kindly ask for your understanding that not all contributors will have the opportunity to make an oral
+intervention.
+• Please refrain from raising your hand unless your name is called, as it will not be effective. Thank you for your cooperation.
+2
+Agenda
+Opening speech by Petra Hielkema, chairperson EIOPA 10:00 – 10:15
+Overview of the DORA oversight mandate 10:15 – 10:45
+Overview of oversight activities 10:45 – 11:00
+ESAs target operating model 11:00 – 11:15
+Designation of critical ICT third-party service providers and first year of oversight 11:15 – 11:45
+Overview of ESAs high-level expectations 11:45 – 12:00
+Questions and Answers 12:00 – 13:00
+3
+The Digital Operational Resilience Act (DORA)
+• DORAis applicable to all European Financial Entities from 17 Jan 2025.
+• Context: DORAestablishes a comprehensive framework for digital operational resilience for financial entities (FEs) in the EU. This is
+to address (i) dependencyof the financial sector on technology companies and (ii) cyber risks and other vulnerabilitiesof FEs.
+• DORAharmonises the rules concerning ICT risk management and resilience for 20+ different types of financial entities (FEs)
+DDOORRAA
+4
+II.. IICCTT rriisskk IIII.. IICCTT--rreellaatteedd IIIIII.. DDiiggiittaall IIVV.. IICCTT VV.. IInnffoorrmmaattiioonn
+mmaannaaggeemmeenntt iinncciiddeennttss ooppeerraattiioonnaall TThhiirrdd--ppaarrttyy rriisskk SShhaarriinngg
+rreessiilliieennccee tteessttiinngg mmaannaaggeemmeenntt
+ Principles and  General  Basic testing  Management of  Exchange of
+requirements requirements  Advanced testing ICT third-party information
+on ICT risk  Classification & risk by FEs
+and
+management reporting of major
+intelligence on
+Focus of
+framework ICT incidents and  Oversight
+cyber threats
+cyber threats today’s framework for
+critical ICT
+workshop
+TPPs
+4
+Rationale of the DORA oversight framework
+• Reliance on ICT third-party providers (TPPs) has been constantly rising in the financial
+sector, and it has become essential for the provisioning of financial services.
+– An ECB assessment on ICT outsourcing showed and increase of 2.1% of banks ICT outsourcing budget
+between 2023 and 2024.
+– There is a growing trend toward the concentration of ICT services and capabilities among a limited
+number of TPPs, either as direct service providers or subcontractors. For example, more than 30% of
+the ICT budgets of significant banks are allocated to just 10 providers.
+– In case of disruption in the services posed by the most critical ICT providers, the entire financial sector
+may suffer crisis that could hamper public trust and generate financial stability risks.
+• DORA entrusts the three ESAs (EBA, EIOPA, ESMA) to oversee at Union level the most
+critical TPPs for the Financial Entities (FEs) => the CTPPs.
+– Previous regulatory framework (i.e. pre-DORA) did not provide supervisors with adequate tools to
+quantify, qualify and redress the consequences of ICT risk occurring at CTPPs.
+5
+Scope of the DORA oversight mandate
+• In scope: Designated CTPPs providing ICT services supporting critical or important functions
+of European Union FEs in accordance with Article 31 of DORA and the Commission Delegated
+Regulation on the criticality assessment.
+• Out of scope: ICT TPPs already subject to EU-wide oversight frameworks in relation to Article
+127 TFEU tasks (e.g. SWIFT, Euroclear, TARGET2, and other systemic important payment
+systems); FEs providing ICT services to other FEs; ICT intra-group service providers; ICT TPPs
+active in one member state only.
+6
+Objectives of the DORA oversight mandate
+• DORA equips the ESAs with tools to monitor the activities and the risks that CTPPs may pose to
+the financial sector. To do so, the ESAs will assess whether CTPPs have in place comprehensive, sound
+and effective rules, procedures, mechanisms and arrangements to manage those risks.
+• The conduct of oversight activities contributes to: (i) promote convergence and efficiency in relation
+to supervisory approaches when addressing ICT third-party risk in the financial sector, and (ii)
+strengthen the resilience of FEs relying on CTPPs for the provision of ICT services.
+• Oversight activities aim at preserving the Union’s financial system stability and the integrity of the
+internal market for financial services.
+• Operationally, the objectives of the oversight framework are to:
+– provide an assurance that CTPPs manage their risks effectively while continuing to support financial
+entities with secure and resilient services;
+– prevent the disruption of services, notably through attention to dependencies, concentration and
+systemic risks, which could endanger the stability, continuity or quality of financial services in the EU.
+7
+The interplay between DORA oversight and the supervision of
+financial entities’ ICT risks by competent authorities
+• DORA oversight framework complements financial supervisors’ (Competent Authorities – CAs)
+supervision of ICT risks.
+• The framework is based on a cooperative model between CAs and the ESAs.
+8
+DORA oversight framework governance
+• Existing forum for coordination of the three ESAs,
+Joint Committee -JC including for designation and decisions concerning
+CTPPs
+• Report to the Co-legislators on ESAs’ oversight activities
+Oversight Forum –OF • JC’s Sub-Committee for DORA oversight
+• ESAs’ chairs and EDs • Draft joint positions and common acts for the 3 ESAs
+• 1 representative of one CA of each MS (plus • Recommends TPPs to be designated as critical
+observers from other CAs where appropriate)
+• Provide a yearly assessment of the oversight activities
+• 1 observer from EU COM, ECB, ESRB, ENISA
+• 1 observer from the NIS2 CAs supervising CTPPs • Promotes a consistent approach for the monitoring of
+ICT TPP risk, foster coordination for greater resilience
+of FEs, reduce concentration and cross-sectors risks.
+• Prepare JC yearly report to European authorities.
+Joint Oversight Network -JON
+• ESAs EDs, Joint Director of Oversight and ESAs HoDs • Monitors and steers the oversight work
+Lead Overseers • ECB and ENISA can be invited as observers for technical advice
+• Ensure consistent approach in oversight activities
+• Coordination of oversight strategies and work
+methodologies across ESAs
+Joint Examination
+Joint Examination
+Joint Examination
+conduct the oversight of Teams -JJoEiTnst Examination
+Teams -JJoEiTnst JEoxianmt Einxaatmioinn ation
+the assigned critical ICT Teams -JETs • JETs carry out oversight tasks (general investigations,
+Teams -JETs
+third-party service TeamTse -aJmETss -JETs inspections, others)
+providers • ESAs staff
+• Staff of DORA CAs
+supervising FEs or where
+CTPPs are established (VB)
+• NIS2 CAs (voluntary basis VB)
+9
+Agenda
+Opening speech by Petra Hielkema, chairperson EIOPA 10:00 – 10:15
+Overview of the DORA oversight mandate 10:15 – 10:45
+Overview of oversight activities 10:45 – 11:00
+ESAs target operating model 11:00 – 11:15
+Designation of critical ICT third-party service providers and first year of oversight 11:15 – 11:45
+Overview of ESAs high-level expectations 11:45 – 12:00
+Questions and Answers 12:00 – 13:00
+10
+DORA Oversight activities
+11
+Annual designation of CTPPs
+1. Data Collection for the purposes of designation
+2. Criticality assessment
+3. (C)TPP notification
+Designation
+Process (Art.
+4. Designation of CTPPs
+31 of DORA,
+Commission
+Delegated 5. Appointment of a Lead Overseer (LO)
+Regulation (EU)
+2024/1502 and
+Possibility for other TPPs to request to be designated as critical (“opt-in”)
+RTS on
+oversight
+conduct)
+12
+Annual risk assessment & planning
+The ESAs are developing a risk-based and proportionate Oversight Risk Assessment Process (ORAP) to:
+– Identify the CTPP risk profile based on an assessment of the CTPP-specific and transversal risks, and the
+controls in place;
+Risk
+Assessment – Determine the oversight priorities and the level of oversight intensity
+Main source of information for the risk assessment are the past year’s examination activities, but other
+sources may also be used (outcome of FEs’ supervision, incident reports, information from CTPPs)
+On the basis of the results of the risk assessment, the ESAs will:
+– Adopt a clear, detailed and reasoned individual oversight plan describing the annual oversight
+objectives/priorities, the oversight activities planned for each CTPP and the envisaged timeline.
+Oversight
+The draft annual oversight plan is to be communicated to the CTPP.
+planning
+– Prepare and update annually a multi-annual strategic oversight plan for all CTPPs.
+13
+Examinations and ongoing regular monitoring
+Examinations are organized in accordance with the oversight plan
+The aim is to ensure that each CTPP has appropriate and effective mechanisms and procedures in
+place for managing the risks it poses to FEs
+Examination tools – general investigations, onsite inspections, ongoing regular monitoring. These can be of
+Examinations
+different levels of intensity.
+• Ongoing regular
+Main risk areas of focus – general risk and technology-related risks
+monitoring
+• Requests for
+Information (RfIs) 1. Ongoing monitoring
+(review of periodic information, ongoing interactions, emerging issues)
+• General
+Investigations
+2. Requests for information 3. General investigations 4. On-site inspections
+• On-site Inspections
+(clarify a particular situation) (horizontal or targeted reviews (on-site review for
+and
+into particular risk areas) further intrusiveness)
+• Reports on Remedial
+Plans • Simple request • Thematic (horizontal) investigation • Detailed assessment
+(Article 35, 37-39 of
+• Request by Decision • Targeted investigation • Site review
+DORA and RTS on
+oversight conduct) • Follow-up on remediation plans • Tests of data/solutions
+14
+Focus: Recommendations and follow up
+1. Recommendations
+• Based on outcome of oversight examinations (e.g. on security/quality
+issues, subcontracting, terms & conditions for use of ICT services)
+• Communicated to the CTPP
+Recommendations
+• CTPPs expected to formally notify the overseers on their intention to
+and Follow-ups
+follow the recommendations
+• The overseers issue
+recommendations
+linked to specific
+2. Follow-up
+findings from the
+examinations. • CTPP accepts or objects (with reasoning) recommendation within 60
+• Follow-ups are days
+performed by
+• Possible public disclosure if the CTPP does not notify the LO or provides
+overseers and CAs.
+insufficient reasoning
+• CAs inform FEs using the CTPP of the risks, and take supervisory actions
+• ESAs may issue non-binding and non-public opinions to CAs where the
+CTPP refuse to endorse the recommendation and poses risks
+15
+Agenda
+Opening speech by Petra Hielkema, chairperson EIOPA 10:00 – 10:15
+Overview of the DORA oversight mandate 10:15 – 10:45
+Overview of oversight activities 10:45 – 11:00
+ESAs target operating model 11:00 – 11:15
+Designation of critical ICT third-party service providers and first year of oversight 11:15 – 11:45
+Overview of ESAs high-level expectations 11:45 – 12:00
+Questions and Answers 12:00 – 13:00
+16
+ESAs organisation – Target Operating Model
+IIlllluussttrraattiivvee
+ESAs Target 3 ESAs staff operate under ‘one DORA Oversight team’ led
+DORA Joint
+Operating by a Joint Oversight Director
+Oversight Director
+Model (TOM)
+Sectorial neutral approach – same risks Unit 1 Unit 2 Unit 3
+Clear and stable organisation (efficiency, capacity build up,
+JET JET JET
+culture)
+Matrix model: JETs are grouped in ESAs units, organised
+JET JET JET
+along the technology domains
+JET JET JET
+Specialisation of JETs based on CTPPs’ ICT services (e.g.
+cloud, hardware, consulting, data services) – relevant skills
+required
+… … …
+Partnership and strong collaboration with CAs (through JET
+and governance structures participation)
+17
+ESAs organisation – the joint examination teams
+• The JETs conduct operationally all oversight tasks (off-site and on-site activities) and are the teams interacting on an ongoing
+basis with the CTPPs.
+• The JET is established by DORA Article 40 “When conducting oversight activities [..] the LO shall be assisted by a JET established for
+each critical ICT third-party service provider. […] The JET shall work under the coordination of a designated LO staff member (the ‘LO
+coordinator’)”
+• The JET works as a single team and every staff member part of the JET works under the coordination of the ESAs.
+• The JET is composed by staff members with expertise in ICT matters nominated, according to criteria concerning their skills, by
+the following authorities:
+– The ESAs;
+– The CAs supervising FEs making use of the ICT services provided by CTPPs;
+– On a voluntary basis, the CA where the CTPP is established;
+– On a voluntary basis, the competent authority designated or established in accordance with NIS 2 responsible for the
+supervision of the CTPP.
+18
+Agenda
+Opening speech by Petra Hielkema, chairperson EIOPA 10:00 – 10:15
+Overview of the DORA oversight mandate 10:15 – 10:45
+Overview of oversight activities 10:45 – 11:00
+ESAs target operating model 11:00 – 11:15
+Designation of critical ICT third-party service providers and first year of oversight 11:15 – 11:45
+Overview of ESAs high-level expectations 11:45 – 12:00
+Questions and Answers 12:00 – 13:00
+19
+First year of the CTPPs oversight – envisaged roadmap
+PREPARATION EXECUTION OF OVERSIGHT TASKS
+First designation and engagements with
+Preparation JETs kick off and full engagement with CTPPs
+CTPPs (oversight kick-off)
+Q1/2025 Q2/2025 Q3/2025 Q4/2025 Q1/2026 Q2/2026 Q3/2026 Q4/2026
+Jan Feb Mar Apr May June July Aug Sep Oct Nov Dec Jan Feb Mar Apr May June July Aug Sep Oct Nov Dec
+2025 2025 2025 2025 2025 2025 2025 2025 2025 2025 2025 2025 2026 2026 2026 2026 2026 2026 2026 2026 2026 2026 2026 2026
+Establishment of the DORA
+OVS structures (OF, JON)
+Methodologies & procedures
+IT tools: CTPP designation Oversight collaboration
+EExxppeecctteedd ppaayymmeenntt ooff EExxppeecctteedd ppaayymmeenntt ooff
+ffeeeess ffoorr ‘‘2255 ttoo EESSAAss ffeeeess ffoorr ‘‘2266 ttoo EESSAAss
+Pre-engagement with TPPs Engagement potential CTPPs
+CTPPs designation
+CTPPs direct engagement
+DORA Direct Oversight is fully operational: risk
+66--wweeeekk ppeerriioodd
+assessment & planning, examinations, recommendations &
+ffoorr CCTTPPPP’’ss
+follow-up
+rreeaassoonneedd Establishment
+ssttaatteemmeenntt of the JETs
+20
+CTPPs designation: Process overview
+CTPP designation process CTPP designation milestones in 2025
+1. Data Collection for the purposes of designation
+• FEssubmittheirRegisterofInformation(RoIs)toCAs Collection of •April –May
+(including
+• CAssubmittheRoIstotheESAs data
+resubmissions)
+2. Criticality assessment
+• Criticality assessment ran based on DORA and EC Delegated Regulation
+criteria Criticality
+•June-July
+assessment
+3. (C)TPP notification
+• TPPsinformedabout outcomeoftheassessment
+• 6-weekperiod forTPPspossibility tosubmita“reasoned statement”
+Notification
+of potential •July
+4. Designation of CTPPs
+CTPPs
+• Assessment ofinformationfromCTPPs
+• BoSs decisionondesignation ofeachCTPP(followingrecommendation byOF)
+• FinallistofCTPPspublished 6 weeks
+•August –early
+reasoned
+5. Appointment of a Lead Overseer (LO) September
+statement
+• Appointment LO – done bythe BoS based on the FEs having the largest share
+oftotalassetsamongstthetotalvalueofassetsofallCTPP’sclients
+Possibility for other TPPs to request to be designated as critical Final •October -
+designation November
+(“opt-in”)
+• TPPs not designated as critical request to be designated providing the
+informationasrequired intheRTSonoversightconduct.
+21
+CTPPs designation: Data collection and data preparation
+• As part of the data collection and the data preparation, the ESAs perform the following tasks:
+• Provide data quality feedback to the submitting CAs on individual file basis  this requires
+interaction of the CAs with the FEs to resolve the issues
+• Process the resubmissions from the CAs of the RoIs with data quality issues (several
+rounds are possible until the data freezing)
+• Prepare the data for the analysis, including resolving duplicate records and grouping of the
+ICT TPPs, where relevant, in accordance with their legal groups  According to Article
+31(3) of DORA, the criticality assessment is performed at the level of the groups of ICT
+TPPs, where those belong to groups
+22
+CTPPs designation: Criticality Assessment overview
+According to Article 31 of DORA, the criticality assessment is based on four broad criteria:
+a) the systemic impact on the stability, continuity or quality of the provision of financial services in the event
+that the relevant ICT TPP would face a large-scale operational failure to provide its services;
+b) the systemic character or importance of the FEs that rely on the relevant ICT TPP;
+c) the reliance of FEs on the services provided by the relevant ICT TPP in relation to critical or important
+functions of FEs that ultimately involve the same ICT TPP; and
+d) the degree of substitutability of the ICT TPP.
+The four L1 criteria are assessed using 11 sub-criteria following a two-steps process as mandated by the EC Delegated
+Regulation on criticality assessment. (elaborated on next slide)
+23
+CTPPs designation: criticality assessment
+SStteepp 11 QQuuaannttiittaattiivvee ((aauuttoommaattiicc)) aasssseessssmmeenntt ooff ssiixx ccrriittiiccaalliittyy ssuubb--ccrriitteerriiaa
+Sub-criterion 1.1 Sub-criterion 1.2 Sub-criterion 2.1 Sub-criterion 2.2 Sub-criterion 4.1 Sub-criterion 4.2
+TPP provides ICT TPP provides ICT TPP provides ICT TPP provides ICT services No alternative TPP Highly complex /
+services to 10% or more services to 10% or more services to at least 1 G- to at least 1 central identified by 10% or difficult to migrate ICT
+of FEs (based on number of FEs (based on total SIIor atleast 3 O-SIIsor securities depository, moreof the FEs (based TPP identified by 10% or
+of FEs and by categories assets of FEs and by at least 1 O-SII with an O- central counterparty, on share of total number moreof FEs (based on
+of FEs) which support categories of FEs) which SII score above 3,000. trading venue or trade and by categories of share of total number
+critical and important support C&I functions repositoryor to at least 3 FEs) for ICT services and by FEs categories)
+(C&I) functions FEsidentified as supporting C&I functions when these support C&I
+’systemic’ by CAs*
+functions
+ TPPs fulfilling Step 1 (excluding entities outside the scope of DORA oversight) will be evaluated considering Step 2 indicators
+SStteepp 22 QQuuaalliittaattiivvee ((eexxppeerrtt gguuiiddeedd)) aasssseessssmmeenntt ooffffiivvee aaddddiittiioonnaall ssuubb--ccrriitteerriiaa
+Sub-criterion 1.3 Sub-criterion 2.3 Sub-criterion 3.1 Sub-criterion 4.3 Sub-criterion 1.4
+Intensity of the impact of Interdependence between G- Level of criticality of ICT (Article 5(5) of EC Delegated Dependence of CTPPs on the
+discontinuing the ICT services SIIs or O-SIIs and other FEs services provided to financial Regulation) same subcontractors
+provided by the ICT third- using ICT services provided entities by the TPP Level of substitutability of ICT providing ICT services to FEs
+party service provider on the by the same TPP services offered by the TPP supporting C&I functions
+activities and operations of
+financial entities
+ TPPs fulfilling Step 1 and 2 will be part of the list of potential CTPPs
+24
+CTPPs designation: Reasoned statement & the ESAs decision
+on CTPPs designation
+After the criticality assessment is completed and the ESAs have identified potential CTPPs, the following process will start:
+– By End of July 2025, potential CTPPs will receive individual letters from the ESAs notifying about the outcome of the
+assessment
+– From the date of notification, the ICT TPPs will have 6 weeks where they may submit to the ESAs a reasoned statement on
+the assessment leading to the designation in case of object with their designation
+– The ESAs will consider the reasoned statement and may request additional information to be submitted within 30
+calendar days of the receipt of such statement
+– In October-November 2025 the ESAs will prepare their decision regarding the CTPP designation and send them
+individually to each CTPP
+– When all individual decision letters are submitted to CTPPs, the ESAs will publish the list of CTPPs on their website
+– Once the list is published, the ESAs will start their interactions with the CTPPs with the first objective to develop a
+comprehensive understanding of the business model and the risks of the CTPPs
+25
+Oversight fees: first year (2025)
+• The DORA oversight activities of the ESAs and the CAs involved are funded by CTPPs’ fees (full costs).
+• For the first calendar year (2025), the oversight fees will be equally split among the CTPPs, based on the following
+calculation:
+𝑡𝑜𝑡𝑎𝑙 𝑒𝑠𝑡𝑖𝑚𝑎𝑡𝑒𝑑 𝑜𝑣𝑒𝑟𝑠𝑖𝑔ℎ𝑡 𝑐𝑜𝑠𝑡𝑠
+𝐹𝑖𝑟𝑠𝑡 𝑦𝑒𝑎𝑟 𝑜𝑣𝑒𝑟𝑠𝑖𝑔ℎ𝑡 𝑓𝑒𝑒𝑠 =
+𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑑𝑒𝑠𝑖𝑔𝑛𝑎𝑡𝑒𝑑 𝐶𝑇𝑃𝑃𝑠
+• Then, for the following years, the oversight fees paid by the CTPPs already designated in the previous years will be
+calculated this way:
+• In case TPPs not included in the list of CTPPs published by the ESAs submit a request to be designated as critical (only once the list of
+CTPPs is published), they will be subject to a non-refundable opt-in fee of EUR 50,000. In case they would be designated as CTPPs
+at the end of the analysis (not before 2026), they would then pay an oversight fee considering a time coefficient.
+26
+Agenda
+Opening speech by Petra Hielkema, chairperson EIOPA 10:00 – 10:15
+Overview of the DORA oversight mandate 10:15 – 10:45
+Overview of oversight activities 10:45 – 11:00
+ESAs target operating model 11:00 – 11:15
+Designation of critical ICT third-party service providers and first year of oversight 11:15 – 11:45
+Overview of high-level expectations 11:45 – 12:00
+Questions and Answers 12:00 – 13:00
+27
+Principles for a constructive oversight engagement
+Open engagement channels Foster constructive dialogue Build trust
+The ESAs are committed to conduct oversight activities transparently and constructively, fostering trust among
+CTPPs, financial entities, Competent Authorities, and stakeholders across the EU financial ecosystem. They are taking
+the protection of the security of CTPPs data at the heart of their practice.
+28
+Initiating proactive engagement with providers
+Engage with
+various
+Identify key Understand
+functions,
+points of providers’
+including
+contact of organisation
+regulatory,
+providers and governance
+engineering and
+security teams
+• Know Point of Contact • Group’s structure and • Roles and responsibilities
+responsible/team, role and governance for the different services
+responsibility • Roles and responsibilities and functions
+• CTPP’s presence in the EU, for the engineering,
+establishment of a operations, provision of
+subsidiary services to FEs in Europe
+29
+Expectations regarding the CTPPs establishment in the EU
+• Ongoing dialogue and coordination. ESAs to establish a continuous dialogue with CTPPs, which need to be properly organised to
+deal with the expected multiple requests coming from the assigned joint examination teams.
+• Legal entity requirements. DORA introduces specific requirements for EU and non-EU CTPPs regarding the establishment of legal
+persons and subsidiaries as contact points for the ESAs.
+• Coordination through an EU-subsidiary. The ESAs expect that both EU and non-EU CTPPs identify an EU-subsidiary within their
+group to coordinate the oversight activities across the group (EU or non-EU entities). The subsidiary should have:
+• Access to information. The capacity to provide the ESAs with information on the services provided to EU FEs
+• Operational and technical resources. the authority, the technical capacity, the relevant equipment, business premises and
+financial resources to pull any type of relevant information and staff to address the request of the ESAs;
+• Financial resources. A structure to provide financial data for the calculation of the oversight fees; access to financial resources for
+fee payment and any applicable periodic penalty payment.
+• Skilled and senior employees. Enough skilled employees able to engage with the ESAs (at different level of seniority) both during
+examinations and in the follow up of recommendations;
+• Empowered management. Senior leadership with authority to commit the CTPP in relation to the oversight activities and to which
+escalation can be made;
+• Onsite examination readiness. ability to cooperate with the JETs for on-site inspection including having sufficient office spaces to
+welcome JET for onsite inspections.
+30
+Questions / Discussion
+31

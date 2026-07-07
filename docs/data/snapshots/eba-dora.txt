@@ -1,0 +1,185 @@
+Digital Operational Resilience Act | European Banking Authority
+Skip to main content
+Menu
+Extranet
+Log in
+About us
+Back
+About us
+The EBA is an independent EU Authority.  We play a key role in safeguarding the integrity and robustness of the EU banking sector to support financial stability in the EU.
+Learn more
+Mission, values and tasks
+Organisation and governance
+Governance structure and decision making
+EBA within the EU institutional framework
+Internal organisation
+Accountability
+Legal and policy framework
+EBA regulation and institutional framework
+Compliance with EBA regulatory products
+Sustainable EBA
+Diversity and inclusion
+Careers
+Meet our team
+Vacancies
+Budget
+Procurement
+Activities
+Back
+Activities
+To contribute to the stability and effectiveness of the European financial system, the EBA develops harmonised rules for financial institutions, promotes convergence of supervisory practices, monitors, and advises on the impact of financial innovation and the transition to sustainable finance.
+Start here
+Single Rulebook
+Simplification and efficiency
+Implementing Basel III in Europe
+Supervisory convergence
+Supervisory convergence
+Supervisory disclosure
+Peer Reviews
+Mediation
+Breach of Union Law
+Colleges
+Training
+Direct supervision and oversight
+Markets in Crypto-assets
+Digital operational resilience Act
+Validation of pro forma-initial margin models
+Information for consumers
+National competent authorities for consumer protection
+How to complain
+Personal finance at the EU level
+Warnings
+Financial education
+National registers and national authorities responsible for handling complaints related to credit servicers
+Frauds and scams
+Research Workshops
+Ad hoc activities
+Our response to Covid-19
+Brexit
+Risk and data analysis
+Back
+Risk and data analysis
+To ensure the orderly functioning and stability of the financial system in the European Union, we monitor and analyse risks and vulnerabilities relevant for the regulation of banks and investment firms. We also facilitate information sharing among authorities and institutions through supervisory reporting and data disclosure.
+Learn more
+European Data Access Portal (EDAP)
+Risk analysis
+EU-wide stress testing
+EU wide transparency exercise
+Risk monitoring
+Thematic analysis
+Remuneration and diversity analysis
+Pillar 3 data hub
+Access to P3DH
+Reporting
+Reporting frameworks
+Reporting Time Traveller
+DPM data dictionary
+Integrated reporting
+Joint Bank Reporting Committee (JBRC)
+Data
+Registers and other list of institutions
+Guides on data
+Aggregate statistical data
+Secondary reporting: data from Competent Authorities to the EBA
+Data analytics tools
+Publications and media
+Back
+Publications and media
+Communicating to all our audiences in the most effective way and using the most appropriate channels is crucial for us. Through our publications, announcements, and participation in external events, we are committed to reaching out to all our stakeholders to report about our policies, activities, and initiatives.
+Learn more
+Publications
+Guidelines
+Regulatory Technical Standards
+Implementing Technical Standards
+Reports
+Consultation papers
+Opinions
+Decisions
+Staff papers
+Annual reports
+Press releases
+Speeches
+Interviews
+Events
+Media centre
+Factsheets
+Media gallery
+Media resources
+Breadcrumb
+Home
+Activities
+Back to Activities
+Research Workshops
+Single Rulebook
+Implementing Basel III in Europe
+Supervisory convergence
+Information for consumers
+Ad hoc activities
+Direct supervision and oversight
+Markets in Crypto-assets
+Digital operational resilience Act
+Validation of pro forma-initial margin models
+Digital operational resilience Act
+DORA oversight
+Preparations for reporting of DORA registers of information
+Digital Operational Resilience Act
+The Digital Operational Resilience Act (DORA) (Regulation 2023/2554) establishes a comprehensive framework on digital operational resilience for EU financial entities. While all financial sector entities will be subject to DORA, ICT third-party providers who provide ICT services to financial entities and are identified as critical (critical third-party providers - CTPPs), will be subject to an EU oversight framework. The DORA oversight framework assigns to the three European Supervisory Authorities - ESAs (i.e. European Banking Authority – EBA , European Securities and Markets Authority - ESMA, European Insurance and Occupational Pension Authority - EIOPA) the role of Lead Overseer, to ensure that CTPPs are adequately monitored on a Pan-European scale, for the risks that they may pose to EU financial sector.
+As part of the oversight activities, the EBA, as well the other ESAs designated as Lead Overseer, may request information to CTPPs, conduct off-site investigation and onsite inspection, impose penalties and issue recommendations to CTPPs.  The DORA oversight framework also benefits from the cooperation with ENISA (European Network and Information Security Agency); and with other EU competent authorities, which can support the Lead Overseer in the conduct of oversight activities and are responsible follow-up on the recommendations of the Lead Overseer with the financial entities they supervise.
+Regulatory products and reports under the DORA mandate
+In order to provide greater clarity on the supervisory expectations towards the application of DORA and on the timeline for the first designation of the Critical Third-Party ICT service Providers (CTPPs) in 2025, the ESAs published in December 2024 a
+public statement
+.
+Links and Documents
+Operational resilience
+Status of implementation of DORA
+Regulatory Technical Standards on ICT risk management framework and on simplified ICT risk management framework
+Regulatory Technical Standards on criteria for the classification of ICT-related incidents
+Implementing Technical Standards to establish the templates for the register of information
+Regulatory Technical Standards on the policy on ICT services supporting critical or important functions provided by ICT third-party service providers
+Joint Regulatory Technical Standards on the harmonisation of conditions enabling the conduct of the oversight activities
+Joint Regulatory Technical Standards on subcontracting ICT services supporting critical or important functions
+Joint Technical Standards on major incident reporting
+Joint Regulatory Technical Standards specifying elements related to threat led penetration tests
+Discussion paper on two delegated acts specifying further criteria for critical ICT third-party service providers (CTPPs) and determining oversight fees levied on such providers
+ESAs Report on the landscape of ICT third-party providers in the EU
+ESAs Public Statement on DORA application
+DORA oversight
+The Digital Operational Resilience Act (DORA) establishes an EU-wide oversight framework for critical ICT (information and communication technology) third-party providers (CTPPs) to ensure that the financial sector remains secure and resilient against ICT disruptions.
+Under DORA, the European Supervisory Authorities (EBA, EIOPA and ESMA) are responsible for designating third-party providers as critical and acting as their Lead Overseers, coordinating oversight actions across the Union.
+Find out more
+Preparation for DORA application
+The European Supervisory Authorities (ESAs) are currently preparing for the application of the Digital Operational Resilience Act (DORA), by focusing on policy implementation, setting up the oversight framework over critical third-party providers and related operational activities.
+Find out more
+Footer
+EUROPEAN BANKING AUTHORITY
+Our mission is to contribute to the stability and effectiveness of the European financial system through simple, consistent, transparent, fair regulation and supervision that benefits all EU citizens.
+An agency of the EU
+EU Agencies Network
+Sustainable EBA
+Contact us
+Contacts
+Ask a general question
+Send a press query
+Ask a regulatory question
+Request access to documents
+File a complaint
+Whistleblower reports
+Stay up to date with our work
+Subscribe to our email alerts
+News & press RSS feed
+Follow us on Social media
+Bluesky
+LinkedIn
+X
+YouTube
+Find out about us
+The EBA at a glance
+Privacy policy
+Legal notice
+Cookies policy
+Frauds and scams
+Explore related sites
+EIOPA
+ESMA
+ESRB
+CEBS archive

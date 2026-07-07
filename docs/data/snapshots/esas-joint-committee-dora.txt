@@ -1,0 +1,294 @@
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA) | European Banking Authority
+Skip to main content
+Menu
+Extranet
+Log in
+About us
+Back
+About us
+The EBA is an independent EU Authority.  We play a key role in safeguarding the integrity and robustness of the EU banking sector to support financial stability in the EU.
+Learn more
+Mission, values and tasks
+Organisation and governance
+Governance structure and decision making
+EBA within the EU institutional framework
+Internal organisation
+Accountability
+Legal and policy framework
+EBA regulation and institutional framework
+Compliance with EBA regulatory products
+Sustainable EBA
+Diversity and inclusion
+Careers
+Meet our team
+Vacancies
+Budget
+Procurement
+Activities
+Back
+Activities
+To contribute to the stability and effectiveness of the European financial system, the EBA develops harmonised rules for financial institutions, promotes convergence of supervisory practices, monitors, and advises on the impact of financial innovation and the transition to sustainable finance.
+Start here
+Single Rulebook
+Simplification and efficiency
+Implementing Basel III in Europe
+Supervisory convergence
+Supervisory convergence
+Supervisory disclosure
+Peer Reviews
+Mediation
+Breach of Union Law
+Colleges
+Training
+Direct supervision and oversight
+Markets in Crypto-assets
+Digital operational resilience Act
+Validation of pro forma-initial margin models
+Information for consumers
+National competent authorities for consumer protection
+How to complain
+Personal finance at the EU level
+Warnings
+Financial education
+National registers and national authorities responsible for handling complaints related to credit servicers
+Frauds and scams
+Research Workshops
+Ad hoc activities
+Our response to Covid-19
+Brexit
+Risk and data analysis
+Back
+Risk and data analysis
+To ensure the orderly functioning and stability of the financial system in the European Union, we monitor and analyse risks and vulnerabilities relevant for the regulation of banks and investment firms. We also facilitate information sharing among authorities and institutions through supervisory reporting and data disclosure.
+Learn more
+European Data Access Portal (EDAP)
+Risk analysis
+EU-wide stress testing
+EU wide transparency exercise
+Risk monitoring
+Thematic analysis
+Remuneration and diversity analysis
+Pillar 3 data hub
+Access to P3DH
+Reporting
+Reporting frameworks
+Reporting Time Traveller
+DPM data dictionary
+Integrated reporting
+Joint Bank Reporting Committee (JBRC)
+Data
+Registers and other list of institutions
+Guides on data
+Aggregate statistical data
+Secondary reporting: data from Competent Authorities to the EBA
+Data analytics tools
+Publications and media
+Back
+Publications and media
+Communicating to all our audiences in the most effective way and using the most appropriate channels is crucial for us. Through our publications, announcements, and participation in external events, we are committed to reaching out to all our stakeholders to report about our policies, activities, and initiatives.
+Learn more
+Publications
+Guidelines
+Regulatory Technical Standards
+Implementing Technical Standards
+Reports
+Consultation papers
+Opinions
+Decisions
+Staff papers
+Annual reports
+Press releases
+Speeches
+Interviews
+Events
+Media centre
+Factsheets
+Media gallery
+Media resources
+Breadcrumb
+Home
+Activities
+Back to Activities
+Research Workshops
+Single Rulebook
+Implementing Basel III in Europe
+Supervisory convergence
+Information for consumers
+Ad hoc activities
+Single Rulebook
+Back to Single Rulebook
+Accounting and auditing
+Anti-Money Laundering and Countering the Financing of Terrorism
+Asset-referenced and e-money tokens (MiCA)
+Colleges of supervisors
+Consumer protection
+Credit risk
+Depositor protection
+Digital finance
+External Credit Assessment Institutions (ECAI)
+Financial conglomerates
+Internal governance
+Investment firms
+Large exposures
+Leverage ratio
+Liquidity risk
+Market access
+Market infrastructures
+Market, counterparty and CVA risk
+Model validation
+Operational resilience
+Operational risk
+Other topics
+Own funds
+Passporting and supervision of branches
+Payment services and electronic money
+Recovery
+Remuneration
+Resolution
+Securitisation and Covered Bonds
+Simplification and efficiency
+Supervisory Review and Evaluation Process (SREP) and Pillar 2
+Supervisory benchmarking exercises
+Supervisory reporting
+Sustainable finance
+Third country equivalence and international cooperation
+Transparency and Pillar 3
+Operational resilience
+Back to Operational resilience
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA)
+Implementing Technical Standards to establish the templates for the register of information
+Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents
+Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities
+Joint Regulatory Technical Standards on subcontracting ICT services supporting critical or important functions
+Joint Regulatory Technical Standards on the criteria for determining the composition of the joint examination team (JET)
+Joint Regulatory Technical Standards on the harmonisation of conditions enabling the conduct of the oversight activities
+Joint Regulatory Technical Standards specifying elements related to threat led penetration tests
+Joint Technical Standards on major incident reporting
+Regulatory Technical Standards on ICT risk management framework and on simplified ICT risk management framework
+Regulatory Technical Standards on criteria for the classification of ICT-related incidents
+Regulatory Technical Standards on the policy on ICT services supporting critical or important functions provided by ICT third-party service providers
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA)
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA)
+Status:
+The set of technical standards aims to ensure a consistent and harmonised legal framework in the areas of ICT risk management, major ICT-related incident reporting and ICT third-party risk management.
+Summary of document history
+Previous versions
+Current version
+Ongoing versions
+Consultation
+Closed
+Final Report
+Consolidated Document
+ESAs Joint Committee consultation on Technical Standards under DORA
+Status:
+Closed
+Deadline:
+11 SEPTEMBER 2023
+Documents
+Introductory note
+(221.71 KB - PDF)
+Last update
+29 June 2023
+Download
+Consultation paper on draft RTSs ICT risk management tools methods processes and policies
+(1003.19 KB - PDF)
+Last update
+19 June 2023
+Download
+Consultation paper on draft RTS on classification of ICT incidents
+(828.24 KB - PDF)
+Last update
+19 June 2023
+Download
+Consultation paper on draft ITS on register of information
+(1.76 MB - PDF)
+Last update
+19 June 2023
+Download
+Consultation paper on draft RTS on policy on the use of ICT services regarding CI functions
+(567.38 KB - PDF)
+Last update
+19 June 2023
+Download
+Joint Stakeholders Groups' response to Consultation on draft RTS on classification of ICT incidents
+(230.61 KB - PDF)
+Last update
+20 September 2023
+Download
+Joint Stakeholders Groups' response to Consultation on draft ITS on register of information
+(272.61 KB - PDF)
+Last update
+20 September 2023
+Download
+Joint Stakeholders Groups' response to Consultation on draft RTS on policy on the use of ICT services regarding CI functions
+(177.23 KB - PDF)
+Last update
+20 September 2023
+Download
+Joint Stakeholders Groups' response to Consultation on draft RTSs ICT risk management tools methods processes and policies
+(310.37 KB - PDF)
+Last update
+20 September 2023
+Download
+Responses to public consultations on DORA (1st batch)
+(1.11 MB - Excel Spreadsheet)
+Download
+Public hearings
+Public hearing on ESAs Joint Committee Technical standards under DORA
+Presentation
+(2.01 MB - PDF)
+Last update
+17 July 2023
+Download
+Template register of info at (sub)consolidated level [xlsx]
+(85.42 KB - Excel Spreadsheet)
+Last update
+17 July 2023
+Download
+Template register of info at Entity level [xlsx]
+(70.3 KB - Excel Spreadsheet)
+Last update
+17 July 2023
+Download
+News item
+ESAs consult on the first batch of DORA policy products
+19 June 2023
+The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) launched today a public consultation on the first batch of policy products under the Digital Operational Resilience Act (DORA). This includes four draft regulatory technical standards (RTS) and one set of draft implementing technical standards (ITS). These technical standards aim to ensure a consistent and harmonised legal framework in the areas of ICT risk management, major ICT-related incident reporting and ICT third-party risk management. The consultation runs until 11 September 2023.
+Press contacts
+Franca Rosa Congiu
+press@eba.europa.eu
++33 1 86 52 7052
+Follow @EBA_News
+Footer
+EUROPEAN BANKING AUTHORITY
+Our mission is to contribute to the stability and effectiveness of the European financial system through simple, consistent, transparent, fair regulation and supervision that benefits all EU citizens.
+An agency of the EU
+EU Agencies Network
+Sustainable EBA
+Contact us
+Contacts
+Ask a general question
+Send a press query
+Ask a regulatory question
+Request access to documents
+File a complaint
+Whistleblower reports
+Stay up to date with our work
+Subscribe to our email alerts
+News & press RSS feed
+Follow us on Social media
+Bluesky
+LinkedIn
+X
+YouTube
+Find out about us
+The EBA at a glance
+Privacy policy
+Legal notice
+Cookies policy
+Frauds and scams
+Explore related sites
+EIOPA
+ESMA
+ESRB
+CEBS archive

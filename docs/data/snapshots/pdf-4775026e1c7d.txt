@@ -1,0 +1,63 @@
+JC 2025 06
+07 March 2025
+Opinion of the European Supervisory Authorities
+On the Draft Regulatory Technical Standards specifying the elements that a financial entity has
+to determine and assess when subcontracting ICT services supporting critical or important
+functions under Article 30(5) of Regulation (EU) 2022/2054.
+Introduction and legal basis
+1. Article 30(2)(a) of EU) 2022/2554 on digital operational resilience for the financial sector
+(DORA)1 sets out that the contractual arrangements on the use of ICT services between
+financial entities and third party service providers “shall include at least the following
+elements: (a) a clear and complete description of all functions and ICT services to be provided
+by the ICT third-party service provider, indicating whether subcontracting of an ICT service
+supporting a critical or important function, or material parts thereof, is permitted and, when
+that is the case, the conditions applying to such subcontracting”.
+2. Article 30(5) of DORA mandates the European Supervisory Authorities (ESAs) to develop draft
+regulatory technical standards specifying the elements that a financial entity has to
+determine and assess when subcontracting ICT services supporting critical or important
+functions. On 17 July 2024, the ESAs, have submitted the above-mentioned draft regulatory
+technical standards (RTS) to the European Commission2.
+3. The draft RTS submitted to the European Commission specifies the conditions and the
+criteria to be taken into account by financial entities when subcontracting ICT services
+supporting critical or important functions throughout the lifecycle of contractual
+arrangements between financial entities and ICT third-party service providers. In particular,
+financial entities are required to assess the risks associated with subcontracting during the
+precontractual phase, including the due diligence process. Furthermore, the RTS includes
+requirements for the implementation and management of contractual arrangements on
+subcontracting, including conditions to ensure that financial entities monitor the
+subcontractors effectively underpinning the ICT services that support critical or important
+functions.
+1 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2554&from=FR
+2 JC 2024 53 Final Report on draft RTS on subcontracting DORA
+1
+4. On 21 January 2025, the European Commission, acting in accordance with the procedure set
+out in the fourth subparagraph of Article 15(1) of the ESAs Regulations, notified the ESAs that
+it rejects the draft RTS3. The trigger of this rejection is that the requirements introduced by
+Article 5 of the draft RTS on the “Conditions for subcontracting relating to the chain of ICT
+subcontractors providing a service supporting a critical or important function by the financial
+entity” go beyond the empowerment given to the ESAs by Article 30(5) of DORA as
+introducing requirements not specifically linked to the conditions for subcontracting. In
+particular, the Commission considered that one specific aspect, namely that the content of
+the provisions relating to the monitoring of the subcontracting chain, is not within the scope
+of the mandate set out in Article 30(5) of DORA and that Article 5 and the related recital 5
+are therefore to be removed from the draft RTS to ensure its compliance with the mandate.
+5. Pursuant to Article 10(1) of the ESAs Regulations, the ESAs prepared this Opinion on the
+proposed amendments to the draft RTS by the European Commission.
+6. This opinion has been prepared jointly by the ESAs and adopted by the three Board of
+Supervisors on 03 March 2025. The Opinion will be published on the websites of the ESAs.
+2. General comments
+7. The ESAs acknowledge that the amendments suggested by the EC will ensure that the draft
+RTS is fully in line with the mandate set out under Article 30(5) of Regulation (EU) 2022/2554
+to “specify further the elements that a financial entity has to determine and assess when
+subcontracting ICT services supporting critical or important functions”. The ESAs take note,
+and do not recommend amendments to the EC proposed amendments.
+8. For further background, the financial entities are expected to adhere to the provisions on
+subcontractors as per DORA Article 29(2) fourth subparagraph, and Article 3(6) of the ITS on
+the Register of Information.
+3. Other editorial comments
+9. The European Commission has provided several drafting amendments meant to ease the
+reading of the draft RTS or to make more explicit the link of some provisions with the legal
+mandate. The ESAs consider that such changes do not imply a change in policy and represent
+non-substantive changes.
+3 9a7139d5-1cbf-4dca-a5cf-853467b375c7_en
+2

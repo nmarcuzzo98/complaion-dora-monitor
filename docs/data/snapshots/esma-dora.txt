@@ -1,0 +1,239 @@
+Digital Operational Resilience Act (DORA)
+Skip to main content
+Search
+About ESMA
+Toggle submenu
+Governance Structure
+Toggle submenu
+Board of Supervisors
+Management Board
+Senior Management
+Joint Committee
+CCP Supervisory Committee
+CCP Resolution Committee
+Joint Monitoring Mechanism
+Standing Committees
+SMSG
+Board of Appeal
+Ethics and Conflicts of interest
+Internal Organisation
+Toggle submenu
+Strategy and Work Programme
+Working Methods
+Diversity, Equity and Inclusion
+International Cooperation
+Legal Notice and Data Protection
+Transparency and Access to Documents
+Agenda
+Careers
+Procurement Opportunities
+ESMA's Activities
+Toggle submenu
+Investors and Issuers
+Toggle submenu
+Benchmark Administrators
+Credit Rating Agencies
+ESG Rating Providers
+External Reviewers of European Green Bonds
+Fund Management
+Issuer Disclosure
+Investment Services and Crowdfunding
+Markets and Infrastructure
+Toggle submenu
+Central Counterparties
+Data Reporting Services Providers
+Trading
+Consolidated Tape Providers
+Post-trading
+Shortening the settlement cycle to T+1 in the EU
+Market Integrity
+Short Selling
+Central Securities Depositories
+Securitisation
+Trade Repositories
+Risk Analysis
+Toggle submenu
+Risk Monitoring
+Topical Analysis
+Interactive Dashboards
+Sustainable Finance
+Toggle submenu
+Climate benchmarks and ESG disclosure
+CRAs and Sustainability
+Investment Services and Fund Management
+Sustainability Reporting
+Digital Finance and Innovation
+Toggle submenu
+Digital Operational Resilience Act (DORA)
+DLT Pilot Regime
+Markets in Crypto-Assets Regulation (MiCA)
+Supervision
+Toggle submenu
+Registration with ESMA
+Investigations and Inspections
+Supervisory Convergence Tools
+Sanctions and Enforcement
+Enforcement Convergence Initiatives
+Breach of Union Law
+Data
+Toggle submenu
+Data Reporting
+Databases and Registers
+Data Quality and Use
+Statistical Information
+European Single Access Point (ESAP)
+Listing Act
+Simplification and Burden Reduction
+News & Publications
+Toggle submenu
+News
+Documents
+Speeches
+Newsletter
+Interactive Single Rulebook
+Guidelines, Recommendations and Technical Standards
+Peer Reviews
+Risk Monitoring and Analysis
+Questions and Answers
+Investor Corner
+Toggle submenu
+Is the firm regulated?
+Get ready to invest
+Frauds and Scams related to ESMA Logo and ID
+Publications for Investors
+Product Intervention
+Make a complaint
+Cost of Investment Products
+Interact With ESMA
+Toggle submenu
+Media Corner
+Speaking Requests
+Stakeholder Engagement
+Toggle submenu
+Stakeholder Relations
+Consultations
+Events
+Whistleblowers
+Contact & Help
+Toggle submenu
+Contact Information
+FAQs
+Glossary
+Breadcrumb
+Home
+ESMA's Activities
+Digital Finance and Innovation
+Digital Operational Resilience Act (DORA)
+Digital Operational Resilience Act (DORA)
+The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to 21 different types of financial entities, of which 12 are in the remit of ESMA.
+Why is DORA needed?
+The financial sector is increasingly dependent on information and communication technology (ICT) tools and systems to deliver its financial services, for which they increasingly rely on ICT service providers. This may expose financial entities to potential ICT (third-party) risk because the delivery of their financial services relies on entities who are not directly supervised nor subject to the same regulatory frameworks (i.e. when the ICT service providers are not financial entities themselves).
+When not managed properly, ICT risks can lead to disruptions of financial service delivery. This can have an impact on other financial entities, sectors and even on the rest of the economy, which underlines the importance of the digital operational resilience of the financial sector.
+primary_grey_background
+ICT risk management
+A framework setting principles and requirements on ICT risk management.
+white_background
+ICT third-party risk management
+Mitigation of ICT third-party risk; Key contractual provisions.
+white_background
+Digital operational resilience testing
+Operational resilience testing programme encompassing a range of tests, including advanced testing.
+white_background
+ICT-related incidents
+Management of ICT-related incidents, and notification of major ones and of significant cyber threats to competent authorities.
+white_background
+Information sharing
+Exchange of information and intelligence on cyber threats.
+white_background
+Oversight of critical third-party providers
+Oversight framework for ICT third-party providers that are designated as critical by the ESAs for the financial sector.
+white_background
+Links to DORA Policy requirements
+DORA Level 1:
+Directive (EU) 2022/2556 as regards digital operational resilience for the financial sector:
+Publication on Official Journal
+Regulation (EU) 2022/2554 on digital operational resilience for the financial sector:
+Published on Official Journal
+DORA Level 2-3 by topic:
+Risk management
+Publication in Official Journal / ESAs websites
+Commission Delegated Regulation (EU) 2024/1774 with regard to regulatory technical standards specifying ICT risk management tools, methods, processes, and policies and the simplified ICT risk management framework (DORA Art. 15 and 16)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1774
+Commission Delegated Regulation (EU) 2024/1773 with regard to regulatory technical standards specifying the detailed content of the policy regarding contractual arrangements on the use of ICT services supporting critical or important functions provided by ICT third-party service providers (DORA Art. 28.10)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1773
+Commission Implementing Regulation (EU) 2024/2956 with regard to standard templates for the register of information (DORA Art. 28.9)
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402956
+Commission Delegated Regulation (EU) 2025/1190 with regard to regulatory technical standards specifying the criteria used for identifying financial entities required to perform threat-led penetration testing, the requirements and standards governing the use of internal testers, the requirements in relation to the scope, testing methodology and approach for each phase of the testing, results, closure and remediation stages and the type of supervisory and other relevant cooperation needed for the implementation of TLPT and for the facilitation of mutual recognition (DORA Art. 26.11)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501190
+Commission Delegated Regulation (EU) 2025/532 of 24 March 2025 supplementing Regulation (EU) 2022/2554 of the European Parliament and of the Council with regard to regulatory technical standards specifying the elements that a financial entity has to determine and assess when subcontracting ICT services supporting critical or important functions (DORA Art. 30.5)
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500532
+Incident reporting
+Publication in Official Journal / ESAs websites
+Commission Delegated Regulation (EU) 2024/1772 with regard to regulatory technical standards specifying the criteria for the classification of ICT-related incidents and cyber threats, setting out materiality thresholds and specifying the details of reports of major incidents (DORA Art. 18.3)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1772
+GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (Art 11.12)
+https://www.esma.europa.eu/sites/default/files/2024-07/JC_2024-34_-_Final_report_GL_on_costs_and_losses.pdf
+Commission Delegated Regulation (EU) 2025/301 with regard to regulatory technical standards specifying the content and time limits for the initial notification of, and intermediate and final report on, major ICT-related incidents, and the content of the voluntary notification for significant cyber threats (DORA Art. 20(a))
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500301
+Commission Implementing Regulation (EU) 2025/302 laying down implementing technical standards with regard to the standard forms, templates, and procedures for financial entities to report a major ICT-related incident and to notify a significant cyber threat (DORA Art. 20(b))
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500302
+Oversight framework
+Publication in Official Journal / ESAs websites
+GL on cooperation between ESAs and CAs regarding the structure of the oversight (Art. 32.7)
+https://www.esma.europa.eu/sites/default/files/2024-11/JC-GL-2024-36_Guidelines_on_DORA_oversight_cooperation.pdf
+Commission Delegated Regulation (EU) 2024/1502 on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401502
+Commission Delegated Regulation (EU) 2024/1505 on the amount of the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers and the way in which those fees are to be paid (DORA Art. 43.2)
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401505
+Commission Delegated Regulation (EU) 2025/295 of 24 October 2024 supplementing Regulation (EU) 2022/2554 of the European Parliament and of the Council with regard to regulatory technical standards on harmonisation of conditions enabling the conduct of the oversight activities (DORA Art. 41(a)(b)(d))
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500295
+Commission Delegated Regulation (EU) 2025/420 of 16 December 2024 with regard to regulatory technical standards to specify the criteria for determining the composition of the joint examination team ensuring a balanced participation of staff members from the ESAs and from the relevant competent authorities, their designation, tasks and working arrangements (DORA Art. 41(1)(c))
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500420
+white_background
+primary_grey_background
+primary_grey_background
+DORA implementation timeline 🡫
+white_background
+In order to provide greater clarity on the supervisory expectations towards the application of DORA and on the timeline for the first designation of the Critical Third-Party ICT service Providers (CTPPs) in 2025, the ESAs published in December 2024
+a public statement
+.
+The European Commission has
+communicated
+on the further steps towards the implementation of DORA.
+grey_3_background
+On 30 April 2025, the
+ESAs expect to collect the DORA registers of information from the competent authorities
+. Financial entities can find all the relevant material to prepare for the reporting of their DORA registers on the EBA's website: see the
+main page on the register reporting
+and
+relevant reporting framework
+.
+primary_grey_background
+DORA Oversight
+ESMA Links
+Joint ESAs Technical Advice on two EC delegated acts under the DORA specifying further criteria for critical ICT third-party service providers
+Joint ESAs Consultation on the first batch of DORA policy products
+Joint ESAs Consultation on the second batch of DORA policy products
+Draft technical standards (Joint ESAs Final Reports) for the first batch of DORA policy products
+Joint ESAs public event on DORA – Technical discussion (6 February 2023)
+First joint ESAs public hearing on DORA policy products (13 July 2023)
+Second joint ESAs public hearing on DORA policy products (23 January 2024)
+Second batch of policy products under DORA (17 July 2024)
+Joint Final report on the draft technical standards on subcontracting under DORA (26 July 2024)
+ESAs Opinion on the rejection of the ITS on RoI under DORA (15 October 2024)
+Decision on the information that competent authorities must report to them for the designation of critical ICT third-party service providers (8 November 2024 | Updated on 29 January 2025)
+ESAs Statement on DORA application (4 December 2024)
+2024 Dry Run exercise - Key findings (17 December 2024)
+Report on the feasibility for further centralisation of reporting of major ICT-related incidents (17 January 2025)
+ESAs Opinion on the rejection of the RTS on subcontracting under DORA (7 March 2025)
+Preparing for the DORA Oversight Framework: CTPP Designation and Next Steps (14 May 2025)
+Joint ESAs Report in response to the European Commission consultation pursuant to Article 58(3) of Regulation (EU) 2022/2554 (DORA) (17 December 2025)
+2025 ESAs Report on major ICT-related incidents (3 June 2026)
+ESMA is an authority of the European Union
+Careers
+ESMA Documents
+Contact & Help
+Media Corner
+Cookie Policy
+Data Protection
+Social Media

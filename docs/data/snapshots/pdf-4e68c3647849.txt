@@ -1,0 +1,169 @@
+SERVIZIO STUDI E GESTIONE DATI
+DIVISIONE RILEVAZIONE E GESTIONE DELLE INFORMAZIONI
+Rifer. a nota n. del Alle Imprese di assicurazione con sede legale
+in Italia
+Loro Sedi
+Classificazione IV 2 3
+ITALIA
+All.ti n .
+Alle imprese di riassicurazione con sede
+legale in Italia
+Loro Sedi
+ITALIA
+Alle Rappresentanze generali per l’Italia delle
+imprese di assicurazione con sede legale in
+uno Stato terzo
+Loro Sedi
+ITALIA
+Alle Rappresentanze generali per l’Italia delle
+imprese di riassicurazione con sede legale in
+uno Stato terzo
+Loro Sedi
+ITALIA
+Agli intermediari tenuti alla segnalazione
+Loro Sedi
+ITALIA
+Oggetto Segnalazione DORA - trasmissione Registro delle informazioni
+Il Regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14
+dicembre 2022 relativo alla resilienza operativa digitale per il settore finanziario (DORA)1,
+applicabile dal 17 gennaio 2025, prevede all’articolo 28, paragrafo 3, che le entità
+finanziarie, fra cui debbono intendersi incluse le imprese di assicurazione e di
+riassicurazione e gli intermediari assicurativi, intermediari riassicurativi e intermediari
+assicurativi a titolo accessorio rilevanti a fini DORA2, mantengono e aggiornano a livello di
+entità, e su base sub-consolidata e consolidata, un registro di informazioni su tutti gli
+accordi contrattuali per l’utilizzo di servizi ICT prestati da fornitori terzi.
+Il terzo comma del medesimo articolo 28, paragrafo 3, prevede che le entità
+finanziarie comunichino almeno una volta all’anno alle autorità competenti il numero di
+1https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+2 Sono soggetti alla disciplina DORA le imprese di assicurazione e di riassicurazione soggette a Solvency II
+e gli intermediari di assicurazione e di riassicurazione nonché gli intermediari a titolo accessorio che non
+sono microimprese o piccole o medie imprese (con numero di dipendenti pari o superiore a 250 e fatturato
+annuo superiore a 50 milioni di euro o un bilancio annuo superiore a 43 milioni di euro).
+Via del Quirinale, 21 -00187 Roma -tel.+39 06 421331 -fax +39 06 42133206 -www.ivass.it 1519 Pag.
+1/4
+21517/25
+nuovi accordi per l’utilizzo di servizi ICT, le categorie di fornitori terzi di servizi ICT, il tipo di
+accordi contrattuali e le funzioni e i servizi ICT acquisiti. Il quarto comma prevede che, su
+richiesta, le entità finanziarie mettono a disposizione dell’autorità competente il registro
+delle informazioni completo.
+Si precisa che, ai sensi dell’articolo 3, della Decisione delle Autorità europee di
+vigilanza dell’8 novembre 20243, la segnalazione deve essere resa:
+ a livello individuale, laddove il segnalante non è parte di un gruppo finanziario, ovvero
+è parte di un gruppo finanziario ove la capogruppo è un'entità al di fuori dell'Unione
+europea e non esiste una capogruppo nell'Unione europea4;
+ per i gruppi finanziari, al livello più alto di consolidamento nell'Unione europea in base
+alla competenza delle Autorità stabilita dai riferimenti legali contenuti nell’articolo 46 del
+DORA.
+Ai sensi del paragrafo 9, secondo comma, dell’articolo 28, la Commissione europea
+ha adottato il Regolamento di esecuzione (UE) 2024/2956 del 29 novembre 2024 che
+stabilisce norme tecniche di attuazione per l'applicazione del DORA con riferimento ai
+modelli standard per il registro delle informazioni5.
+La segnalazione va resa su base sub-consolidata e consolidata6
+3https://www.eba.europa.eu/sites/default/files/2025-01/4105fa1e-2de5-4dd2-9d9a-
+b89924039636/EBA%20BS%202025%20048%20%28EBA%20DC%20562%20-
+%20ESA%202024%2022%20-
+%20Decision%20on%20reporting%20of%20information%20for%20CTPP%20designation_consolidated%29.
+pdf
+4 Si richiama anche la previsione della Decisione delle ESA di novembre 2024 per cui “se un’autorità
+competente è responsabile per la vigilanza di più di un soggetto finanziario appartenente allo stesso gruppo
+finanziario e se la capogruppo non è vigilata a livello consolidato da altre autorità competenti europee,
+l’autorità competente dovràfornire i dati relativi a questi soggetti finanziari a livello individuale”.
+5https://eur-lex.europa.eu/eli/reg_impl/2024/2956/oj
+6 Si fa riferimento all’articolo 6 dell’ITS che prevede quanto segue: “Articolo 6 - Ambito del registro delle
+informazioni su base sub-consolidata e consolidata. 1. Nel caso dei gruppi le capogruppo tengono conto
+della pertinente normativa settoriale dell'Unione nel determinare le entità da inserire nel registro delle
+informazioni. 2. Il registro delle informazioni mantenuto e aggiornato su base sub-consolidata e consolidata
+comprende tutte le entità finanziarie e i fornitori intra-gruppo di servizi TIC che fanno parte del sottogruppo e
+del gruppo.”
+Il Considerando (11) nello stesso ITS chiarisce che “al fine di permettere l'operabilità del registro delle
+informazioni a livello di entità, su base sub-consolidata e su base consolidata, in tutte le entità finanziarie che
+fanno parte dello stesso gruppo le entità finanziarie dovrebbero garantire la correttezza e la coerenza di tutti i
+dati contenuti in tale registro. Per consentire tale operabilità è necessario in particolare assicurare la
+coerenza nel consolidamento degli identificativi, vale a dire i numeri di riferimento dell'accordo contrattuale,
+l'identificativo della funzione, il LEI delle entità finanziarie e gli identificativi dei fornitori terzi di servizi TIC.”
+Utile anche l’indicazione contenuta nelle istruzioni operative di cui all’allegato dell’ITS: “Se il registro delle
+informazioni è mantenuto a livello di gruppo dalla capogruppo ed essa non è soggetta all'obbligo di
+mantenere tale registro, ossia non rientra nella definizione di entità finanziarie di cui all'articolo 2 del
+regolamento (UE) 2022/2554 (ad esempio società di partecipazione finanziaria, società di partecipazione
+finanziaria mista o società di partecipazione mista), si sceglie l'opzione «Altra entità finanziaria”.
+1519 Pag.
+2/4
+21517/25
+Indicazioni tecnico-operative
+La trasmissione del registro delle informazioni dovrà utilizzare la survey DORA sulla
+piattaforma Infostat, già in uso per la generalità delle segnalazioni di vigilanza e statistiche
+dovute a questa Autorità.
+Infostat, raggiungibile all’indirizzo https://infostat-ivass.bancaditalia.it/, è la
+piattaforma utilizzata per la trasmissione delle segnalazioni di vigilanza e statistiche
+destinate all’IVASS. Sul sito istituzionale dell’Istituto è pubblicato il relativo manuale
+utente7.
+Le abilitazioni agli utenti per l’accesso a Infostat sono gestite in modo decentrato dai
+soggetti segnalanti: l’utente della compagnia con privilegi di gestione delle utenze troverà
+la survey in argomento tra quelle disponibili e potrà delegare altri utenti all’invio dei dati,
+non essendo richiesto un nuovo accreditamento sulla piattaforma. I soggetti privi di
+abilitazione alla piattaforma, inclusi gli intermediari assicurativi, dovranno dapprima
+provvedere alla registrazione del soggetto incaricato alla gestione delle utenze tramite la
+funzione di auto-registrazione del portale, quindi, una volta in possesso della userid,
+compilare il modulo di accreditamento8 che dovrà essere inviato a mezzo posta elettronica
+certificata all’indirizzo ivass@pec.ivass.it; il soggetto gestore potrà da ultimo delegare altri
+utenti all’invio dei dati.
+Modalità di trasmissione
+L’utente delegato alla trasmissione dei dati potrà procedere alla consegna del
+messaggio con la modalità descritta nei paragrafi 4 e 5 del manuale utente.
+Il formato della segnalazione è definito dal citato Regolamento di esecuzione (UE)
+2024/2956 della Commissione, descritto analiticamente, unitamente ai controlli, nel
+reporting framework pubblicato sul sito della Autorità bancaria europea9. Si segnala che
+sul sito dell’Autorità bancaria europea sono altresì disponibili alcuni file di esempio10.
+La segnalazione dovrà essere trasmessa in un archivio compresso (.zip), contenente
+al suo interno due cartelle: la prima, denominata META-INF, contenente il file
+reportPackage.json; la seconda, denominata reports, contenente un file .csv per ciascuno
+dei 15 prospetti, oltre ai file FilingIndicators.csv, parameters.csv e report.json. L’archivio
+compresso dovrà essere denominato con questa convenzione di nomenclatura:
+7https://www.ivass.it/operatori/imprese/raccolta-dati/infostat/manuale_utente_infostat_IT.pdf
+8https://www.ivass.it/operatori/imprese/raccolta-
+dati/infostat/MODULO_DATI_PER_RICHIESTA_ABILITAZIONI_PER_ACCESSO_AL_SITO_INFOSTAT.docx
+?force_download=1
+9https://www.eba.europa.eu/risk-and-data-analysis/reporting-frameworks/reporting-framework-40
+10https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-
+act/preparation-dora-application
+1519 Pag.
+3/4
+21517/25
+ReportSubject.CON/.IND_IT_DORA010100_DORA_ReferenceDate_CreationTimestamp.
+zip, ove11
+ ReportSubject è il LEI del segnalante,
+ .CON/.IND, da usarsi alternativamente, indicano rispettivamente se la
+segnalazione è consolidata a livello di gruppo o individuale,
+ ReferenceDate indica la data di riferimento della segnalazione, nel formato
+AAAA-MM-DD (per il primo invio, 2025-03-31)
+ CreationTimestamp indica il timestamp di produzione del messaggio, nel
+formato yyyyMMddHHmmssSSS
+Si richiama l’attenzione all’esattezza della struttura e dei nomi dei file e delle
+cartelle12.
+Per la survey in parola è stata implementata la modalità di diagnostico, che permette
+la verifica della qualità della segnalazione prodotta prima della trasmissione ufficiale,
+secondo quanto previsto dalla citata tassonomia dell’Autorità bancaria europea.
+La prima scadenza per l’inoltro dei dati a questo Istituto, con data di riferimento 31
+marzo 2025, è l’11 aprile 2025.
+Per richieste di assistenza sulle procedure di trasmissione dei dati è possibile
+contattare il Servizio Studi e gestione dati – Divisione Rilevazione e gestione delle
+informazioni all’indirizzo di posta elettronica
+divisione.rilevazionegestioneinformazioni@ivass.it.
+Si segnala inoltre che è disponibile sul sito dell’EBA13 il documento “Frequently
+asked question on reporting of the registers of information”, che risponde a domande di
+natura operativa, relative alla compilazione dei modelli e alla preparazione dei file da
+trasmettere.
+Distinti saluti.
+Per delegazione del Direttorio Integrato
+firma 1
+11A titolo esemplificativo, la segnalazione trasmessa dal segnalante DUMMYLEI, in forma individuale, per la
+data di riferimento del 31 marzo 2025, prodotta il 2 aprile 2025 a mezzanotte, sarà contenuta nella cartella
+denominata DUMMYLEI.IND_IT_DORA010100_DORA_2025-03-31_20250402000000000.zip
+12Cfr. anche https://www.eba.europa.eu/sites/default/files/2025-01/1e5ffe22-64b2-4260-8fbf-
+8dcf095dfe4b/Preparing%20Plain%20csv%20reporting%20package%20for%20DORA.pdfe, in particolare,
+p. 2.
+13https://www.eba.europa.eu/sites/default/files/2025-02/5276b0df-4711-443f-a900-
+61b8a680ff67/20250214%20-%20DORA%20RoI%20reporting%20FAQ.pdf
+1519 Pag.
+4/4
+21517/25

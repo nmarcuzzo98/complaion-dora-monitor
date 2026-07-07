@@ -1,0 +1,55 @@
+4 December 2024
+JC 2024 99
+DORA application
+1. As the Digital Operational Resilience Act1 (DORA) together with the technical standards and
+guidelines developed by the European Supervisory Authorities (ESAs) in January2 and July
+20243 will apply from 17 January 2025, the ESAs call on financial entities and third-party
+providers to advance their preparations to ensure their readiness.
+2. As DORA does not provide for a transitional period, the ESAs emphasise the importance for
+financial entities to adopt a robust, structured approach in order to meet their obligations in
+a timely manner.
+3. Financial entities are expected to identify and address in a timely manner gaps between their
+internal setups and the DORA requirements. The latter are not entirely new as many financial
+entities have been subject to existing sectorial guidelines4, regulations or supervisory
+expectations in the areas of ICT risk management, incident reporting and outsourcing for
+years. The ESAs also acknowledge that the e(cid:431)orts to comply with DORA may be higher for
+some financial entities which have been subject to less sectoral requirements regarding
+digital operational resilience management so far. In any case, the ESAs and competent
+authorities (CAs) have been providing guidance to support the smooth implementation of
+DORA and will continue to do so.
+4. Financial entities should also prepare for the new reporting obligations. In particular,
+financial entities need to have their registers of ICT third-party providers’ contractual
+arrangements available for competent authorities early in 2025, as the latter will have to
+report them to the ESAs by 30 April 20255. They should draw on the lessons learnt from the
+2024 ESAs dry-run exercise in support of industry preparation and consider the ITS on the
+Register of Information adopted by the Commission on 29 November6. Furthermore, it is
+important that financial entities are equipped to classify and report their major ICT-related
+incidents from the date of application.
+1 Publications O(cid:431)ice (europa.eu)
+2 ESAs publish first set of rules under DORA for ICT and third-party risk management and incident
+classification (europa.eu)
+3 ESAs published second batch of policy products under DORA (europa.eu), and ESAs published joint
+Final report on the draft technical standards on subcontracting under DORA (europa.eu)
+4 For example, EBA guidelines on ICT security risk management (EBA/GL/2019/04), EBA Guidelines on
+outsourcing arrangements (EBA/GL/2019/02), EBA Guidelines on major incident reporting under PSD2
+(EBA/GL/2021/03), EIOPA guidelines on ICT security and governance (EIOPA-BoS-20/60), ESMA guidelines
+on outsourcing to cloud service providers (ESMA50-164-4285) and EIOPA guidelines on outsourcing to
+cloud service providers (EIOPA-BoS-20-002).
+5 https://www.esma.europa.eu/sites/default/files/2024-
+11/ESA_2024_22_Decision_on_reporting_of_information_for_CTPP_designation.pdf
+6 Implementing regulation - EU - 2024/2956 - EN - EUR-Lex
+5. Considering the risk profile, size, scale, and complexity of the activities of the various
+financial entities, competent authorities are prepared to supervise the DORA requirements
+in a risk-based manner and taking into account the EBA’s, ESMA’s and EIOPA’s Union
+Strategic Supervisory Priorities (USSPs)7 and the EBA’s 2025 European Supervisory
+Examination Programme (ESEP)8, which highlight cyber and digital operational resilience.
+6. The ESAs continue to work with competent authorities to deliver a pragmatic, outcomes-
+focused and timely approach to implementation.
+7. The ESAs also invite ICT third-party service providers, which consider they may meet the
+criticality criteria published in May 20249, to assess their operational setup against DORA
+requirements. The first designation of CTPPs is expected to take place in H2 2025.
+7EIOPA: 0d45dc78-d9ad-4641-a7f7-9e9d20ad8518_en.
+ESMA: ESMA to put cyber risk as a new Union Strategic Supervisory Priority (europa.eu)
+8 https://www.eba.europa.eu/sites/default/files/2024-07/ef6cf1ab-94fe-453f-9e4d-
+37231153cfac/2025%20EBA%20ESEP.pdf
+9 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401502

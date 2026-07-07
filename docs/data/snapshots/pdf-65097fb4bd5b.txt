@@ -1,0 +1,953 @@
+ESA 2024 35
+17 December 2024
+Key findings from the 2024 ESAs Dry Run
+exercise
+Reporting of the financial entities‘ registers of information on their
+contractual arrangements with ICT third-party service providers
+Contents
+List of figures 2
+List of abbreviations 2
+Executive summary 3
+1. Background and introduction 5
+1.1 Registers of information 5
+1.2 Dry run exercise 5
+1.3 The summary report 7
+2. Overview of the participating financial entities 7
+3. Data quality checks and observations 9
+3.1 Data quality checks applied in the dry run 9
+3.2 Outcomes of the data quality checks 11
+4. Lessons learnt and recommendations 14
+4.1 Lessons learnt for the ESAs and the competent authorities 14
+4.2 Lessons learnt and recommendations for financial entities 15
+Annexes 19
+Annex 1. Timeline of the dry run exercise 19
+Annex 2. List of the data quality checks applied to the registers of information in the dry run 20
+1
+List of figures
+Figure 1. Submitted registers by financial entity type ............................................................................ 8
+Figure 2. Submitted registers by country ................................................................................................ 9
+Figure 3. Overview of the failed data quality checks compared to data points submitted .................. 11
+Figure 4. Breakdown of failed data quality checks by their type .......................................................... 12
+List of abbreviations
+CTPP Critical ICT third-party service provider
+DORA Regulation (EU) 2022/2554 – Digital Operational Resilence Act
+DPM Data point model
+EMC Entity making use of contract
+GLEIF Global legal entity identifier foundation
+ICT Information and computer technolodgy
+ITS Implementing Technical Standards
+LEI Legal entity identifier
+RoI Register of information
+TPP (ICT) Third-party service provider
+2
+Executive summary
+With DORA becoming applicable on 17 January 2025, financial entities in its scope need to have a
+comprehensive register of their contractual arrangements with ICT third-party service providers
+(Registers of information – RoI) available at entity, sub-consolidated and consolidated levels (Article
+28(3) of DORA).
+According to DORA, these RoI will serve various purposes, including: (1) for financial entities as an
+internal tool to monitor their ICT third-party risk, (2) for EU competent authorities as a source of
+information to supervise the management by the financial entities of their ICT third-party risk and (3)
+for the ESAs as a source of information for the designation of critical ICT third-party service providers
+(CTPP) which will be subject to their oversight. To facilitate the latter two purposes, financial entities
+would need to report their RoI to the respective competent authorities, who will, in turn, provide those
+to the ESAs.
+To help financial entities develop their RoI in accordance with the requirements set out in the ITS on
+the Registers of Information and be ready to report these registers from 2025, the ESAs and the
+competent authorities have carried out a dry run exercise in 2024. It allowed for the testing of the
+reporting processes in an environment as close as possible to the official reporting process.
+Furthermore, the ESAs aimed at facilitating the early preparation of the competent authorities by
+onboarding them to the reporting channels that will be used for the official reporting from 2025
+onwards. The exercise was carried out on a voluntary and ‘best effort’ basis.
+The dry run was launched in April 2024 using the January 2024 ESAs Final Report of the draft ITS on
+the Registers of Information1 as the basis. It was supported by numerous tools provided by the ESAs,
+such as templates for the registers, draft data point model, draft reporting taxonomy, examples and
+instructions for filling data fields, and a tool for converting Excel files into plain-csv files which is the
+format used by the ESAs for the RoI reporting. Furthermore, the ESAs supported financial entities
+through a series of workshops, maintained and updated ‘frequently asked questions’ document and
+responded to the individual queries through the dedicated email channel.
+The dry run exercise has elicited the interest of a large number of financial entities from the 27 EU
+Member States with 1,039 financial entities participating in the exercise and providing their registers
+by the reporting deadline of 30 August 2024. They represented a wide range of financial entity types
+subject to DORA. The majority of the financial entities participating were credit institutions, insurance
+and reinsurance undertakings and investment firms. Most of the registers have been submitted on the
+consolidated basis leading to the total number of financial entities covered by the dry run exercise
+being 3,447.
+The ESAs performed a two-step data quality assessment process. This process covered (1) technical
+integration checks, such as the use of correct file formats, naming conventions etc., and (2) data quality
+and validations checks that focused on the use of data point model, unique identifiers, content of
+1 See: Implementing Technical Standards to establish the templates for the register of information | European Banking
+Authority
+3
+mandatory data fields etc. Altogether each register that passed the technical integration checks were
+subject to 116 data quality checks run on all applicable data points. The ESAs shared individual
+feedback on the data quality issues with the competent authorities which authorities shared further
+with the participating financial entities.
+Out of the 947 registers that passed the data integration checks and were analysed, 6.5% successfully
+passed all data quality checks, while 50% of the remaining registers failed less than five data quality
+checks.
+The relatively high degree of data quality issues observed in the dry run was expected and is in line
+with the ‘best effort’ nature of the exercise. The most frequent failed data quality check was related
+to missing mandatory information (86% of all data errors). Another frequent failed check was related
+to the use of unique identifiers for the financial entities and ICT third-party service providers (for the
+purposes of the exercise, the LEI was the mandatory identifier for the financial entities, whereas for
+their third-party service providers financial entities could also use other identifiers).
+From the financial entities with most submissions, credit institutions had the lowest proportion of data
+quality errors in relation to the data points submitted (1.9%), followed by investment firms (2.4%) and
+insurance and reinsurance undertakings (3.3%).
+The dry run exercise allowed financial entities to progress with building and populating their registers
+of information with the required data. The exercise also allowed all parties to test the reporting
+channels and make improvements to better facilitate the official reporting that will start from 2025.
+The ESAs took advantage of the exercise and introduced clarifications and simplifications into the
+reporting instructions, also leveraging on all interactions with the industry over the course of the
+exercise.
+The preparatory efforts should not stop with the completion of the dry run. The individual data quality
+feedback provided to the financial entities should help them to continue improving the quality of their
+data and ensure that the registers to be submitted in 2025 meet the regulatory requirements, are
+complete and provide all the information necessary for the CTPP designation by the ESAs.
+The key findings presented in this report as well as all supporting materials provided by the ESAs should
+be carefully considered by all industry stakeholders including those financial entities that did not
+participate in the dry run exercise. With additional efforts from the industry, the ESAs are confident
+that the data submitted will be of sufficient quality.
+4
+1. Background and introduction
+1.1 Registers of information
+1. Regulation (EU) 2022/2554 (Digital Operational Resilience Act – DORA) requires financial entities
+in its scope to maintain a RoI in relation to all contractual arrangements on the use of ICT services
+provided by the ICT third-party service providers (Article 28(3) of DORA). These RoI are required to
+be maintained at entity, sub-consolidated and consolidated levels with the structure and content
+of the registers set out in the implementing technical standards to establish the standard
+templates for the purposes of the register of information referred to in Article 28(3) of DORA and
+adopted pursuant to Article 28(9) of DORA (ITS on the Registers of information).
+2. Given the comprehensive nature of the RoI and their importance for the ICT and third-party risk
+management purposes, the RoI will serve for different purposes in practice: (1) for financial entities
+to monitor their ICT third-party risk, (2) for the EU competent authorities to supervise the ICT and
+third-party risk management of the financial entities and (3) for the ESAs to designate the critical
+CTPPs which will be subject to an EU-level oversight.
+3. The latter two purposes of the RoI also introduce a reporting dimension, where (1) the competent
+authorities have the power to request the full register of information in accordance with Article
+28(3), fourth subparagraph of DORA, and (2) the ESAs require the competent authorities to submit
+the received RoI as part of the information necessary for the designation of the CTTPs in
+accordance with Article 31(1)(a) of DORA2.
+1.2 Dry run exercise
+4. The primary objective of the exercise was to help financial entities with the preparation of the RoI
+and their reporting to the competent authorities and the ESAs. The exercise aimed at helping the
+industry with improving data quality for the formal reporting that will begin from 2025. The dry
+run exercise also allowed for testing the reporting processes in an environment as close as possible
+to the official reporting. Furthermore, the ESAs aimed at facilitating the early preparation of the
+competent authorities by onboarding them to the reporting channels that will be used for the
+official reporting.
+5. The voluntary dry run exercise was launched in April 2024, when the financial entities were invited
+to complete and report on the ‘best efforts’ basis RoI using the ESAs Final Report on the draft ITS
+on the Registers of information published in January 20243 as the basis for the content of the
+registers. The participating financial entities were requested to provide their full RoI following the
+reporting specifications provided by the ESAs in accordance with the calendar set by the relevant
+2 See: ESA decision of 8 November concerning the reporting by competent authorities to the ESAs of information necessary
+for the designation of critical ICT third-party service providers in accordance with Article 31(1)(a) of Regulation (EU)
+2022/2554 (ESA 2024 22 Decision on reporting of information for CTPP designation.pdf)
+3 See: ESAs Final Report on draft ITS on Registers of Information
+5
+competent authorities. The competent authorities were expected to provide the registers to the
+ESAs by 31 August (see Annex 1 for the overview of the timeline for the exercise).
+6. Whilst preparing for the official reporting of the RoI, the ESAs designed the dry run exercise as
+close as possible to the official reporting and introduced as many common elements as possible.
+In particular, in the dry run exercise, financial entities were requested to report their RoI to their
+respective competent authorities, who in turn provided the registers to the ESAs using the same
+channels that will be used for the reporting from 2025 onwards.
+7. Having in mind the need to minimise the reporting of data whilst recognising the requirement to
+maintain the RoI at the individual, sub-consolidated and consolidated levels, financial entities were
+asked to report their RoI at the highest possible level of consolidation considering also the
+supervisory responsibilities of the competent authorities under DORA.
+8. The ESAs have introduced common reporting format for the reporting of the registers (plain-csv)
+that will be also used for the official reporting.
+9. Similar to the official reporting coming in place from 2025, the dry run was run by the EBA on
+behalf of the three ESAs using the EBA data and reporting infrastructure and, to the extent
+possible, similar tools as in the official reporting.
+10. To support the financial entities and the competent authorities in the dry run, the ESAs have
+developed and provided an unprecedented amount of support materials, including a draft data
+point model, reporting taxonomy, and specification of reporting format and files to be used for the
+reporting. The ESAs also provided instructions, working templates and the tool to help the financial
+entities to convert their registers into .csv files. Over the active phase of the exercise from May to
+early-September, the ESAs have been also actively supported the financial entities and the
+competent authorities through workshops, frequently asked questions (FAQ) 4 and a dedicated
+email channel, where the ESAs answered over 500 emails during the course of the exercise5.
+11. Following the analysis of the received registers, in September 2024 the ESAs have shared the
+outcomes of the data quality checks that have been applied to the registers included in the sample
+for the analysis with the competent authorities 6. The competent authorities have shared the
+individual feedback with the relevant financial entities. Similar to the earlier phases of the dry run,
+the feedback process was supported by the dedicated email channel where participating financial
+entities and their competent authorities have received answers to their questions regarding the
+feedback.
+4 336 emails from financial entities and 186 from competent authorities not including technical questions regarding
+onboarding to the EBA reporting infrastructure
+5All dry run materials are available here: Preparation for DORA application | European Banking Authority
+6 The data quality feedback was shared using the sftp channels in EBA reporting infrastructure that was used by the most
+competent authorities taking part in the dry run. There were some delays in sharing feedback with the competent
+authorities who chose not to use other reporting channels.
+6
+1.3 The summary report
+12. The objective of this report is to provide the overview of the dry run exercise and its key findings
+focusing on the quality of data found in the RoI submitted to the ESAs. The report draws
+conclusions and highlights lessons learnt that should be considered by the financial entities,
+competent authorities and the ESA to ensure that the financial sector is generally better prepared
+for the start of the application of DORA in 2025 and the RoI to be reported by the financial entities
+are of better quality and meet the requirements of the applicable legislation.
+13. The report is structured in three main sections:
+a. Section 2 provides an overview of the participating financial entities;
+b. Section 3 deals with the key points observed in the dry run submissions from a data quality
+perspective, and
+c. Section 4 focuses on the key lessons learnt for financial entities, competent authorities and
+the ESAs for the finalisation of their preparations for the official reporting of RoI to start from
+2025.
+14. The report is built on the analysis of 947 RoI that have been included into the sample for the
+analysis by the ESAs following the data integration checks. The report has also been informed by
+the interaction with the industry stakeholders through the ‘frequently asked questions’
+mechanism set up for the purpose of the exercise.
+2. Overview of the participating financial
+entities
+15. As part of the preparation for the launch of the dry run exercise, 1,139 financial entities expressed
+their interest in participating. By the submission deadline, the RoI were received from 1,039
+financial entities from 27 Member States and 40 competent authorities. Following the integration
+and validation checks (see also Section 3) registers from 947 entities were included into the data
+set for further analysis following the data integration checks.
+Type of entity Number of financial Share in total
+entities
+Credit institutions 260 27.46%
+Insurance and reinsurance undertakings 225 23.76%
+Investment firms 122 12.88%
+Asset management companies 86 9.08%
+Payment institution 50 5.28%
+7
+Managers of alternative investment funds 40 4.22%
+Institutions for occupational retirement provision 36 3.80%
+Electronic money institutions 30 3.17%
+Other financial entity7 21 2.22%
+Trading venues 18 1.90%
+Insurance intermediaries, reinsurance intermediaries and 17 1.80%
+ancillary insurance intermediaries
+Central security depository 7 0.74%
+Central counterparties 6 0.63%
+Crowdfunding service providers 5 0.53%
+Account information service providers 4 0.42%
+Administrator of critical benchmarks 3 0.32%
+Credit rating agency 3 0.32%
+Crypto-asset service providers8 3 0.32%
+Non-financial entity: Other than ICT intra-group service 3 0.32%
+provider
+Trade repositories 3 0.32%
+Data reporting service providers 2 0.21%
+Non-financial entity: ICT intra-group service provider 2 0.21%
+Securitisation repository 1 0.11%
+Total 947 100.00%
+Figure 1. Submitted registers by financial entity type
+16. Looking at the sectoral distribution (see Figure 1), credit institutions and insurance and reinsurance
+undertakings account for the highest share of submissions, with 27% and 23% of the total
+respectively, followed by investment firms (12%) and asset management companies (9%). In five
+cases the registers have been submitted by non-financial entities acting on behalf of the financial
+entities. Looking at the geographical distribution (see Figure 2), financial entities from Austria sent
+the highest number of submissions (137 files, accounting for 14% of the total) followed by Malta
+(72 submissions) and Hungary (67 submissions).
+Country FE count
+AUSTRIA 137
+MALTA 72
+HUNGARY 67
+ITALY 65
+GERMANY 60
+FRANCE 59
+POLAND 57
+7 These type of financial entities are not subject to DORA requirements and have been included due to the voluntary nature
+of the exercise.
+8 Although CASP are yet to be authorised under MiCAR, some of such entities have submitted their registers on provisional
+basis considering the ongoing authorisation process.
+8
+LUXEMBOURG 57
+NETHERLANDS 50
+SPAIN 47
+PORTUGAL 46
+IRELAND 39
+BELGIUM 38
+LIECHTENSTEIN 31
+GREECE 17
+CROATIA 17
+FINLAND 14
+BULGARIA 13
+CZECH REPUBLIC 11
+SLOVAKIA 10
+SWEDEN 10
+SLOVENIA 9
+ROMANIA 6
+CYPRUS 6
+LITHUANIA 3
+LATVIA 3
+ESTONIA 3
+Figure 2. Submitted registers by country
+17. Most of the registers were submitted at the consolidated level (over 58%), while the remaining
+42% of the registers were reported by individual entities. Considering the entities belonging to the
+groups for which the registers were reported at the consolidated level, the total number of
+financial entities covered by the dry run increases to 3,447. The sectoral distribution slightly
+changes when considering the financial entities within the scope of the RoI. Among the 3,447
+entities, credit institutions and insurance and reinsurance undertakings still account for the highest
+share (30% and 19.3% respectively). Non-financial entities (other than ICT intra-group service
+providers) represent the third largest group (19%), followed by investment firms (8%) and asset
+management companies (6%).
+3. Data quality checks and observations
+3.1 Data quality checks applied in the dry run
+18. All RoI received by the ESAs went through a data quality assessment process that was designed as
+a two-step approach.
+9
+19. First, upon reception by the ESAs, each submission was assessed before being integrated in the
+EBA’s system. A set of three integration checks was conducted, aimed at ensuring that the
+submission could be processed. The following was checked:
+a. submission file matching the required naming convention described in the technical package
+for the exercise;
+b. submission file is not a test submission, including dummy files with no content or exact copies
+of the examples files as published by the ESAs on the dry run exercise webpage;
+c. submission file included completed Template B_01.01 (Entity maintaining the register of
+information)9.
+20. Submissions failing one or more of the three above integration checks were discarded and not
+processed further.
+21. Second, submissions passing the integration checks were subject to the second layer of the data
+quality assurance process, based on the list of 116 data quality checks that were published on the
+dry run exercise webpage. These checks can be divided into five main thematic areas (see Annex
+2 for the detailed list of data quality checks):
+a. use of unique identifiers: the check focused on the use of keys of each template that should
+be unique and not repeated. This check ensured the possibility to link each template with its
+related templates. For example, column 0010 of template B_02.01 allowed this template to
+be linked with B_02.02;
+b. LEI code validity: the validity of each LEI code reported was checked against the GLEIF
+database10;
+c. DPM content: the check focused on respecting the use of the draft DPM members;
+d. content of mandatory fields: the check focused on verifying that the information identified
+as crucial for designation of CTPPs was reported. Although the dry run exercise was run on a
+‘best effort’ basis, a list of fields that will be necessary for the designation was identified.
+These types of checks were aimed to flag this missing information, in the spirit of helping the
+participating entities for the steady state of DORA;
+e. date validity: the check focused on that all the dates were reported in a valid date format.
+22. Each data quality check was run on all applicable data points of the RoI admitted to the analytical
+data set – those that passed the first layer of the integration checks.
+23. At the end of data quality assurance process, the ESAs shared feedback files with the competent
+authorities which comprised detailed data quality feedback for each financial entity analysed that
+included:
+a. a list of submissions that were not processed due to failing integration;
+9 All references to the templates and individual data fields made in this report are made using the template and data field
+codes of the exercise template and data point model published on the exercise webpage in May 2024.
+10 See: GLEIF: https://search.gleif.org/#/search/
+10
+b. for submissions that were accepted and processed, a detailed list of the data quality checks
+failing at datapoint level and for each entity was included.
+3.2 Outcomes of the data quality checks
+24. Out of 1,039 submissions received, 92 were discarded due to failing integration checks. The
+remaining 947 submissions were accepted and processed, and subsequently screened for the 116
+data quality checks from the second layer of the data quality assurance process.
+25. Overall, in 93.5% of the submissions (886 submission) there was at least one data quality failure.
+This was expected and in line with the best-effort nature of the exercise.
+26. The highest number of checks failing for any participating entity was 43 out of 116. The highest
+number of data quality checks failing for a single entity was close to 50,000 (3.6% of the data points
+reported in this specific register).
+27. Looking at the data quality by type of financial entity submitting the data, the volume of failed data
+quality checks is proportional to the number of data points submitted. This can be seen from Figure
+3 below, which shows the ten types of entities with the highest rank in terms of number of data
+points submitted and of data quality checks failed.
+Type of financial entity Submissions Data quality Data points Share of
+received checks failed submitted checks failed
+Insurance and reinsurance 225 97,289 2,935,579 3.3%
+undertakings
+Credit institutions 260 56,511 2,931,767 1.9%
+Institutions for 36 10,434 344,283 3.0%
+occupational retirement
+provision
+Investment firms 122 6,078 248,988 2.4%
+Asset management 86 2,170 209,306 1.0%
+companies
+Managers of alternative 40 1,124 90,016 1.2%
+investment funds
+Payment institution 50 1,877 63,318 3.0%
+Insurance intermediaries, 17 1,417 49,906 2.8%
+reinsurance intermediaries
+and ancillary insurance
+intermediaries
+Electronic money 30 1,073 42,320 2.5%
+institutions
+Central security depository 7 466 38,150 1.2%
+Figure 3. Overview of the failed data quality checks compared to data points submitted
+11
+28. The total number of the failed data quality checks for all submissions received amounts to over
+235,00011. That should be taken into account with total number of the received data points of over
+9,275,000 which makes the overall ratio of 2.5%.
+29. Figure 4 provides the distribution of the over 235,000 failed checks according to the five areas in
+which the data quality checks were split.
+Figure 4. Breakdown of failed data quality checks by their type
+Mandatory information missing
+30. As seen from Figure 4, out of the five areas identified, the area with most failures is ‘mandatory
+information missing’, with 86% of the failures being due to this type of check. While this finding
+was expected since the dry run was conducted on a ‘best effort’ basis (i.e. partial or incomplete
+registers were accepted), this will be of particular importance for the official reporting, when all
+datapoints specified in the ITS on the Registers of information will have to be reported and missing
+values will trigger data quality feedback requiring resubmission.
+31. The most encountered issue with the provision of mandatory information, was the provision of
+identification codes for the ICT third-party service providers and for their parent undertaking. This
+error is particularly problematic for the official reporting as the identification and grouping of ICT
+third-party service providers is essential for the CTPP designation process.
+32. The highest share of missing information (60%) was found in template B_02.02 (Contractual
+arrangements – specific information). Two blocks of information were often missing there:
+11 The total number of data quality errors excludes errors for three data quality checks that have flaws in their designed
+(DOR_0021, DOR_0094, DOR_0117). These checks were applied and reported in the individual feedback to the financial
+entities, and they have been instructed to disregard them. The errors have been corrected in the validation rules for the
+official reporting of the registers from 2025 onwards.
+12
+a. information on the ICT third-party service provider, notably the type of code used for
+identification of the provider and the code itself (columns 0030 and 0040);
+b. the function identifier (column 0050) the related type of ICT services (column 0060).
+33. Over 17% of the missing information was from template B_05.01 (ICT third-party service provider).
+Information on the country of the ICT third-party service provider’s headquarters was often
+missing (column 0050), together with information on the ultimate parent of the ICT third-party
+service provider: identification code and type of code (columns 0080 and 0090).
+34. Template B_07.01 (Assessment of the ICT services) is the template for which the highest
+concentration and number of missing values were identified. Missing values in this template
+account for 20% of all missing values. For all fields except the key (column 0010, contractual
+arrangement reference number) a high number of missing values was observed. Missing
+information in this template can be divided in two blocks:
+a. information on the ICT third-party service provider, notably the type of code used for
+identification of the provider, the code itself and the substitutability of the provider (columns
+0020, 0030 and 0050) column 0040 (type of ICT services);
+b. information on the contracted ICT service: the type of ICT service, the possibility of
+reintegration of the ICT service and information on the existence of alternative ICT third-
+party service providers (columns 0040, 0090 and 0110).
+Invalid LEI codes
+35. The second area for which more failures were observed is ‘Invalid LEI codes’, accounting for 6.5%
+of the failures. All LEI codes reported in the templates were checked against the GLEIF database
+for validity. The number of invalid LEI codes was actually lower than what was observed in similar
+previous exercises. This signals that, when an LEI code is reported, it is very often a valid one. An
+unexpected finding was that more invalid LEI codes were reported for financial entities (close to
+9,000) rather than for TPPs (close to 6,000) – see also Section 4.3. In many of these instances,
+national codes or other types of codes were reported for financial entities instead of the requested
+LEI codes. Invalid LEI codes of parent undertakings of TPPs were observed in a very low number of
+cases, as in most cases the issue was that an LEI was not reported rather than an invalid LEI being
+reported.
+36. Even though names of the TPPs and of their parent undertakings were not subject to the data
+quality assurance process, a high variability in the names was observed. The fields related to the
+name of the entities are one of the most difficult pieces of information to compare across TPPs.
+While this is not a big issue when identifiers are provided, it makes it very hard to compare names
+in the absence of an identifier or when different types of identifiers are provided.
+Invalid DPM value
+37. The third area with most common error was ‘Invalid DPM value’ (4% of the total failures). Failing
+this check signalled that the draft DPM was not used when producing the registers. For official
+reporting from 2025 onwards it will be important to make sure to follow the DPM that will be
+published as part of the ITS technical reporting package, as failures will trigger data quality
+feedback requiring resubmission.
+13
+38. Duplicate values on key variables and invalid dates together accounted for a small percentage of
+failures (2.8%).
+4. Lessons learnt and recommendations
+4.1 Lessons learnt for the ESAs and the competent authorities
+39. The dry run exercise and interaction with the industry during the exercise through the workshops
+and questions to the dedicated email channel provided valuable information for the ESAs, in
+particular:
+a. leveraging on the delay in the adoption of the ITS on the Registers of information by the EU
+Commission and its rejection, the ESAs introduced numerous clarifications and
+simplifications in the reporting instructions. These changes were incorporated into the text
+of the ITS published together with the ESAs Opinion on the rejection of the ITS on 15 October
+202412. These changes have been reflected in the final text of the ITS as adopted by the EU
+Commission13;
+b. the data quality checks applied in the dry run and the interaction with the industry through
+the dedicated email channel informed the ESAs work on finalising validation rules and data
+quality checks to be applied for the official reporting14.
+40. The application of the data quality checks in the dry run exercise also informed the ESAs about
+making improvements in the data validation process to be applied in the official reporting from
+2025. Thus, the data quality assurance process will be also designed in two stages which is similar
+to the dry run, with the (1) technical layer, and (2) validation and quality check layer. The feedback
+to the submitters of the registers to the ESAs (competent authorities) will be provided also in two
+stages allowing for maximum efficiency for managing the correction of errors and resubmission of
+data:
+a. Technical layer (e.g. use of specified file formats, naming conventions, file structure etc.):
+upon reception each submission will be assessed before being integrated in the EBA's
+systems. Submission not respecting these technical checks included in this layer will be
+rejected with the feedback provided to the submitter. The submitters will be expected to
+resubmit the files after correcting the errors.
+12 See: ESAs respond to the European Commission’s rejection of the technical standards on registers of information under
+the Digital Operational Resilience Act and call for swift adoption | European Banking Authority
+13 See: Commission Implementing Regulation (EU) 2024/2956 of 29 November 2024 (Implementing regulation - EU -
+2024/2956 - EN - EUR-Lex)
+14 See: https://www.eba.europa.eu/sites/default/files/2024-11/2506bbcd-f8d6-4710-a273-
+46d812b154f3/Draft%20validation%20rules%20for%20DORA%20reporting%20of%20RoI.xlsx
+14
+b. Validation layer: Data quality checks will be applied to the data that is accepted and stored
+after passing the technical layer. These data quality checks include both DPM automatic
+checks, as well as business checks and data model checks, including checks against external
+sources, e.g. LEI checks against GLEIF. These checks will be applied to the data reported in
+the individual files of the RoI. Failing one of these checks will trigger an error that will be
+flagged to the submitter as part of data quality feedback. The submitter will be expected to
+resubmit the files after correcting the errors within the timelines indicated.
+41. Considering the importance of the validation rules and data quality assurance process for ensuring
+the good quality of data submitted to the ESAs for the purposes of CTPP designation and to support
+the finalisation of the preparations for the reporting of the RoI the ESAs have published validation
+rules in November 202415. These rules that reflect the experience from the dry run will be included
+in the updated reporting technical package (including updated data point model, taxonomy and
+validation rules), which is set to be published in December 2024.
+42. Another important point for improvement of the processes for official reporting from 2025
+onwards was identified in the use of the reporting channels between the EBA and the competent
+authorities. For the dry run exercise, the competent authorities have the possibility to use two
+distinct channels : (1) sftp for uploading multiple files and (2) user interface for uploading individual
+files. Although most of the authorities have been onboarded for the use of sftp channels, some
+authorities have chosen to rely only on user interface solution due to a limited number of
+participating financial entities from their jurisdictions and simplified onboarding procedures. Lack
+of established sftp channels have caused some delays later in the process of the dry run, when the
+ESAs have shared data quality feedback with the competent authorities. Authorities not
+onboarded to sftp channels were not able to access the feedback documents until workarounds
+were found. Considering the importance of the data quality feedback in the official reporting given
+the requirement for the resubmission of data (there were no resubmissions of data in the dry run)
+it is essential for all competent authorities under DORA to be onboarded to sftp channels to ensure
+smooth bi-directional exchange of information.
+4.2 Lessons learnt and recommendations for financial entities
+Completeness of the registers of information
+43. Contrary to the dry run exercise that was run on a ‘best efforts’ basis and financial entities were
+able to submit partial registers with mandatory data fields missing, this would not be possible in
+the official reporting from 2025. Once DORA applies, the financial entities will have to maintain
+and update their RoI in relation to all contractual arrangements on the use of ICT services provided
+by TPPs, where those registers shall meet the requirements of DORA and the ITS on the Registers
+of information. Therefore, comprehensive registers will be expected during the data collection
+process. The RoI submitted to the ESAs from 2025, will be used for the purposes of CTPP
+designation and would need to contain all mandatory information as indicated in the ITS on the
+Registers of information and DPM.
+15 Ibid
+15
+44. It is important for the financial entities to continue identifying and integrating the missing data
+into their RoI, so they are able to submit full registers to their competent authorities and then the
+ESAs. Missing mandatory information will be flagged as data quality issues with the request to
+resubmit the registers within the short time frame provided.
+Adherence to provided instructions and DPM
+45. During the interactions with the financial entities the ESAs noted that in many cases the answers
+to the questions raised by the financial entities are clearly available from either general or data
+field-specific instructions available in the ITS on the Registers of information. In particular, the ESAs
+noted in the dry run that whilst financial entities followed data field-specific instructions, many
+have disregarded general instructions to templates provided in the ITS.
+46. In the efforts to finalise preparations of the RoI, financial entities are encouraged to familiarise
+themselves as much as possible with and follow all instructions provided in the ITS16 as well as
+practical clarifications provided in the FAQ for the dry run exercise17. As mentioned in Section 4.1,
+based on the experience from the dry run, the ESAs have also clarified and simplified the
+instructions that have been included into the text of the ITS annexed to the ESAs Opinion published
+on 15 October 2024 as also reflected in the final text of the ITS adopted by the EU Commission.
+47. Going forward, as the ITS on the Registers of information have been adopted by the EU
+Commission and published in the EU Official Journal, if financial entities have questions regarding
+the interpretation of the ITS and its requirements they are encouraged to use the established
+‘Questions and Answers’ mechanism (Q&A) set up by the ESAs for all regulatory products18.
+Adaptation of the registers to meet the latest regulatory requirements
+48. Although the ITS on the Registers of information has been just recently adopted by the EU
+Commission19, the ESAs note that the essential part of the requirements is publicly available since
+the publication of the ESAs Final Report in January 2024 that has been used as the basis for the dry
+run. The changes in the requirements for the registers in the final ITS following the rejection of the
+ITS by the EU Commission and the ESAs Opinion on the rejection are limited.
+49. Therefore, financial entities are encouraged to continue as much as possible the preparation of
+their registers, especially for information which may not be immediately available (e.g. the relevant
+identifiers of their TPPs), where additional data collection/retrieval efforts may be necessary given
+that such information have not been used in the dry run.
+Use of identifiers and their importance for CTPP designation process
+50. To perform the designation of CTPPs, the ESAs need the information necessary for the assessment
+of the criticality criteria in relation to ICT services provided by the ICT third-party service providers
+referred to in Article 31(2) of DORA and that set out in Commission Delegated Regulation (EU)
+16 See: Commission Implementing Regulation (EU) 2024/2956 of 29 November 2024 (Implementing regulation - EU -
+2024/2956 - EN - EUR-Lex)
+17 See: Preparation for DORA application | European Banking Authority
+18 See: Joint Q&As - EIOPA
+19 See: Commission Implementing Regulation (EU) 2024/2956 of 29 November 2024 (Implementing regulation - EU -
+2024/2956 - EN - EUR-Lex)
+16
+2024/1502. Given that the assessment of TPPs for the purposes of the designation of CTPPs needs
+to consider groups of TPPs, the ESAs would have to aggregate and compare information about the
+financial entities’ TPPs. Performing this task requires the ESAs to be able to uniquely identify and
+group the related ICT third-party service providers and their subcontractors.
+51. To this end, all TPPs recorded in the RoI in template B_05.01, including their ultimate parent
+undertakings and suppliers, should be uniquely identified using identifiers specified in the ITS on
+the Registers of information. These identifiers should be unique, consistently used across all
+relevant templates of the registers, and be verifiable by the ESAs against available external sources,
+notably GLEIF for the verification of LEI. The identification, verification and grouping of TPPs using
+unique identifiers is of utmost importance for TPPs that are legal persons.
+52. Another important area where unique identifiers are important in the RoI is the identification of
+the financial entities submitting the registers (Template B_01.01) and financial entities making part
+of the consolidated groups covered by the consolidated registers, where relevant (Template
+B_01.02). The only identifier that is allowed to be used for the identification of financial entities by
+the ITS on the Registers of information is the LEI. The experience of the dry run has shown that
+there are financial entities without LEI, which makes the submission and processing of the registers
+of information impossible by the ESAs given that in the absence of reliable master data for all
+financial entity types under DORA. LEI is the only means to identify and verify financial entities
+submitting the data and covered by the data.
+53. To prepare for the official reporting of the registers starting from 2025, financial entities are
+encouraged to ensure that they have a valid LEI for themselves and for all financial entities
+belonging to their consolidated groups noting that where the registers are reported on the
+consolidated basis, all financial entities included in template B_01.02 should be identified with LEI.
+Financial entities are also encouraged to work with their TPP so that those are identified and
+recorded in the registers with identifiers specified in the ITS on the Registers of information.
+54. RoI without identifiers will be rejected when the LEIs are missing for the financial entities, and
+flagged for the corrections and resubmissions in the case of missing identifiers for the TPPs.
+Reporting formats and tools
+55. The reporting formats used in the official reporting of the RoI will be the same as the formats used
+in the dry run. In particular, the financial entities will be expected to submit a similar reporting
+package included into the .zip file containing individual .csv files for all the templates included in
+their RoI, and .json file with meta data, as explained in the materials made available for the dry run
+exercise.
+56. However, differently to the dry run exercise, the ESAs will not support financial entities with
+preparations of the .csv files and the report package and the .xls to .csv conversion tool used in the
+dry run will not be updated and provided for the official reporting.
+57. To this end, financial entities are encouraged to choose the most appropriate technical solutions
+for maintaining the registers in accordance with the requirements of DORA and the ITS on the
+Registers of information. These solutions should ensure appropriate conversion of the registers
+17
+into the specified reporting formats for the purposes of the reporting to the ESAs, unless the
+competent authorities instruct the financial entities otherwise20.
+20 The ESAs do not specify the reporting format to be used by the financial entities for reporting of the RoI to their competent
+authorities not they specify who should do the conversion of the RoI into csv files. This conversion can be done by the financial
+entity or any third party, or even by the competent authority, provided financial entities have reached such agreement with
+the relevant competent authorities.
+18
+Annexes
+Annex 1. Timeline of the dry run exercise
+Time Action
+11 April 2024 Announcement of the exercise
+30 April 2024 Industry workshop – introduction of the exercise
+31 May 2024 Publication of all materials and supporting documentation
+10 June 2024 Industry workshop – explanation of the materials and tools provided
+4 July 2024 Publication of the updated FAQ document
+29 July 2024 Publication of the updated FAQ document
+30 August 2024 Deadline for the submissions of the registers to the ESAs
+6 September 2024 Freezing of the data set for analysis and data quality feedback
+25 September Sharing the data quality feedback with the competent authorities (feedback
+2024 uploaded to sftp channel used for receiving the by the EBA)
+December 2024 Publication of the summary report
+18 December 2024 Industry workshop – overall lessons learnt from the exercise
+19
+Annex 2. List of the data quality checks applied to the registers of information in the dry run21
+DPM content
+ID Type Severity Template Columns If value missing Narrative explanation Prerequisites
+used
+treat as zero/empty
+DOR_0001 Unique identifier Warning b_01_01 c0010 string Key value: no duplicates should be reported.
+treat as zero/empty
+DOR_0002 Unique identifier Warning b_01_03 c0010 c0020 string Key value: no duplicates should be reported.
+LEI code needs to be a valid one according to the
+DOR_0003 LEI code validity Warning b_01_01 c0010 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+DOR_0004 LEI code validity Warning b_01_02 c0010 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+DOR_0005 LEI code validity Warning b_01_02 c0060 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+DOR_0006 LEI code validity Warning b_01_03 c0020 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+DOR_0007 LEI code validity Warning b_02_02 c0020 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+c0020
+DOR_0008 LEI code validity Warning b_03_01 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+c0020
+DOR_0009 LEI code validity Warning b_03_03 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+c0020
+DOR_0010 LEI code validity Warning b_04_01 do not run rule GLEIF database
+LEI code needs to be a valid one according to the
+c0040
+DOR_0011 LEI code validity Warning b_06_01 do not run rule GLEIF database
+21 The list of data quality checks includes three data quality checks that have flaws in their designed (DOR_0021, DOR_0094, DOR_0117). These checks were applied and reported in the individual feedback to the
+financial entities, and they have been instructed to disregard them. The errors have been corrected in the validation rules for the official reporting of the registers from 2025 onwards.
+20
+treat as zero/empty LEI code needs to be a valid one according to the
+DOR_0012 LEI code validity Warning b_02_02 c0030 string GLEIF database b_02_02_c0040 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+c0020
+DOR_0013 LEI code validity Warning b_03_02 string GLEIF database b_03_02_c0030 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+DOR_0014 LEI code validity Warning b_05_01 c0010 string GLEIF database b_05_01_c0020 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+DOR_0015 LEI code validity Warning b_05_01 c0080 string GLEIF database b_05_01_c0090 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+DOR_0016 LEI code validity Warning b_05_02 c0030 string GLEIF database b_05_02_c0040 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+DOR_0017 LEI code validity Warning b_05_02 c0060 string GLEIF database b_05_02_c0070 = 'LEI'
+treat as zero/empty LEI code needs to be a valid one according to the
+c0020
+DOR_0018 LEI code validity Warning b_07_01 string GLEIF database b_07_01_c0030 = 'LEI'
+treat as zero/empty
+DOR_0019 Unique identifier Warning b_01_02 c0010 string Key value: no duplicates should be reported.
+treat as zero/empty
+DOR_0020 Unique identifier Warning b_02_01 c0010 string Key value: no duplicates should be reported.
+c0010 c0020
+c0030 c0040
+treat as zero/empty
+c0050 c0060
+DOR_0021 Unique identifier Warning b_02_02 string Key value: no duplicates should be reported.
+treat as zero/empty
+c0010 c0020
+DOR_0022 Unique identifier Warning b_02_03 string Key value: no duplicates should be reported.
+treat as zero/empty
+b_03_01 c0010 c0020
+DOR_0023 Unique identifier Warning string Key value: no duplicates should be reported.
+c0010 c0020
+b_03_02 treat as zero/empty
+c0030
+DOR_0024 Unique identifier Warning string Key value: no duplicates should be reported.
+treat as zero/empty
+b_03_03 c0010 c0020
+DOR_0025 Unique identifier Warning string Key value: no duplicates should be reported.
+c0010 c0020
+treat as zero/empty
+c0040
+DOR_0026 Unique identifier Warning b_04_01 string Key value: no duplicates should be reported.
+treat as zero/empty
+c0010 c0020
+DOR_0027 Unique identifier Warning b_05_01 string Key value: no duplicates should be reported.
+21
+c0010 c0020
+treat as zero/empty
+c0030 c0040
+DOR_0028 Unique identifier Warning b_05_02 string Key value: no duplicates should be reported.
+treat as zero/empty
+c0010 c0040
+DOR_0029 Unique identifier Warning b_06_01 string Key value: no duplicates should be reported.
+c0010 c0020
+treat as zero/empty
+c0030 c0040
+DOR_0030 Unique identifier Warning b_07_01 string Key value: no duplicates should be reported.
+Drop down list values need to be according to DPM
+c0030
+DOR_0031 Drop-down list value Warning b_01_01 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0032 Drop-down list value Warning b_01_01 LISTOneForty do not run rule rules
+Drop down list values need to be according to DPM
+c0030
+DOR_0033 Drop-down list value Warning b_01_02 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0034 Drop-down list value Warning b_01_02 LISTOneForty do not run rule rules
+Drop down list values need to be according to DPM
+c0050
+DOR_0035 Drop-down list value Warning b_01_02 LISTOneFifty do not run rule rules
+Drop down list values need to be according to DPM
+c0100
+DOR_0036 Drop-down list value Warning b_01_02 LISTCURRENCY do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0037 Drop-down list value Warning b_01_03 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0020
+DOR_0038 Drop-down list value Warning b_02_01 LISTTwoTwenty do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0039 Drop-down list value Warning b_02_01 LISTCURRENCY do not run rule rules
+Drop down list values need to be according to DPM
+c0060
+DOR_0040 Drop-down list value Warning b_02_02 LISTANNEXIII do not run rule rules
+Drop down list values need to be according to DPM
+c0090
+DOR_0041 Drop-down list value Warning b_02_02 LISTTwoNinety do not run rule rules
+Drop down list values need to be according to DPM
+c0120
+DOR_0042 Drop-down list value Warning b_02_02 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0130
+DOR_0043 Drop-down list value Warning b_02_02 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0140
+DOR_0044 Drop-down list value Warning b_02_02 LISTBINARY do not run rule rules
+22
+Drop down list values need to be according to DPM
+c0150
+DOR_0045 Drop-down list value Warning b_02_02 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0160
+DOR_0046 Drop-down list value Warning b_02_02 LISTCOUNTRY do not run rule rules
+Drop down list values need to be according to DPM
+c0170
+DOR_0047 Drop-down list value Warning b_02_02 LISTTwoSeventy do not run rule rules
+Drop down list values need to be according to DPM
+c0180
+DOR_0048 Drop-down list value Warning b_02_02 LISTTwoEighty do not run rule rules
+Drop down list values need to be according to DPM
+c0030
+DOR_0049 Drop-down list value Warning b_04_01 LISTFourThirty do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0050 Drop-down list value Warning b_05_01 LISTFiveForty do not run rule rules
+Drop down list values need to be according to DPM
+c0050
+DOR_0051 Drop-down list value Warning b_05_01 LISTCOUNTRY do not run rule rules
+treat as zero/empty Drop down list values need to be according to DPM
+c0060
+DOR_0052 Drop-down list value Warning b_05_01 LISTCURRENCY string rules
+Drop down list values need to be according to DPM
+c0020
+DOR_0053 Drop-down list value Warning b_05_02 LISTANNEXIII do not run rule rules
+Drop down list values need to be according to DPM
+c0020
+DOR_0054 Drop-down list value Warning b_06_01 LISTSixTwenty do not run rule rules
+Drop down list values need to be according to DPM
+c0050
+DOR_0055 Drop-down list value Warning b_06_01 LISTSixFifty do not run rule rules
+Drop down list values need to be according to DPM
+c0100
+DOR_0056 Drop-down list value Warning b_06_01 LISTSixZero do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0057 Drop-down list value Warning b_07_01 LISTANNEXIII do not run rule rules
+Drop down list values need to be according to DPM
+c0050
+DOR_0058 Drop-down list value Warning b_07_01 LISTSevenFifty do not run rule rules
+Drop down list values need to be according to DPM
+c0060
+DOR_0059 Drop-down list value Warning b_07_01 LISTSevenSixty do not run rule rules
+Drop down list values need to be according to DPM
+c0080
+DOR_0060 Drop-down list value Warning b_07_01 LISTBINARY do not run rule rules
+Drop down list values need to be according to DPM
+c0040
+DOR_0061 Drop-down list value Warning b_07_01 LISTANNEXIII do not run rule rules
+23
+Drop down list values need to be according to DPM
+c0050
+DOR_0062 Drop-down list value Warning b_07_01 LISTSevenFifty do not run rule rules
+Drop down list values need to be according to DPM
+c0060
+DOR_0063 Drop-down list value Warning b_07_01 LISTSevenSixty do not run rule rules
+c0090 Drop down list values need to be according to DPM
+DOR_0064 Drop-down list value Warning b_07_01 LISTSevenNinety do not run rule rules
+Drop down list values need to be according to DPM
+c0100
+DOR_0065 Drop-down list value Warning b_07_01 LISTSixZero do not run rule rules
+Drop down list values need to be according to DPM
+c0110
+DOR_0066 Drop-down list value Warning b_07_01 LISTSixFifty do not run rule rules
+treat as zero/empty
+c0010
+DOR_0067 Mandatory fields Blocking b_01_01 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0068 Mandatory fields Blocking b_01_01 string Value should not be missing
+treat as zero/empty
+c0030
+DOR_0069 Mandatory fields Blocking b_01_01 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0070 Mandatory fields Blocking b_01_01 string Value should not be missing
+treat as zero/empty
+c0050
+DOR_0071 Mandatory fields Blocking b_01_01 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0072 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0073 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0030
+DOR_0074 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0075 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0100
+DOR_0076 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0110
+DOR_0077 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0078 Mandatory fields Warning b_02_02 string Value should not be missing
+24
+treat as zero/empty
+c0020
+DOR_0079 Mandatory fields Warning b_02_02 string Value should not be missing
+treat as zero/empty
+c0030
+DOR_0080 Mandatory fields Warning b_02_02 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0081 Mandatory fields Warning b_02_02 string Value should not be missing
+treat as zero/empty
+c0050
+DOR_0082 Mandatory fields Warning b_02_02 string Value should not be missing
+treat as zero/empty
+c0060
+DOR_0083 Mandatory fields Warning b_02_02 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0084 Mandatory fields Warning b_04_01 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0085 Mandatory fields Warning b_04_01 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0086 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0087 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0030
+DOR_0088 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0089 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0050
+DOR_0090 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0080
+DOR_0091 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0090
+DOR_0092 Mandatory fields Warning b_05_01 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0093 Mandatory fields Warning b_06_01 string Value should not be missing
+treat as zero/empty
+c0060
+DOR_0094 Mandatory fields Warning b_06_01 string Value should not be missing
+treat as zero/empty
+c0010
+DOR_0095 Mandatory fields Warning b_07_01 string Value should not be missing
+25
+treat as zero/empty
+c0020
+DOR_0096 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0030
+DOR_0097 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0098 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0050
+DOR_0099 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0090
+DOR_0100 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0110
+DOR_0101 Mandatory fields Warning b_07_01 string Value should not be missing
+treat as zero/empty
+c0060
+DOR_0102 Mandatory fields Warning b_01_02 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0103 Mandatory fields Warning b_01_03 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0104 Mandatory fields Warning b_03_01 string Value should not be missing
+treat as zero/empty
+c0020
+DOR_0105 Mandatory fields Warning b_03_03 string Value should not be missing
+treat as zero/empty
+c0040
+DOR_0106 Mandatory fields Warning b_06_01 string Value should not be missing
+DOR_0107 Date format Warning b_01_02 c0070 do not run rule Value entered is a date
+DOR_0108 Date format Warning b_01_02 c0080 do not run rule Value entered is a date
+DOR_0109 Date format Warning b_01_02 c0090 do not run rule Value entered is a date
+DOR_0110 Date format Warning b_02_02 c0070 do not run rule Value entered is a date
+DOR_0111 Date format Warning b_02_02 c0080 do not run rule Value entered is a date
+DOR_0112 Date format Warning b_06_01 c0070 do not run rule Value entered is a date
+DOR_0113 Date format Warning b_07_01 c0070 do not run rule Value entered is a date
+DOR_0114 Date format Warning b_01_01 c0060 do not run rule
+treat as zero/empty if b_06_01_c0050 =
+DOR_0117 Mandatory fields Warning b_06_01 c0060 string Value should not be missing 'eba_BT:x28'
+26
+if b_07_01_c0050 in
+treat as zero/empty ('eba_ZZ:x959'
+DOR_0118 Mandatory fields Warning b_07_01 c0060 string Value should not be missing 'eba_ZZ:x960')
+27

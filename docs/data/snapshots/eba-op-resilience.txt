@@ -1,0 +1,441 @@
+Operational resilience | European Banking Authority
+Skip to main content
+Menu
+Extranet
+Log in
+About us
+Back
+About us
+The EBA is an independent EU Authority.  We play a key role in safeguarding the integrity and robustness of the EU banking sector to support financial stability in the EU.
+Learn more
+Mission, values and tasks
+Organisation and governance
+Governance structure and decision making
+EBA within the EU institutional framework
+Internal organisation
+Accountability
+Legal and policy framework
+EBA regulation and institutional framework
+Compliance with EBA regulatory products
+Sustainable EBA
+Diversity and inclusion
+Careers
+Meet our team
+Vacancies
+Budget
+Procurement
+Activities
+Back
+Activities
+To contribute to the stability and effectiveness of the European financial system, the EBA develops harmonised rules for financial institutions, promotes convergence of supervisory practices, monitors, and advises on the impact of financial innovation and the transition to sustainable finance.
+Start here
+Single Rulebook
+Simplification and efficiency
+Implementing Basel III in Europe
+Supervisory convergence
+Supervisory convergence
+Supervisory disclosure
+Peer Reviews
+Mediation
+Breach of Union Law
+Colleges
+Training
+Direct supervision and oversight
+Markets in Crypto-assets
+Digital operational resilience Act
+Validation of pro forma-initial margin models
+Information for consumers
+National competent authorities for consumer protection
+How to complain
+Personal finance at the EU level
+Warnings
+Financial education
+National registers and national authorities responsible for handling complaints related to credit servicers
+Frauds and scams
+Research Workshops
+Ad hoc activities
+Our response to Covid-19
+Brexit
+Risk and data analysis
+Back
+Risk and data analysis
+To ensure the orderly functioning and stability of the financial system in the European Union, we monitor and analyse risks and vulnerabilities relevant for the regulation of banks and investment firms. We also facilitate information sharing among authorities and institutions through supervisory reporting and data disclosure.
+Learn more
+European Data Access Portal (EDAP)
+Risk analysis
+EU-wide stress testing
+EU wide transparency exercise
+Risk monitoring
+Thematic analysis
+Remuneration and diversity analysis
+Pillar 3 data hub
+Access to P3DH
+Reporting
+Reporting frameworks
+Reporting Time Traveller
+DPM data dictionary
+Integrated reporting
+Joint Bank Reporting Committee (JBRC)
+Data
+Registers and other list of institutions
+Guides on data
+Aggregate statistical data
+Secondary reporting: data from Competent Authorities to the EBA
+Data analytics tools
+Publications and media
+Back
+Publications and media
+Communicating to all our audiences in the most effective way and using the most appropriate channels is crucial for us. Through our publications, announcements, and participation in external events, we are committed to reaching out to all our stakeholders to report about our policies, activities, and initiatives.
+Learn more
+Publications
+Guidelines
+Regulatory Technical Standards
+Implementing Technical Standards
+Reports
+Consultation papers
+Opinions
+Decisions
+Staff papers
+Annual reports
+Press releases
+Speeches
+Interviews
+Events
+Media centre
+Factsheets
+Media gallery
+Media resources
+Breadcrumb
+Home
+Activities
+Back to Activities
+Research Workshops
+Single Rulebook
+Implementing Basel III in Europe
+Supervisory convergence
+Information for consumers
+Ad hoc activities
+Single Rulebook
+Back to Single Rulebook
+Accounting and auditing
+Anti-Money Laundering and Countering the Financing of Terrorism
+Asset-referenced and e-money tokens (MiCA)
+Colleges of supervisors
+Consumer protection
+Credit risk
+Depositor protection
+Digital finance
+External Credit Assessment Institutions (ECAI)
+Financial conglomerates
+Internal governance
+Investment firms
+Large exposures
+Leverage ratio
+Liquidity risk
+Market access
+Market infrastructures
+Market, counterparty and CVA risk
+Model validation
+Operational resilience
+Operational risk
+Other topics
+Own funds
+Passporting and supervision of branches
+Payment services and electronic money
+Recovery
+Remuneration
+Resolution
+Securitisation and Covered Bonds
+Simplification and efficiency
+Supervisory Review and Evaluation Process (SREP) and Pillar 2
+Supervisory benchmarking exercises
+Supervisory reporting
+Sustainable finance
+Third country equivalence and international cooperation
+Transparency and Pillar 3
+Operational resilience
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA)
+Implementing Technical Standards to establish the templates for the register of information
+Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents
+Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities
+Joint Regulatory Technical Standards on subcontracting ICT services supporting critical or important functions
+Joint Regulatory Technical Standards on the criteria for determining the composition of the joint examination team (JET)
+Joint Regulatory Technical Standards on the harmonisation of conditions enabling the conduct of the oversight activities
+Joint Regulatory Technical Standards specifying elements related to threat led penetration tests
+Joint Technical Standards on major incident reporting
+Regulatory Technical Standards on ICT risk management framework and on simplified ICT risk management framework
+Regulatory Technical Standards on criteria for the classification of ICT-related incidents
+Regulatory Technical Standards on the policy on ICT services supporting critical or important functions provided by ICT third-party service providers
+Operational resilience
+Operational resilience is defined as the ability of an institution to deliver critical operations through disruption. This builds on the prudential operational risk framework, encompassing internal governance, outsourcing, business continuity and relevant risk management-related aspects. Such ability enables an institution to identify and protect itself from threats and potential failures, respond and adapt to, as well as recover and learn from disruptive events in order to minimise their impact on the delivery of critical operations through disruption. EU legislation on digital operational resilience for the financial sector (DORA) sets targeted rules for institutions on ICT risk-management capabilities, incident reporting, digital operational resilience testing and ICT third-party risk monitoring. The ESAs are delivering a number of policy products, in the areas of ICT risk management, major ICT-related incident reporting, testing, monitoring of ICT third-party risk, aiming to ensure the consistent harmonisation of the DORA requirements.
+Documents
+Request for advice to the ESAs regarding designation criteria and fees for the DORA oversight framework
+ESAs Public Statement on DORA application
+Links
+More on EBA's work on DORA
+Status of implementation of DORA
+DORA Regulation
+DORA Directive
+Investment firms
+Recovery, resolution and DGS
+Supervisory Review and Evaluation Process (SREP) and Pillar 2
+Technical Standards, Guidelines & Recommendations
+Technical standards
+Status
+- Any -
+Under consultation
+Under development
+Final draft RTS/ITS adopted by the EBA and submitted to the European Commission
+Draft RTS/ITS adopted by the European Commission [and under scrutiny by EU legislators]
+Final and awaiting translation into the EU official languages
+Adopted and published in the Official Journal of the EU
+Final and translated into the EU official languages
+Type of institution
+- Any -
+Legal act
+- Any -
+Regulation (EU) No 575/2013 (CRR)
+Directive 2013/36/EU (CRD)
+Regulation (EU) No 2022/2554 (DORA Reg)
+Regulation (EU) No 2023/1114 (MiCAR)
+Regulation (EU) No 2017/2402 (SecReg)
+Directive 2009/110/EC (EMD)
+Directive (EU) 2019/2034 (IFD)
+Directive 2014/17/EU (MCD)
+Directive 2002/65/EC (DMD) - relevant parts only
+Directive 2014/49/EU (DGSD)
+Directive (EU) 2023/2225 (CCD2)
+Directive 2014/59/EU (BRRD)
+Directive (EU) 2015/849 (AMLD)
+Directive 2014/92/EU (PAD)
+Directive 2015/2366/EU (PSD2)
+Directive 2008/48/EC (CCD) (repealed)
+Directive 2022/2556/EU (DORA Dir)
+Regulation (EU) 2015/751 (IcFR - Interchange Fee Reg)
+Regulation (EU) 2015/847 (WTR) (recast)
+Regulation (EU) 2023/1113 (WTR II)
+Regulation (EU) 2024/886 (IPR)
+Regulation (EU) No 2019/2033 (IFR)
+Regulation (EU) No 648/2012 (EMIR)
+Regulation (EU) No 909/2014 (CSDR) - only RTS 2017/390
+Directive 2002/87/EC (FiCOD)
+Other
+Date
+Filter
+Final draft RTS/ITS adopted by the EBA and submitted to the European Commission
+Joint Regulatory Technical Standards on the criteria for determining the composition of the joint examination team (JET)
+Adopted and published in the Official Journal of the EU
+Implementing Technical Standards to establish the templates for the register of information
+Adopted and published in the Official Journal of the EU
+Regulatory Technical Standards on the policy on ICT services supporting critical or important functions provided by ICT third-party service providers
+Adopted and published in the Official Journal of the EU
+Regulatory Technical Standards on criteria for the classification of ICT-related incidents
+Adopted and published in the Official Journal of the EU
+Regulatory Technical Standards on ICT risk management framework and on simplified ICT risk management framework
+Final draft RTS/ITS adopted by the EBA and submitted to the European Commission
+Joint Regulatory Technical Standards specifying elements related to threat led penetration tests
+Adopted and published in the Official Journal of the EU
+Joint Technical Standards on major incident reporting
+Final draft RTS/ITS adopted by the EBA and submitted to the European Commission
+Joint Regulatory Technical Standards on subcontracting ICT services supporting critical or important functions
+Adopted and published in the Official Journal of the EU
+Joint Regulatory Technical Standards on the harmonisation of conditions enabling the conduct of the oversight activities
+ESAs Joint Committee Technical standards under the Digital Operational Resilience Act (DORA)
+Guidelines
+Status
+- Any -
+Under consultation
+Under development
+Final draft RTS/ITS adopted by the EBA and submitted to the European Commission
+Draft RTS/ITS adopted by the European Commission [and under scrutiny by EU legislators]
+Final and awaiting translation into the EU official languages
+Adopted and published in the Official Journal of the EU
+Final and translated into the EU official languages
+Type of institution
+- Any -
+Legal act
+- Any -
+Regulation (EU) No 575/2013 (CRR)
+Directive 2013/36/EU (CRD)
+Regulation (EU) No 2022/2554 (DORA Reg)
+Regulation (EU) No 2023/1114 (MiCAR)
+Regulation (EU) No 2017/2402 (SecReg)
+Directive 2009/110/EC (EMD)
+Directive (EU) 2019/2034 (IFD)
+Directive 2014/17/EU (MCD)
+Directive 2002/65/EC (DMD) - relevant parts only
+Directive 2014/49/EU (DGSD)
+Directive (EU) 2023/2225 (CCD2)
+Directive 2014/59/EU (BRRD)
+Directive (EU) 2015/849 (AMLD)
+Directive 2014/92/EU (PAD)
+Directive 2015/2366/EU (PSD2)
+Directive 2008/48/EC (CCD) (repealed)
+Directive 2022/2556/EU (DORA Dir)
+Regulation (EU) 2015/751 (IcFR - Interchange Fee Reg)
+Regulation (EU) 2015/847 (WTR) (recast)
+Regulation (EU) 2023/1113 (WTR II)
+Regulation (EU) 2024/886 (IPR)
+Regulation (EU) No 2019/2033 (IFR)
+Regulation (EU) No 648/2012 (EMIR)
+Regulation (EU) No 909/2014 (CSDR) - only RTS 2017/390
+Directive 2002/87/EC (FiCOD)
+Other
+Date
+Filter
+Final and translated into the EU official languages
+Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities
+Final and translated into the EU official languages
+Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents
+Final and translated into the EU official languages
+Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP)
+Final and translated into the EU official languages
+Guidelines for institutions and resolution authorities on improving resolvability
+Final and translated into the EU official languages
+Guidelines on internal governance for investment firms
+Under consultation
+Guidelines on outsourcing arrangements
+Final and translated into the EU official languages
+Guidelines on ICT and security risk management
+Final and translated into the EU official languages
+Guidelines on ICT Risk Assessment under the SREP
+Final and translated into the EU official languages
+Guidelines on necessary services
+Final and translated into the EU official languages
+Guidelines on measures to reduce or remove impediments to resolvability
+Opinions, Reports and other Publications
+Opinions
+Keywords
+Date
+Apply
+7 March 2025
+ESAs Joint Committee Opinion on the rejection of the RTS on subcontracting under DORA
+European Supervisory Authorities (ESAs) issue a joint opinion on the European Commission’s rejection of draft Regulatory Technical Standards (RTS) under DORA, addressing subcontracting conditions for ICT services supporting critical or important functions in financial entities, ensuring alignment with Article 30(5) of DORA.
+Download document
+View press release
+15 October 2024
+ESAs proposals for further changes to the ITS on RoI
+Download document
+View press release
+15 October 2024
+ESAs proposals for further changes to the Annex of the ITS on RoI
+Download document
+View press release
+15 October 2024
+Opinion of the ESAs on the rejection of the ITS on RoI under DORA
+EBA, EIOPA, and ESMA jointly respond to the European Commission’s rejection of DORA’s draft Implementing Technical Standards on ICT third-party service provider identification, advocating for mandatory LEI use over EUID to ensure operational resilience, supervisory efficiency, and global consistency in financial sector risk management.
+Download document
+View press release
+Decisions
+Keywords
+Date
+Apply
+29 January 2025
+ESAs Decision on reporting of information for CTPP designation (corrigendum consolidated)
+EBA, ESMA, and EIOPA joint decision establishing annual reporting requirements for EU competent authorities to provide data on ICT third-party service providers, supporting designation of critical providers under DORA (Regulation (EU) 2022/2554) and Delegated Regulation (EU) 2024/1502, with first submission due by 30 April 2025.
+Download document
+View press release
+29 January 2025
+ESAs Decision on reporting of information for CTPP designation (corrigendum)
+European Supervisory Authorities (EBA, ESMA, EIOPA) correct reporting requirements for competent authorities to designate critical ICT third-party service providers under DORA (Regulation (EU) 2022/2554), aligning data points with Commission Implementing Regulation (EU) 2024/2956.
+Download document
+View press release
+15 November 2024
+Draft validation rules for DORA reporting of RoI
+Download document
+View press release
+15 November 2024
+ESA 2024 22 Decision on reporting of information for CTPP designation
+EBA, EIOPA, and ESMA joint decision outlining annual reporting requirements for competent authorities to provide data on ICT third-party service providers, enabling designation of critical providers under DORA (Regulation (EU) 2022/2554) by April 2025.
+Download document
+View press release
+Reports
+Keywords
+Date
+Apply
+17 January 2025
+Joint Report on the feasibility for further Centralisation of reporting of major ICT incidents
+EBA and joint committee assess the feasibility of centralising major ICT incident reporting under DORA (Regulation (EU) 2022/2554), analysing current frameworks, stakeholder input, and potential options for streamlined EU-level reporting.
+Download document
+View press release
+17 December 2024
+ESA 2024 35 DORA Dry Run exercise summary report
+EBA and ESAs report on the 2024 DORA Dry Run exercise, summarizing key findings on financial entities' registers of ICT third-party service provider contracts, data quality checks, and recommendations for compliance with Digital Operational Resilience Act requirements.
+Download document
+View press release
+27 September 2023
+ESA 2023 22 - ESAs report on the landscape of ICT TPPs.pdf
+ESAs Report on the landscape of ICT third-party providers in the EU
+Download document
+View press release
+Other publications
+Keywords
+Date
+Apply
+14 January 2026
+Memorandum of Understanding on DORA oversight of critical ICT third-party service providers in EU and UK
+EU and UK financial authorities establish cooperation under DORA and UK FSMA to oversee critical ICT third-party service providers, enabling information exchange, joint oversight activities, and coordination on cross-border supervision and risk monitoring.
+Download document
+View press release
+14 January 2026
+ESAs targeted equivalence assessment of DORA confidentiality and professional secrecy regimes
+European Supervisory Authorities (ESAs) assess the equivalence of UK confidentiality and professional secrecy regimes under DORA Article 55, evaluating compliance with data protection, disclosure restrictions, and sanctions for breaches in financial services.
+Download document
+View press release
+15 July 2025
+Guide on DORA oversight of critical third-party providers activities
+European Supervisory Authorities guide on DORA oversight of critical ICT third-party providers – clarifies roles, processes, and compliance for cloud service providers and other key vendors under EU digital operational resilience rules.
+Download document
+View press release
+18 February 2025
+Roadmap towards the designation of CTPPs under DORA
+Download document
+View press release
+17 July 2024
+The Systemic Cyber Incident Coordination Framework: EU-SCICF
+European Banking Authority (EBA) outlines the EU-SCICF, a framework for coordinating responses to systemic cyber incidents threatening financial stability, involving national and EU authorities to share information and align crisis measures.
+Download document
+View press release
+5 June 2024
+Memorandum of Understanding on cooperation between the ESA and ENISA
+European Supervisory Authorities (EBA, EIOPA, ESMA) and ENISA establish a cooperation framework under DORA and NIS2 Directive to enhance cybersecurity, incident reporting, technical standards, and cross-sector collaboration in the EU financial sector.
+Download document
+View press release
+29 September 2023
+Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework.pdf
+Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework
+Download document
+View press release
+Footer
+EUROPEAN BANKING AUTHORITY
+Our mission is to contribute to the stability and effectiveness of the European financial system through simple, consistent, transparent, fair regulation and supervision that benefits all EU citizens.
+An agency of the EU
+EU Agencies Network
+Sustainable EBA
+Contact us
+Contacts
+Ask a general question
+Send a press query
+Ask a regulatory question
+Request access to documents
+File a complaint
+Whistleblower reports
+Stay up to date with our work
+Subscribe to our email alerts
+News & press RSS feed
+Follow us on Social media
+Bluesky
+LinkedIn
+X
+YouTube
+Find out about us
+The EBA at a glance
+Privacy policy
+Legal notice
+Cookies policy
+Frauds and scams
+Explore related sites
+EIOPA
+ESMA
+ESRB
+CEBS archive

@@ -1,0 +1,20 @@
+ESA 2025 02
+22 January 2025
+CORRIGENDUM
+to Decision of the European Banking Authority, Decision of the European
+Securities and Markets Authority, Decision of the European Insurance and
+Occupational Pensions Authority, ESA 2024 22, concerning the reporting
+by competent authorities to the ESAs of information necessary for the
+designation of critical ICT third-party service providers in accordance with
+Article 31(1)(a) of Regulation (EU) 2022/2554
+In Article 2 – Information to be reported, letter (a), for
+‘the registers of information as referred to in Article 28(3) of Regulation (EU) 2022/2554, to
+be requested from financial entities, covering the data points as specified in Annex X to the
+implementing technical standards adopted pursuant to Article 28(9) of Regulation (EU)
+2022/2554]’ read
+‘the registers of information as referred to in Article 28(3) of Regulation (EU) 2022/2554, to
+be requested from financial entities, covering the data points as specified in Annex I to the
+Commission Implementing Regulation (EU) 2024/29561’.
+1 Commission Implementing Regulation (EU) 2024/2956 of 29 November 2024 laying down implementing
+technical standards for the application of Regulation (EU) 2022/2554 of the European Parliament and of the
+Council with regard to standard template for the register of information, OJ L, 2024/2956, 2.12.2024

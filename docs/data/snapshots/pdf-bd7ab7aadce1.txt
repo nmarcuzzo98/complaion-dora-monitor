@@ -1,0 +1,207 @@
+19 June 2023
+Digital Operational Resilience Act (DORA): public
+consultation on the first batch of policy products
+1. Information and communication technology (ICT) supports complex systems used for everyday
+activities of the financial sector. The extended use of ICT systems increases the efficiencies of
+internal process and the user experience for the customers, however it also introduces risks and
+vulnerabilities, which may make financial entities expose to cyber-attacks or incidents. If not
+managed properly, ICT risks could lead to the disruptions of financial services that are often
+offered across borders and can have far-reaching effects on other companies, sectors, or even
+the rest of the economy. The risk of such cross-border and cross-sectoral disruptions highlights
+the importance of digital operational resilience of the financial sector.
+2. As a measure to enhance the overall digital operational resilience of the EU financial sector, on
+27 December 2022, the Digital Operational Resilience Act (DORA) was published in the Official
+Journal of the European Union1 and entered into force on 16 January 2023. DORA will apply from
+17 January 2025.
+3. DORA brings harmonisation of the rules relating to operational resilience for the financial sector
+applying to 21 different types of financial entities, covering important topics such as: ICT risk
+management; ICT incident management and reporting; testing of the operational resilience of ICT
+systems; and the management of ICT third party risks. Furthermore, DORA is lex specialis to the
+NIS Directive2 and to Article 11 and Chapters III, IV and VI of the CER Directive3.
+4. From the supervisory perspective, DORA aims at increasing supervisory awareness of cyber risks
+and ICT-related incidents faced by FEs and enhancing the cooperation among competent
+authorities in the financial sector, but also among authorities from different sectors and
+jurisdictions in relation to ICT and cyber risk management.
+5. The DORA also introduces a framework to oversee the systemic and concentration risks posed
+by the financial sector’s reliance on ICT third party service providers and an EU-level oversight
+framework for the critical ICT service providers that aims at ensuring that the ICT risks posed by
+these critical providers to financial entities are properly managed.
+6. To operationalise the application, DORA mandates the European Supervisory Authorities (ESAs)
+to prepare jointly, through the Joint Committee (JC), a set of policy products with two main
+1 Regulation (EU) 2022/2554 of 14 December 2022 on the Digital Operational Resilience of the Financial Sector (DORA)
+2 See Recital 28 of Directive (EU) of 14 December 2022 on measures for a high common level of cybersecurity across the
+Union (NIS II Directive)
+3 See Recital 21 and Article 8 of Directive (EU) 2022/2557 of 14 December 2022 on the resilience of critical entities (CER)
+1
+submission deadlines 17 January 2024 (first batch) and 17 June 2024 (second batch) as
+highlighted in the picture below.
+7. In addition to the policy mandates conferred on the ESAs by DORA, the ESAs have been asked
+by the European Commission to respond to a call for advice4 to support the preparation of
+delegated acts complementing the DORA text in relation to the criteria to designate ICT third-
+party service providers as critical and the fees those service providers will have to pay to be
+overseen. A discussion paper aiming at preparing the joint advice of the ESAs has been publicly
+consulted between 26 May and 23 June 2023. The final report is due by 30 September 2023.
+8. The timelines for the policy development of all DORA deliverables and their public consultation
+are summarised in the below table:
+9. The publication of today focuses on the first batch of the policy mandates that include consultation
+papers on the following standards:
+i. RTS on ICT risk management framework (Article 15) and RTS on simplified ICT risk
+management framework (Article 16(3))
+4 ESAs launch discussion on criteria for critical ICT third-party service providers and oversight fees (europa.eu)
+2
+IC T ris k fra m e w o rk (C h a p te r
+II)
+• R T S o n IC T R is k M a n a g e m e n t
+fra m e w o rk (A rt.1 5 )
+• R T S o n s im p lifie d ris k m a n a g e m e n t
+fra m e w o rk (A rt.1 6 .3 )
+• G u id e lin e s o n th e e stim a tio n o f
+a g g re g a te d co sts/lo sse s ca u se d b y
+m a jo r IC T re la te d in cid e n ts (A rt. 1 1 .1 )
+B o ld = p o lic y m a n d a te s w ith d e a d lin e 1
+IC T re la te d in c id e n t
+m a n a g e m e n t c la s s ific a tio n
+a n d re p o rtin g (C h a p te r III)
+• R T S o n c rite ria fo r th e c la s s ific a tio n
+o f IC T re la te d in c id e n ts (A rt. 1 8 .3 )
+• R T S to sp e cify th e re p o rtin g o f m a jo r
+IC T -re la te d in cid e n ts (A rt. 2 0 .a )
+• IT S to e sta b lish th e re p o rtin g d e ta ils
+fo r m a jo r IC T re la te d in cid e n ts (A rt.
+2 0 .b )
+• F e a sib ility re p o rt o n fu rth e r
+ce n tra lisa tio n o f in cid e n t re p o rtin g
+th ro u g h th e e sta b lish m e n t o f a sin g le
+E U h u b fo r m a jo r IC T -re la te d in cid e n t
+re p o rtin g (A rt. 2 1 )
+7 J a n u a ry 2 0 2 4 (firs t b a tc h )
+D ig ita l O p e ra tio n a l
+R e s ilie n c e T e s tin g (C
+IV )
+• R T S to sp e cify th re a t le d p e
+te stin g
+(A rt. 2 6 .1 )
+h
+n
+a p
+e tra
+te
+tio
+r
+n
+T h ird -p a rty ris k m a n a g e m e n t
+(C h a p te r V .I)
+• IT S to e s ta b lis h th e te m p la te s o f re g is te r o f
+in fo rm a tio n (A rt.2 8 .9 )
+• R T S to s p e c ify th e p o lic y o n IC T s e rv ic e s
+p e rfo rm e d b y th ird -p a rty (A rt.2 8 .1 0 )
+• R T S to sp e cify th e e le m e n ts to d e te rm in e a n d
+a sse ss w h e n su b -co n tra ctin g IC T se rvice s
+su p p o rtin g a critica l o r im p o rta n t fu n ctio n
+(A rt.3 0 .5 )
+O v e rs ig h t fra m e w o rk (C h a p te r
+V .II)
+• C a ll fo r a d vice o n critica lity crite ria (A rt. 3 1 .8 )
+a n d fe e s (A rt. 4 3 .2 ) D L : 3 0 S e p t 2 0 2 3
+• G u id e lin e s o n co o p e ra tio n E S A s – C A s
+(C o m p e te n t A u th o ritie s) re g a rd in g D O R A
+o ve rsig h t (A rt. 3 2 .7 )
+• R T S o n h a rm o n isa tio n o f o ve rsig h t co n d itio n s
+(A rt. 4 1 )
+Due to the interlinkages of the topics, the two mandates have been bundled together into
+single draft technical standards to comprehensively address the topic of ICT risk
+management.
+The standards set out requirements for all financial entities with respect to: (i) ICT security
+policies, procedures, protocols and tools (including requirements on: governance, ICT
+risk management, ICT asset management, encryption and cryptography, ICT operations
+security, network security, ICT project and change management, physical security, ICT
+and information security awareness and training); (ii) Human resources policy and access
+control; (iii) ICT-related incident detection and response, (iv) ICT business continuity
+management, (v) Report on the ICT risk management framework review; and (vi)
+Proportionality.
+In accordance with the mandate, the requirements set out in the standards are
+complementary to the requirements for the ICT risk management framework already set
+out in DORA and therefore should be read in conjunction with the DORA related articles
+(Articles 5-16).
+The RTS further specifies simplified ICT risk management framework that applies only to
+five categories of smaller/less interconnected financial entities5 and complements the
+requirements set out in Article 16 of DORA in the following areas: ICT risk management
+framework, Further elements of systems, protocols, and tools to minimise the impact of
+ICT risk, ICT business continuity management and Report on the ICT risk management
+framework review.
+ii. RTS on criteria for the classification of ICT-related incidents (Article 18(3))
+The draft RTS set out harmonised requirements for financial entities on: (i) the
+classification of ICT-related incidents by financial entities, (ii) the classification approach
+and materiality thresholds for determining major ICT-related incidents to be reported from
+financial entities to competent authorities, (iii) the criteria and the thresholds to be applied
+when classifying significant cyber threats, and (iv) the criteria to be applied by competent
+authorities for the purpose of assessing the relevance of major ICT-related incidents to
+relevant competent authorities in host Member States and the details of the information
+to be shared with them.
+iii. ITS to establish the templates for the register of information (Art.28(9))
+5 Smaller less interconnected financial entities are: (i) small and non-interconnected investment firms, (ii) payment
+institutions exempted pursuant to Directive (EU) 2015/2366; (iii) institutions exempted pursuant to Directive 2013/36/EU in
+respect of which Member States have decided not to apply the option referred to in Article 2(4) of this Regulation; (iv)
+electronic money institutions exempted pursuant to Directive 2009/110/EC; and (v) small institutions for occupational
+retirement provision
+3
+The draft ITS establish harmonised templates for the register of information to be
+maintained by financial entities covering all contractual arrangements on the use of ICT
+services provided by ICT third-party service providers at individual, consolidated, and,
+sub-consolidated level (Article 28(3)).
+The templates have been designed taking into account the threefold purpose of the
+register of information: (i) the register of information is part of the ICT risk management
+framework of financial entities (Article 28(1)); (ii) the register of information enables the
+effective supervision of financial entities’ (Article 28(3)), including (iii) the designation of
+third-party service providers as critical at the level of the EU by the ESAs in the context
+of the oversight framework (Chapter V, Section II).
+To simplify setting out the registers by the financial entities, the draft ITS contains two
+different set of templates for the registers at an individual entity level and at the sub-
+consolidated and consolidated level.
+iv. RTS to specify the policy on ICT services performed by ICT third-party providers (Article
+28(10))
+The draft standards set out the requirements for all phases that should be undertaken by
+financial entities regarding the life cycle of ICT third-party arrangements management. In
+particular, the draft RTS specify the content of the policy regarding the use of ICT services
+supporting critical or important functions by dealing with the following aspects: (i) the pre-
+contractual phase (i.e. planning of contractual arrangements including the risk
+assessment, the due diligence and the approval process of new or material changes to
+those third-party contractual arrangements); (ii) the implementation, monitoring and
+management of contractual arrangements for the use of ICT services supporting critical
+or important functions; (iii) the exit strategy and the termination processes. The standards
+have been developed leveraging on the experience with management outsourcing
+arrangements.
+Public consultation and next steps
+10. The public consultation on all mandates included into the first batch will last until 11
+September 2023. Furthermore, to present the consultation papers and their rationale, and to
+provide clarification to questions raised by the stakeholders, the ESAs will organise an online
+public hearing on 13 July6.
+11. The details on how to provide feedback on the various policy products is included in each of
+the four consultation papers.
+6 Further details on the online public hearing will be made available on the websites and the social media channels of the
+three ESAs by 19 June.
+4
+12. Based on the feedback received to the public consultation, the legal instruments will be
+finalised and will be submitted to the European Commission by 17 January 2024.
+13. As presented during the Joint-ESAs public event on DORA in February7, the public
+consultation on the second batch of policy products is expected by end-2023.
+Background
+14. DORA is a cross-sectoral regulation applying to more than 20 different types of financial
+entities and to a more than double number of competent authorities (CAs), in order to ensure a
+cross-sectoral proportionate and harmonized approach in developing the level 2 legislation, the
+ESAs have decided to constitute the Joint Committee Sub-Committee on Digital Operational
+Resilience (JC SC DOR)8 to contribute and coordinate where needed, the ESAs’ input to the EU
+regulatory process relating to digital operational resilience. More than 50 authorities including
+national authorities, the European Central Bank and ENISA take part in the joint work on the
+development of the policy products mandated by the DORA9.
+7 Joint ESAs DORA event - presentation (europa.eu)
+8 Mandate of the European Supervisory Authorities’ Joint Committee Sub-Committee on Digital Operational Resilience
+(europa.eu)
+9 The following policy products shall be developed in consultation with ENISA only: RTS on ICT Risk Management
+Framework (Art. 15) and Simplified Risk Management Framework (Art. 16). The following policy products shall be
+developed in consultation with both ENISA and the ECB: RTS on criteria for the classification of ICT-related incident (Art.
+18(3)), RTS to specify the reporting of major ICT-related incidents (Art. 20.a), ITS to establish the reporting details for major
+ICT-related incidents (Art. 20.b) and the Feasibility report on further centralisation of incident reporting through the
+establishment of a EU hub for major ICT-related incident reporting (Art. 21). Finally, the ESAs shall develop in agreement
+with the ECB the RTS to specify threat led penetration testing (Art. 26.1)
+5

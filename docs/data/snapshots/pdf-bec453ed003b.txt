@@ -1,0 +1,246 @@
+ESA 2024 22
+Decision of the European Banking Authority,
+Decision of the European Securities and Markets
+Authority,
+Decision of the European Insurance and
+Occupational Pensions Authority
+of 08 November 2024
+concerning the reporting by competent authorities to the ESAs
+of information necessary for the designation of critical ICT third-
+party service providers in accordance with Article 31(1)(a) of
+Regulation (EU) 2022/2554
+The Boards of Supervisors
+Having regard to Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24
+November 2010 establishing the European Banking Authority1, Regulation (EU) No 1094/2010 of the
+European Parliament and of the Council of 24 November 2010 establishing the European Insurance and
+Occupational Pensions Authority2, and Regulation (EU) No 1095/2010 of the European Parliament and of
+the Council of 24 November 2010 establishing the European Securities and Markets Authority3 (EBA, EIOPA
+and ESMA Regulations), in particular Article 35 thereof,
+Whereas:
+(1) Article 31(1)(a) of Regulation (EU) 2022/2554 requires the European Banking Authority (EBA), the
+European Insurance and Occupational Pensions Authority (EIOPA) and the European Securities and
+Markets Authority (ESMA) (jointly ESAs), through the ESAs Joint Committee and upon
+recommendation of the Oversight Forum, to designate critical ICT third-party service providers (CTPP).
+That designation is to be based on the criteria referred to in Article 31(2) of Regulation (EU) 2022/2554
+1 OJ L 331, 15.12.2010, p. 12.
+2 OJ L 331, 15.12.2010, p. 48.
+3 OJ L 331, 15.12.2010, p. 84.
+1
+and Commission Delegated Regulation (EU) 2024/15024.
+(2) To perform the designation, the ESAs need the information necessary for the assessment of the
+criticality criteria in relation to ICT services provided by the ICT third-party service provider referred
+to in Article 31(2) of Regulation (EU) 2022/2554 and that set out in Commission Delegated Regulation
+(EU) 2024/1502. The sources of information needed to make that assessment are (1) the registers of
+information on contractual arrangements on the use of ICT services provided by ICT third-party
+providers to be maintained and updated by financial entities under Article 28(3) of Regulation (EU)
+2022/2554, and (2) the information regarding financial entities that rely on relevant ICT third-party
+service providers and that are identified as systemic by the competent authorities in accordance with
+Article 3(1)(b) of Commission Delegated Regulation (EU) 2024/1502. In light of the above and
+considering that this information is currently not available to the ESAs, it is necessary for them to
+request it from competent authorities pursuant to Article 35 of the EBA, EIOPA and ESMA Regulations.
+(3) Competent authorities should hence provide to the ESAs on a yearly basis the registers of information
+referred to in Article 28(3) of Regulation (EU) 2022/2554. To do so, competent authorities should
+make use of the power to request the full register of information in accordance with Article 28(3),
+fourth subparagraph of Regulation (EU) 2022/2554.
+(4) To minimise the burden on the competent authorities and ensure consistency concerning the possible
+extraction of data necessary for the critical ICT third-party service providers designation from the
+registers of information received from the financial entities, competent authorities should submit to
+the ESAs the full registers of information. In addition, as the information on systemic financial entities
+in relation to credit institutions, i.e. G-SIIs and O-SIIs, is already available to the EBA, the request for
+information regarding systemic importance is limited to financial entities other than credit
+institutions.
+(5) To minimise the burden on competent authorities and financial entities when providing registers of
+information to the ESAs, it is beneficial to consider consolidated data which provides for more
+streamlined and lean data flows. To this end competent authorities should provide to the ESAs the
+registers of information at the highest level of consolidation in the EU that are available to them
+considering their supervisory responsibilities under Regulation (EU) 2022/2554 and the relevant
+sectoral legislation.
+(6) Since the EBA already has in place a technical solution suitable for the collection of the relevant
+information to support the work of the ESAs for the purposes of the analysis of data from the registers
+of information and designation of critical ICT third-party service providers, the EBA should receive, on
+behalf of the ESAs, all data to be reported in accordance with this Decision. The data should be
+collected by the EBA using its European Centralised Infrastructure of Data (EUCLID)5.
+4 Commission Delegated Regulation (EU) 2024/1502 of 22 February 2024 supplementing Regulation (EU) 2022/2554
+of the European Parliament and of the Council by specifying the criteria for the designation of ICT third-party service
+providers as critical for financial entities (OJ L, 2024/1502, 30.5.2024, ELI:
+http://data.europa.eu/eli/reg_del/2024/1502/oj).
+5 Decision of the European Banking Authority of 05.06.2020 concerning the European Centralised Infrastructure of
+Data (EUCLID) EBA/DC/2020/335 (‘Decision on EUCLID’).
+2
+(7) To check the completeness of the reports received under this Decision, the ESAs will check the
+information against master data, which should include lists of the entities subject to the obligation to
+maintain registers of information, including the basic properties, and in particular information on the
+entities’ group structure. Competent authorities should maintain the lists of the financial entities for
+which the registers of information are reported annually, including their group structure. For the first
+annual submission of data in 2025, the ESAs will not collect any ex-ante master data for the purposes
+of reporting of information needed for the CTPP designation. Instead, they will rely on the existing
+registers of financial entities acknowledging that these may not fully meet the needs for data
+verification for the reporting under this Decision. The reason for such simplified approach is the
+unavailability of the necessary information regarding the composition of groups structures in the
+existing master data maintained by the competent authorities and the need to collect additional
+information, which is partially covered in the registers of information themselves. For the annual
+submissions of data from 2026 onwards the ESAs will be collecting from the competent authorities
+structured master data for the purposes of covering basic properties of the financial entities and the
+compositions of their groups.
+(8) Further details on the instructions for submission of the information, including further specification
+of the master data and technical aspects of the master data will be specified by a joint Decision of the
+Executive Directors of the three ESAs, to be adopted in accordance with Article 53 of EBA, EIOPA and
+ESMA Regulations as part of the implementation of the annual work programme of the ESAs.
+(9) Given that the implementing technical standards to establish the standard templates for the purposes
+of the register of information referred to in Article 28(3) of Regulation (EU) 2022/2554 and adopted
+pursuant to Article 28(9) of that Regulation (“the implementing technical standards adopted pursuant
+to Article 28(9) of Regulation (EU) 2022/2554”) is not yet in force, and given that for proportionality
+reasons the data collection under this Decision should be aligned with the reporting of the registers
+of information, some elements of this Decision may need to be amended before the annual
+submission due with the start of application of Regulation (EU) 2022/2554, or after the completion of
+the ‘dry run’ exercise in 2024, depending on the date of the entry into force of the Commission
+Implementing Regulation on the registers of information.
+(10) Considering that Regulation (EU) 2022/2554 becomes applicable as of 17 January 2025, the ESAs
+will need the information to identify and designate critical ICT third-party service providers as soon as
+possible following that date. Hence, the information requested from Competent Authorities pursuant
+to this Decision is to be received as soon as possible and no later than 30 April 2025. It is reasonable
+to request the submission by that date as the early publication of this decision and of the draft
+implementing technical standards adopted pursuant to Article 28(9) of Regulation (EU) 2022/2554
+gave competent authorities and financial entities substantial time to prepare. Financial entities could
+also benefit from the experience of a ‘Dry run’ exercise on reporting of the registers of information
+that was carried out by the ESAs in 2024.
+https://www.eba.europa.eu/sites/default/documents/files/document_library/Risk%20Analysis%20and%20Data/Rep
+orting%20by%20Authorities/885459/Decision%20on%20the%20European%20Centralised%20Infrastructure%20of%
+20Dat a%20%28EUCLID%29.pdf
+3
+Has decided as follows:
+Article 1 – Definitions and addressees
+Unless otherwise specified, terms used and defined in Regulation (EU) 2022/2554 have the same meaning
+in this Decision. This Decision is addressed to competent authorities referred to in Article 46 of Regulation
+(EU) 2022/2554.
+Article 2 – Information to be reported
+Competent authorities shall submit to the ESAs the following information:
+(a) the registers of information as referred to in Article 28(3) of Regulation (EU) 2022/2554, to be
+requested from financial entities, covering the data points as specified in Annex X to the
+implementing technical standards adopted pursuant to Article 28(9) of Regulation (EU)
+2022/2554;
+(b) a list of those financial entities other than credit institutions that are identified as systemic by the
+competent authorities, as referred to in Article 3(1)(b) of Commission Delegated Regulation (EU)
+2024/1502, covering the data points specified in the Annex to this Decision;
+(c) master data in accordance with Article 8 of this Decision.
+Article 3 – Reporting of registers of information at individual and at consolidated level
+1. Competent authorities shall provide the registers of information in relation to financial entities for
+which they ensure compliance with Regulation (EU) 2022/2554 in accordance with Article 46 of that
+Regulation as follows:
+(a) at individual entity level, where financial entities are not part of a group of financial entities;
+(b) at individual entity level, where financial entities are part of a group of financial entities, and
+where the parent undertaking is an entity outside of the Union and there is no Union parent
+undertaking;
+(c) at the highest level of consolidation in the Union for groups of financial entities that is available
+to the competent authorities in accordance with their supervisory responsibilities under the legal
+acts referred to in Article 46 of Regulation (EU) 2022/2554.
+2. Where a competent authority is responsible for the supervision of more than one financial entity
+belonging to the same group of financial entities, and where the parent undertaking is not supervised
+at consolidated level by any other EU competent authority, the competent authority shall provide the
+data on those financial entities at individual entity level.
+Article 4 – Reference dates and frequency of submissions
+1. Competent authorities shall submit the information to be reported in accordance with this Decision
+on an annual basis.
+4
+2. Competent authorities shall submit the information referred to in point (a) of Article 2 with the
+reference date of 31 December of the calendar year preceding the reporting date.
+3. By way of derogation from paragraph 2, for the first annual submission of data in 2025 competent
+authorities shall submit the information to be reported in accordance with this Decision with the
+reference date of 31 March 2025.
+Article 5 – Reporting timelines
+1. Competent authorities shall submit the information in accordance with the following reporting
+timelines:
+(a) by 31 March for the information referred to in point (a) of Article 2;
+(b) by 31 January for the information referred to in point (b) of Article 2.
+2. By way of derogation from paragraph 1, for the first annual submission of data in 2025 competent
+authorities shall submit the information in accordance with the following reporting timelines:
+(a) by 30 April 2025 for the information referred to in point (a) of Article 2;
+(b) by 31 March 2025 for the information referred to in point (b) of Article 2.
+Article 6 – Procedure for submission of information
+1. Competent authorities shall submit the information to be reported to the EBA, acting on behalf of the
+ESAs, through a dedicated reporting channel via the European Centralised Infrastructure of Data
+(EUCLID) as specified in the EBA Decision on EUCLID6, unless the ESAs have explicitly decided, by a
+joint ESAs Executive Directors Decision, that the submission of data through other means is permitted.
+2. Competent authorities shall not submit information, other than the information specified in Article 2,
+unless they have previously obtained the ESAs’ consent.
+3. Where a competent authority has already submitted information in relation to a specific financial
+entity, other competent authorities shall not knowingly submit the information for the same financial
+entities.
+4. Competent authorities shall submit the relevant data according to the instructions for the data
+submission and format specified by a joint ESAs Executive Directors Decision covering, in particular:
+(a) the processes related to the submission and management of data in EUCLID;
+(b) specifications on the data quality and consistency checks;
+(c) technical specifications for the file exchange process and formats;
+(d) any other necessary technical specification; including without limitations, formats, ranges and
+options.
+6 EBA/DC/2020/335
+5
+Article 7 – Quality of data and revisions
+1. Competent authorities shall ensure that the relevant data has undergone quality checks and is in
+conformity with data requirements set out in the Implementing technical standards adopted pursuant
+to Article 28(9) of Regulation (EU) 2022/2554 and the instructions specified in the ESAs Executive
+Directors Decision.
+2. Where the competent authorities cannot warrant that the requirements of paragraph 1 are fulfilled
+for a particular set of data submitted, they shall promptly notify the ESAs, and in particular the EBA,
+accordingly.
+3. To ensure the quality of data, the EBA acting on behalf of the ESAs, as a provider of a technical solution
+for reporting and CTPP designation:
+(a) may conduct, as proportionate, additional quality checks of the data received;
+(b) may require revisions to the data to be made by the competent authorities. The competent
+authorities shall, where relevant, require revisions to be made by the financial entities and
+endeavour to submit any required revisions without undue delay after receiving the revisions
+from the financial entities.
+4. The EBA acting on behalf of the ESAs, as a provider of a technical solution for reporting and CTPP
+designation, may identify financial entities for which the data to be reported in accordance with this
+Decision is missing and require the relevant competent authorities to approach such entities, which
+shall submit any required reports without undue delay.
+Article 8 – Master data
+1. Competent authorities shall maintain and update regularly, at least in due time before the submission
+of a report, the list of the financial entities that fall under the scope of the reporting requirements in
+this Decision. Those lists shall also clearly identify the composition of groups of financial entities.
+2. Competent authorities shall feed the information referred to in paragraph 1 into the master data
+which shall include basic properties of those entities. Further details of the master data shall be
+specified by a joint ESAs Executive Directors Decision issued in accordance with Article 53 of EBA,
+EIOPA and ESMA Regulations, which shall also include technical or other specification necessary for
+the submission, administering, management and operationalisation of such master data.
+3. As of 2026, competent authorities shall provide the master data in accordance with the ESAs Executive
+Directors Decision referred to in paragraph 2 and in due time before the submission of the reports.
+Article 9 – Confidentiality and access to information
+1. The information submitted and maintained in EUCLID is subject to the EU framework of professional
+secrecy, confidentiality and protection of personal data as applicable to the ESAs.
+2. Access to the information collected in accordance with this Decision shall be provided in conformity
+6
+with the EBA, EIOPA and ESMA Regulations considering the following:
+(a) the staff and contractors of the ESAs engaged in the oversight activities of CTPPs, in the
+designation of CTPPs and in supporting of such activities shall have access to all data collected in
+accordance with this Decision relevant for their duties;
+(b) the competent authorities shall have access to the data they have provided to the ESAs and any
+additions to that data by the ESAs, where relevant;
+(c) the competent authorities as referred to in Article 46 of Regulation (EU) 2022/2554, responsible
+for ensuring compliance with that Regulation for financial entities whose registers of information
+have been included in the submission of data at the consolidated level by other relevant
+competent authorities, shall have access to the parts of the registers of information that are
+relevant to the financial entities under their supervisory remit. This supervisory remit shall be
+identified based on the mapping of the supervisory responsibilities for every financial entity type
+set out in Article (2)1 of Regulation (EU) 2022/2554 and that is maintained by the ESAs. This access
+shall include the data as provided by the competent authorities and any modifications or
+enhancements of such data, where relevant.
+3. ESAs Executive Directors shall jointly issue a decision under Article 53 of the EBA, EIOPA and ESMA
+Regulations, setting out, and further detailing any technical or other specification necessary for
+granting, arranging and administering access to the data provided in accordance with this Decision.
+Article 10 – Final provisions
+This Decision shall enter into force immediately and shall apply from 17 January 2025.
+Done in Paris and Frankfurt
+José Manuel Campa Petra Hielkema Verena Ross
+For the EBA Board of For EIOPA Board of For ESMA Board of
+Supervisors Supervisors Supervisors
+7
+Annex
+List of data fields for reporting systemic financial entities for the purposes of point (b) of Article 2
+• Member State in which the financial entity is registered
+• Competent authority responsible for the supervision of the entity in accordance with Article 46 of
+Regulation (EU) 2022/2554
+• Type of financial entity as referred to in Article 2(1) of Regulation (EU) 2022/2554
+• Financial entity name
+• Financial entity LEI
+8
