@@ -204,13 +204,67 @@ def extract_pdf_text(pdf_bytes):
         print(f"  [warn] errore estrazione PDF: {e}", file=sys.stderr)
         return ""
 
+GENERIC_LINK_TEXTS = {"download", "pdf", "scarica", "scaricare", "link", "click here",
+                     "clicca qui", "here", "more", "read more", "leggi", "leggi tutto",
+                     "vedi", "view", "view pdf", "open", "apri", "documento"}
+
+def is_generic_text(text):
+    if not text:
+        return True
+    t = text.strip().lower()
+    return t in GENERIC_LINK_TEXTS or len(t) < 4
+
+def get_better_name(a_tag, absolute_url):
+    """Estrae un nome significativo per un link PDF, evitando etichette generiche."""
+    # 1. Testo del link
+    text = a_tag.get_text(separator=" ", strip=True)
+    if not is_generic_text(text):
+        return text[:200]
+
+    # 2. Attributo title
+    title = (a_tag.get("title") or "").strip()
+    if not is_generic_text(title):
+        return title[:200]
+
+    # 3. Attributo aria-label
+    aria = (a_tag.get("aria-label") or "").strip()
+    if not is_generic_text(aria):
+        return aria[:200]
+
+    # 4. Testo del paragrafo/elemento genitore, esclusa l'etichetta del link
+    parent = a_tag.parent
+    if parent is not None:
+        parent_text = parent.get_text(separator=" ", strip=True)
+        if text:
+            parent_text = parent_text.replace(text, "").strip()
+        parent_text = re.sub(r"\s+", " ", parent_text)
+        if parent_text and not is_generic_text(parent_text) and 4 <= len(parent_text) <= 300:
+            return parent_text[:200]
+
+    # 5. Titolo (h1-h6) precedente
+    prev_heading = a_tag.find_previous(["h1", "h2", "h3", "h4", "h5", "h6"])
+    if prev_heading is not None:
+        heading = prev_heading.get_text(strip=True)
+        if heading and len(heading) <= 300:
+            return heading[:200]
+
+    # 6. Fallback: filename dall'URL, ripulito
+    filename = os.path.basename(urlparse(absolute_url).path)
+    filename = re.sub(r"\.pdf$", "", filename, flags=re.IGNORECASE)
+    filename = filename.replace("_", " ").replace("-", " ").replace("%20", " ")
+    filename = re.sub(r"\s+", " ", filename).strip()
+    if filename:
+        return filename[:200]
+
+    return "Documento PDF"
+
 def extract_pdf_links(html_bytes, base_url):
     try:
         soup = BeautifulSoup(html_bytes, "html.parser")
     except Exception:
         return []
     found = []
-    dora_domains = ["bancaditalia.it", "consob.it", "ivass.it", "eba.europa.eu", "esma.europa.eu", "eiopa.europa.eu", "eur-lex.europa.eu"]
+    dora_domains = ["bancaditalia.it", "consob.it", "ivass.it", "eba.europa.eu", "esma.europa.eu", "eiopa.europa.eu", "eur-lex.europa.eu", "bankingsupervision.europa.eu", "normattiva.it"]
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if not href.lower().endswith(".pdf"):
@@ -219,9 +273,9 @@ def extract_pdf_links(html_bytes, base_url):
         netloc = urlparse(absolute).netloc.lower()
         if not any(d in netloc for d in dora_domains):
             continue
-        text = a.get_text(separator=" ", strip=True) or os.path.basename(urlparse(absolute).path)
-        if any(k in (text + " " + href).lower() for k in PDF_DISCOVERY_KEYWORDS):
-            found.append({"name": text[:200], "url": absolute})
+        name = get_better_name(a, absolute)
+        if any(k in (name + " " + href).lower() for k in PDF_DISCOVERY_KEYWORDS):
+            found.append({"name": name[:200], "url": absolute})
     seen, out = set(), []
     for f in found:
         if f["url"] not in seen:
