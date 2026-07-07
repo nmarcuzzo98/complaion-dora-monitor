@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-Complaion - DORA Monitor (v1)
+Complaion - DORA Monitor (v1.2)
 Scraper con SNAPSHOTS + DIFF + AI SUMMARY + PDF TEXT + ESTRAZIONE SCADENZE.
 Adattato dal Complaion ACN Monitor v5.1 per il perimetro DORA (Regolamento UE 2022/2554).
-"""
 
+Novita' v1.2:
+- AI description anche per risorse rilevate per la prima volta (status "new"), non solo per le "changed".
+"""
 import difflib
 import hashlib
 import json
@@ -16,92 +18,68 @@ from datetime import datetime, timezone
 from io import BytesIO
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-
 import requests
 from bs4 import BeautifulSoup
-
 try:
     import pdfplumber
     PDFPLUMBER_AVAILABLE = True
 except ImportError:
     PDFPLUMBER_AVAILABLE = False
     print("[warn] pdfplumber non disponibile, salto estrazione testo PDF", file=sys.stderr)
-
 try:
     import google.generativeai as genai
     GENAI_AVAILABLE = True
 except ImportError:
     GENAI_AVAILABLE = False
     print("[warn] google-generativeai non disponibile, salto AI summary", file=sys.stderr)
-
-
 # =============================================================================
 # CONFIG
 # =============================================================================
-
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "docs" / "data"
 SNAPSHOTS_DIR = DATA_DIR / "snapshots"
 DOCS_FILE = DATA_DIR / "documents.json"
 CHANGES_FILE = DATA_DIR / "changes.json"
 DEADLINES_FILE = DATA_DIR / "scadenze.json"
-
 USER_AGENT = "Mozilla/5.0 (compatible; ComplaionDORAMonitor/1.0; +https://github.com/)"
 REQUEST_TIMEOUT = 60
 RETRY_COUNT = 3
 RETRY_DELAY = 5
 SLEEP_BETWEEN = 1.5
-
 CHANGES_RETENTION_DAYS = 180
 DIFF_MAX_LINES = 200
 SNAPSHOT_MAX_CHARS = 200_000
-
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.0-flash"
 GEMINI_MAX_DIFF_CHARS = 8000
-
-
 # =============================================================================
 # TARGETS - Pagine DORA da monitorare
 # =============================================================================
-# Fonti italiane (Banca d'Italia, CONSOB, IVASS) + Fonti europee (EBA, ESMA, EIOPA)
-
 TARGETS = [
     # --- Fonti italiane ---
     {"id": "bankit-cyber-norme", "name": "Banca d'Italia - Norme cyber (include DORA)", "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html", "type": "page", "category": "DORA - Italia"},
     {"id": "consob-dora", "name": "CONSOB - DORA", "url": "https://www.consob.it/web/area-pubblica/dora", "type": "page", "category": "DORA - Italia"},
     {"id": "ivass-dora", "name": "IVASS - DORA (Operatori)", "url": "https://www.ivass.it/operatori/dora/index.html", "type": "page", "category": "DORA - Italia"},
     {"id": "ivass-reg-2554", "name": "IVASS - Regolamento (UE) 2022/2554", "url": "https://www.ivass.it/normativa/internazionale/internazionale-ue/regolamenti-europei/re-2022-2554/index.html", "type": "page", "category": "DORA - Italia"},
-
     # --- Fonti europee (ESAs) ---
     {"id": "eba-dora", "name": "EBA - DORA (Direct Supervision and Oversight)", "url": "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act", "type": "page", "category": "DORA - EU"},
     {"id": "eba-op-resilience", "name": "EBA - Operational Resilience", "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience", "type": "page", "category": "DORA - EU"},
     {"id": "esma-dora", "name": "ESMA - DORA", "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora", "type": "page", "category": "DORA - EU"},
     {"id": "eiopa-dora", "name": "EIOPA - DORA", "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en", "type": "page", "category": "DORA - EU"},
-
     # --- Contenuti tecnici (RTS/ITS) ---
     {"id": "eur-lex-2022-2554", "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA", "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554", "type": "page", "category": "DORA - Normativa"},
-# --- Joint Committee delle ESAs (documenti congiunti DORA) ---
+    # --- Joint Committee delle ESAs (documenti congiunti DORA) ---
     {"id": "esas-joint-committee-dora", "name": "ESAs Joint Committee - DORA Technical Standards", "url": "https://www.eba.europa.eu/legacy/regulation-and-policy/regulatory-activities/operational-resilience/esas-joint-committee", "type": "page", "category": "DORA - EU"},
-
     # --- ECB Banking Supervision ---
     {"id": "ecb-supervision-priorities", "name": "ECB Banking Supervision - Priorita' di vigilanza", "url": "https://www.bankingsupervision.europa.eu/framework/priorities/", "type": "page", "category": "DORA - EU"},
-
     # --- Normativa italiana di adeguamento a DORA ---
     {"id": "normattiva-dlgs-23-2025", "name": "Normattiva - D.Lgs. 23/2025 (adeguamento italiano a DORA)", "url": "https://www.normattiva.it/eli/id/2025/03/11/25G00032/ORIGINAL", "type": "page", "category": "DORA - Italia"},
 ]
-
 DISCOVER_PDFS = True
 PDF_DISCOVERY_KEYWORDS = ["dora", "digital-operational-resilience", "rts", "its", "ict", "incident", "tlpt", "ctpp", "third-party", "critical", "outsourcing", "register"]
-
-
 # =============================================================================
-# SEED DEADLINES - Scadenze DORA note
+# SEED DEADLINES
 # =============================================================================
-# Al momento del setup iniziale, le scadenze DORA "hardcoded" sono limitate perche'
-# DORA e' un regime di compliance continuativo piu' che milestone-based (come NIS2).
-# Le principali scadenze sono cicliche: aggiornamento registro CTPP, cicli TLPT.
-
 SEED_DEADLINES = [
     {
         "date": "2027-04-30",
@@ -120,18 +98,13 @@ SEED_DEADLINES = [
         "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
     },
 ]
-
-
 # =============================================================================
 # UTILITY GENERALI
 # =============================================================================
-
 def utc_now_iso():
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
-
 def today_str():
     return datetime.now().strftime("%Y-%m-%d")
-
 def fetch(url):
     last_err = None
     for attempt in range(1, RETRY_COUNT + 1):
@@ -144,10 +117,8 @@ def fetch(url):
             if attempt < RETRY_COUNT:
                 time.sleep(RETRY_DELAY)
     raise RuntimeError(f"Fetch fallito: {last_err}")
-
 def sha256_hex(data):
     return hashlib.sha256(data).hexdigest()
-
 def safe_load_json(path, default):
     if not path.exists():
         return default
@@ -156,17 +127,13 @@ def safe_load_json(path, default):
             return json.load(f)
     except Exception:
         return default
-
 def save_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
-
 # =============================================================================
 # NORMALIZE HTML / PDF
 # =============================================================================
-
 def normalize_html(html_bytes):
     try:
         soup = BeautifulSoup(html_bytes, "html.parser")
@@ -186,7 +153,6 @@ def normalize_html(html_bytes):
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]+", " ", text)
     return text.strip()
-
 def extract_pdf_text(pdf_bytes):
     if not PDFPLUMBER_AVAILABLE:
         return ""
@@ -203,35 +169,25 @@ def extract_pdf_text(pdf_bytes):
     except Exception as e:
         print(f"  [warn] errore estrazione PDF: {e}", file=sys.stderr)
         return ""
-
 GENERIC_LINK_TEXTS = {"download", "pdf", "scarica", "scaricare", "link", "click here",
                      "clicca qui", "here", "more", "read more", "leggi", "leggi tutto",
                      "vedi", "view", "view pdf", "open", "apri", "documento"}
-
 def is_generic_text(text):
     if not text:
         return True
     t = text.strip().lower()
     return t in GENERIC_LINK_TEXTS or len(t) < 4
-
 def get_better_name(a_tag, absolute_url):
     """Estrae un nome significativo per un link PDF, evitando etichette generiche."""
-    # 1. Testo del link
     text = a_tag.get_text(separator=" ", strip=True)
     if not is_generic_text(text):
         return text[:200]
-
-    # 2. Attributo title
     title = (a_tag.get("title") or "").strip()
     if not is_generic_text(title):
         return title[:200]
-
-    # 3. Attributo aria-label
     aria = (a_tag.get("aria-label") or "").strip()
     if not is_generic_text(aria):
         return aria[:200]
-
-    # 4. Testo del paragrafo/elemento genitore, esclusa l'etichetta del link
     parent = a_tag.parent
     if parent is not None:
         parent_text = parent.get_text(separator=" ", strip=True)
@@ -240,24 +196,18 @@ def get_better_name(a_tag, absolute_url):
         parent_text = re.sub(r"\s+", " ", parent_text)
         if parent_text and not is_generic_text(parent_text) and 4 <= len(parent_text) <= 300:
             return parent_text[:200]
-
-    # 5. Titolo (h1-h6) precedente
     prev_heading = a_tag.find_previous(["h1", "h2", "h3", "h4", "h5", "h6"])
     if prev_heading is not None:
         heading = prev_heading.get_text(strip=True)
         if heading and len(heading) <= 300:
             return heading[:200]
-
-    # 6. Fallback: filename dall'URL, ripulito
     filename = os.path.basename(urlparse(absolute_url).path)
     filename = re.sub(r"\.pdf$", "", filename, flags=re.IGNORECASE)
     filename = filename.replace("_", " ").replace("-", " ").replace("%20", " ")
     filename = re.sub(r"\s+", " ", filename).strip()
     if filename:
         return filename[:200]
-
     return "Documento PDF"
-
 def extract_pdf_links(html_bytes, base_url):
     try:
         soup = BeautifulSoup(html_bytes, "html.parser")
@@ -282,16 +232,12 @@ def extract_pdf_links(html_bytes, base_url):
             seen.add(f["url"])
             out.append(f)
     return out
-
-
 # =============================================================================
 # SNAPSHOTS
 # =============================================================================
-
 def snapshot_path(item_id):
     safe = re.sub(r"[^a-zA-Z0-9_\-]", "_", item_id)
     return SNAPSHOTS_DIR / f"{safe}.txt"
-
 def load_snapshot(item_id):
     p = snapshot_path(item_id)
     if not p.exists():
@@ -300,16 +246,12 @@ def load_snapshot(item_id):
         return p.read_text(encoding="utf-8")
     except Exception:
         return ""
-
 def save_snapshot(item_id, text):
     SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
     snapshot_path(item_id).write_text(text[:SNAPSHOT_MAX_CHARS], encoding="utf-8")
-
-
 # =============================================================================
 # DIFF
 # =============================================================================
-
 def compute_diff(old_text, new_text, max_lines=DIFF_MAX_LINES):
     old_lines = old_text.splitlines()
     new_lines = new_text.splitlines()
@@ -329,13 +271,11 @@ def compute_diff(old_text, new_text, max_lines=DIFF_MAX_LINES):
     if truncated:
         summary += f" (diff troncato a {max_lines} righe)"
     return {"added": added, "removed": removed, "summary": summary, "truncated": truncated, "lines": lines}
-
-
 # =============================================================================
-# AI SUMMARY (GEMINI) - Prompt adattato al perimetro DORA
+# AI SUMMARY / DESCRIPTION (GEMINI)
 # =============================================================================
-
 def ai_summarize(resource_name, diff_data, resource_type="page"):
+    """Riassume brevemente il diff di una risorsa DORA gia' vista in precedenza (status changed)."""
     if not GENAI_AVAILABLE or not GEMINI_API_KEY:
         return None
     if not diff_data or not diff_data.get("lines"):
@@ -343,30 +283,24 @@ def ai_summarize(resource_name, diff_data, resource_type="page"):
     try:
         genai.configure(api_key=GEMINI_API_KEY)
         model = genai.GenerativeModel(GEMINI_MODEL)
-
         diff_text_parts = []
         for line in diff_data["lines"]:
             op = line.get("op", " ")
             if op in ("+", "-"):
                 diff_text_parts.append(f"{op}{line.get('text', '')}")
         diff_text = "\n".join(diff_text_parts)[:GEMINI_MAX_DIFF_CHARS]
-
         type_label = "PDF" if resource_type == "pdf" else "pagina web"
         prompt = f"""Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. Analizza questo diff rilevato su una {type_label} ufficiale (autorita' nazionale come Banca d'Italia/CONSOB/IVASS oppure ESA europea come EBA/ESMA/EIOPA), risorsa: "{resource_name}".
-
 Statistiche: {diff_data.get('summary', '')}
-
 Diff (righe con + sono state AGGIUNTE, righe con - sono state RIMOSSE):
 ```
 {diff_text}
 ```
-
 Produci un riassunto in italiano molto sintetico (3-5 righe massimo) di cosa e cambiato.
 Concentrati sugli aspetti operativi rilevanti per gli enti finanziari soggetti a DORA: banche, imprese di investimento, assicurazioni, istituti di pagamento, gestori di fondi, ecc.
 Se il diff riguarda RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, registro dei fornitori ICT critici (CTPP), o framework TLPT, evidenzialo.
 NON usare markdown. NON usare emoji.
 Inizia direttamente con il contenuto, senza preamboli tipo "Il documento e stato modificato...".
-
 Se il diff non sembra contenere informazioni utili (es. solo modifiche minori al layout, refresh tecnici, modifiche di formattazione), rispondi solo: "Modifiche tecniche/grafiche non rilevanti."
 """
         response = model.generate_content(prompt)
@@ -378,11 +312,38 @@ Se il diff non sembra contenere informazioni utili (es. solo modifiche minori al
         print(f"  [warn] Gemini API fallita: {e}", file=sys.stderr)
         return None
 
+def ai_describe_new_resource(resource_name, text, resource_type="page"):
+    """Descrive brevemente il contenuto di una risorsa DORA rilevata per la prima volta (status new)."""
+    if not GENAI_AVAILABLE or not GEMINI_API_KEY or not text:
+        return None
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel(GEMINI_MODEL)
+        preview = text[:GEMINI_MAX_DIFF_CHARS]
+        type_label = "PDF" if resource_type == "pdf" else "pagina web"
+        prompt = f"""Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. Analizza il contenuto di questa {type_label} appena rilevata per la prima volta, risorsa: "{resource_name}".
 
+Contenuto (primi caratteri):
+```
+{preview}
+```
+
+Produci una descrizione in italiano molto sintetica (2-4 righe) di cosa contiene la risorsa, evidenziando gli aspetti rilevanti per gli enti finanziari soggetti a DORA.
+Se si tratta di RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, registro CTPP, framework TLPT, indicalo esplicitamente.
+NON usare markdown. NON usare emoji.
+Inizia con il contenuto, senza preamboli tipo "La risorsa contiene...".
+"""
+        response = model.generate_content(prompt)
+        summary = (response.text or "").strip()
+        if not summary or len(summary) < 10:
+            return None
+        return summary
+    except Exception as e:
+        print(f"  [warn] Gemini API fallita: {e}", file=sys.stderr)
+        return None
 # =============================================================================
 # ESTRAZIONE SCADENZE
 # =============================================================================
-
 MONTHS_IT = {
     "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5, "giugno": 6,
     "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10, "novembre": 11, "dicembre": 12,
@@ -391,37 +352,26 @@ MONTHS_EN = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
     "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
 }
-
 DEADLINE_TRIGGERS = [
-    # italiano
     "entro il", "entro la", "entro le", "entro l'",
     "termine", "scadenza", "scade il", "scade la", "scadr",
     "non oltre", "obbligo entro", "dovranno", "dovra",
     "a far data dal", "a decorrere dal",
-    # inglese (per fonti EBA/ESMA/EIOPA)
     "by ", "no later than", "deadline", "shall by", "must by", "by the end of",
     "with effect from", "as from",
 ]
-
 EXCLUDE_PATTERNS = [
     "news -", "alert -", "bollettino -", "articolo -", "comunicato -",
     "newsletter -", "pubblicato il", "press release", "published on",
 ]
-
 DATE_PATTERNS = [
-    # italiano verbose: "28 febbraio 2027"
     (re.compile(r'\b(\d{1,2})\s+(gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre)\s+(\d{4})\b', re.IGNORECASE), "verbose_it"),
-    # inglese verbose: "28 February 2027" o "February 28, 2027"
     (re.compile(r'\b(\d{1,2})\s+(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{4})\b', re.IGNORECASE), "verbose_en_1"),
     (re.compile(r'\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2}),?\s+(\d{4})\b', re.IGNORECASE), "verbose_en_2"),
-    # slash: 28/02/2027
     (re.compile(r'\b(\d{1,2})/(\d{1,2})/(\d{4})\b'), "slash"),
-    # dot: 28.02.2027
     (re.compile(r'\b(\d{1,2})\.(\d{1,2})\.(\d{4})\b'), "dot"),
-    # ISO: 2027-02-28
     (re.compile(r'\b(\d{4})-(\d{2})-(\d{2})\b'), "iso"),
 ]
-
 def parse_date(match, pattern_type):
     try:
         if pattern_type == "verbose_it":
@@ -443,7 +393,6 @@ def parse_date(match, pattern_type):
         return dt.strftime("%Y-%m-%d"), match.group(0), dt
     except (ValueError, KeyError):
         return None
-
 def extract_deadlines(text, source_id, source_name, source_url):
     if not text:
         return []
@@ -474,7 +423,6 @@ def extract_deadlines(text, source_id, source_name, source_url):
                 "source_id": source_id, "source_name": source_name, "source_url": source_url,
             })
     return found
-
 def merge_deadlines(existing_deadlines, new_deadlines):
     today = today_str()
     seen_keys = {}
@@ -495,12 +443,9 @@ def merge_deadlines(existing_deadlines, new_deadlines):
             d_copy["last_seen"] = utc_now_iso()
             seen_keys[key] = d_copy
     return sorted(seen_keys.values(), key=lambda x: x["date"])
-
-
 # =============================================================================
 # CHANGES PRUNE
 # =============================================================================
-
 def prune_changes(events):
     cutoff = datetime.now(timezone.utc).timestamp() - CHANGES_RETENTION_DAYS * 86400
     out = []
@@ -511,12 +456,9 @@ def prune_changes(events):
         except Exception:
             out.append(c)
     return out
-
-
 # =============================================================================
 # MAIN SCAN
 # =============================================================================
-
 def scan():
     previous_docs = safe_load_json(DOCS_FILE, default={"items": [], "last_scan": None})
     previous_index = {item["id"]: item for item in previous_docs.get("items", [])}
@@ -524,7 +466,6 @@ def scan():
     new_changes = []
     discovered_pdfs = []
     all_deadlines_from_scan = []
-
     for target in TARGETS:
         print(f"[scan] {target['name']} ({target['url']})")
         try:
@@ -543,12 +484,10 @@ def scan():
                 prev = dict(prev); prev["last_status"] = f"http_{status}"; prev["last_check"] = utc_now_iso()
                 current_items.append(prev)
             continue
-
         normalized_text = normalize_html(content)
         content_hash = sha256_hex(normalized_text.encode("utf-8"))
         prev = previous_index.get(target["id"])
         status_label = "new" if not prev else ("unchanged" if prev.get("hash") == content_hash else "changed")
-
         item = {
             "id": target["id"], "name": target["name"], "url": target["url"], "type": target["type"],
             "category": target.get("category", ""), "hash": content_hash, "size": len(content),
@@ -558,7 +497,6 @@ def scan():
             "last_status": status_label,
         }
         current_items.append(item)
-
         if status_label in ("new", "changed"):
             change_event = {
                 "timestamp": utc_now_iso(), "id": item["id"], "name": item["name"],
@@ -582,15 +520,18 @@ def scan():
                         "truncated": len(normalized_text) > 3000,
                         "lines": [{"op": "+", "text": line} for line in preview.splitlines()[:80]],
                     }
+                    # AI description per risorsa mai vista prima
+                    summary = ai_describe_new_resource(item["name"], normalized_text, "page")
+                    if summary:
+                        change_event["ai_summary"] = summary
+                        print(f"  [ai] description nuova risorsa generata ({len(summary)} chars)")
                 save_snapshot(target["id"], normalized_text)
             new_changes.append(change_event)
             print(f"  [{status_label.upper()}] hash variato")
-
         deadlines = extract_deadlines(normalized_text, item["id"], item["name"], item["url"])
         if deadlines:
             print(f"  [deadlines] trovate {len(deadlines)} potenziali scadenze")
             all_deadlines_from_scan.extend(deadlines)
-
         if DISCOVER_PDFS and ctype.startswith("text/html"):
             for pdf in extract_pdf_links(content, target["url"]):
                 discovered_pdfs.append({
@@ -599,7 +540,6 @@ def scan():
                     "url": pdf["url"], "type": "pdf", "category": "Documento PDF",
                 })
         time.sleep(SLEEP_BETWEEN)
-
     tracked_urls = {it["url"] for it in current_items}
     seen_pdf_ids = set()
     pdfs_to_scan = []
@@ -608,7 +548,6 @@ def scan():
             continue
         seen_pdf_ids.add(pdf["id"])
         pdfs_to_scan.append(pdf)
-
     print(f"\n[discovery] PDF candidati: {len(pdfs_to_scan)}")
     for pdf in pdfs_to_scan:
         print(f"[scan-pdf] {pdf['name']}")
@@ -657,6 +596,11 @@ def scan():
                         "truncated": len(pdf_text) > 3000,
                         "lines": [{"op": "+", "text": line} for line in preview.splitlines()[:80]],
                     }
+                    # AI description per PDF mai visto prima
+                    summary = ai_describe_new_resource(item["name"], pdf_text, "pdf")
+                    if summary:
+                        change_event["ai_summary"] = summary
+                        print(f"  [ai] description nuovo PDF generata ({len(summary)} chars)")
                 save_snapshot(pdf["id"], pdf_text)
             new_changes.append(change_event)
         if pdf_text:
@@ -665,31 +609,25 @@ def scan():
                 print(f"  [deadlines] trovate {len(deadlines)} in PDF")
                 all_deadlines_from_scan.extend(deadlines)
         time.sleep(SLEEP_BETWEEN)
-
     current_ids = {it["id"] for it in current_items}
     for old_id, old_item in previous_index.items():
         if old_id not in current_ids:
             stale = dict(old_item); stale["last_status"] = "stale"
             current_items.append(stale)
-
     documents_state = {
         "last_scan": utc_now_iso(), "total_tracked": len(current_items),
         "items": sorted(current_items, key=lambda x: (x.get("category", ""), x.get("name", ""))),
     }
     return documents_state, new_changes, all_deadlines_from_scan
-
-
 def main():
-    print(f"=== Complaion - DORA Monitor v1 - scan {utc_now_iso()} ===")
+    print(f"=== Complaion - DORA Monitor v1.2 - scan {utc_now_iso()} ===")
     print(f"  pdfplumber: {'OK' if PDFPLUMBER_AVAILABLE else 'NO'}")
     print(f"  google-generativeai: {'OK' if GENAI_AVAILABLE else 'NO'}")
     print(f"  GEMINI_API_KEY: {'SET' if GEMINI_API_KEY else 'NOT SET'}")
     print(f"  Seed deadlines hardcoded: {len(SEED_DEADLINES)}")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
-
     documents_state, new_changes, deadlines_from_scan = scan()
-
     changes_log = safe_load_json(CHANGES_FILE, default={"events": []})
     if not isinstance(changes_log, dict):
         changes_log = {"events": []}
@@ -698,22 +636,18 @@ def main():
     events = prune_changes(events)
     events.sort(key=lambda c: c.get("timestamp", ""), reverse=True)
     changes_log = {"last_updated": utc_now_iso(), "total_events": len(events), "events": events}
-
     existing_deadlines = safe_load_json(DEADLINES_FILE, default={"deadlines": []})
     if not isinstance(existing_deadlines, dict):
         existing_deadlines = {"deadlines": []}
     merged = merge_deadlines(existing_deadlines.get("deadlines", []), deadlines_from_scan)
     merged = merge_deadlines(merged, SEED_DEADLINES)
-
     deadlines_state = {
         "last_updated": utc_now_iso(), "total_deadlines": len(merged),
         "deadlines": merged,
     }
-
     save_json(DOCS_FILE, documents_state)
     save_json(CHANGES_FILE, changes_log)
     save_json(DEADLINES_FILE, deadlines_state)
-
     print(f"\n=== Scan completata ===")
     print(f"Risorse tracciate: {documents_state['total_tracked']}")
     print(f"Variazioni rilevate in questo scan: {len(new_changes)}")
@@ -721,7 +655,5 @@ def main():
     print(f"Scadenze totali attive (post-merge, future): {len(merged)}")
     print(f"  di cui da scan: {len(deadlines_from_scan)}, da seed: {len(SEED_DEADLINES)}")
     return 0
-
-
 if __name__ == "__main__":
     sys.exit(main())
