@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-07-08T12:04:45+00:00",
-  "total_events": 55,
+  "last_updated": "2026-07-09T16:17:39+00:00",
+  "total_events": 57,
   "events": [
+    {
+      "timestamp": "2026-07-09T16:14:01+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_hash": "75286f382393a97c9992fee88ac230e981ed9c022bdc2378425ade83d8ea8109"
+    },
+    {
+      "timestamp": "2026-07-09T16:13:41+00:00",
+      "id": "consob-dora",
+      "name": "CONSOB - DORA",
+      "url": "https://www.consob.it/web/area-pubblica/dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "29d75d3c96fbd6f0a26e423dfe01c3726d580f8f9f5bfe9647c6a99bc668711a",
+      "new_hash": "caeb8523178190e0db7067fd898b3eff9700f0660657d3556f0e53dbb3254e07",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Intermediari"
+          },
+          {
+            "op": " ",
+            "text": "Mercati"
+          },
+          {
+            "op": "+",
+            "text": "Finanza digitale"
+          },
+          {
+            "op": " ",
+            "text": "ESAP - European single access point"
+          },
+          {
+            "op": "-",
+            "text": "Finanza digitale"
+          },
+          {
+            "op": " ",
+            "text": "Revisione legale"
+          },
+          {
+            "op": " ",
+            "text": "Procedimenti Consob"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-07T16:24:53+00:00",
       "id": "pdf-3bb31eb2e41c",
