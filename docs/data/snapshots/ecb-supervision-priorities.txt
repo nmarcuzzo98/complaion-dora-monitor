@@ -295,7 +295,7 @@ Online services
 Portals
 ASTRA
 CASPER
-IMAS portal
+SSM portal
 Whistleblowing
 Site directory
 Copyright 2026,

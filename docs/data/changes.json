@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-07-09T16:17:39+00:00",
-  "total_events": 57,
+  "last_updated": "2026-07-10T13:31:53+00:00",
+  "total_events": 59,
   "events": [
+    {
+      "timestamp": "2026-07-10T13:28:21+00:00",
+      "id": "ecb-supervision-priorities",
+      "name": "ECB Banking Supervision - Priorita' di vigilanza",
+      "url": "https://www.bankingsupervision.europa.eu/framework/priorities/",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "f51e7e8290d4a1b483757c0a4d0927806f19009c0909a0a485fbdedb805b6f39",
+      "new_hash": "e3f0b2c8ee0244cb4cdff20afe55e5ef354bbe65a759e82c5e633ae07108a449",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "ASTRA"
+          },
+          {
+            "op": " ",
+            "text": "CASPER"
+          },
+          {
+            "op": "-",
+            "text": "IMAS portal"
+          },
+          {
+            "op": "+",
+            "text": "SSM portal"
+          },
+          {
+            "op": " ",
+            "text": "Whistleblowing"
+          },
+          {
+            "op": " ",
+            "text": "Site directory"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-07-10T13:28:16+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "75286f382393a97c9992fee88ac230e981ed9c022bdc2378425ade83d8ea8109",
+      "new_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
     {
       "timestamp": "2026-07-09T16:14:01+00:00",
       "id": "eur-lex-2022-2554",
