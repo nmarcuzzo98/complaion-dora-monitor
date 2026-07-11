@@ -1,7 +1,863 @@
 {
-  "last_updated": "2026-07-10T13:31:53+00:00",
-  "total_events": 59,
+  "last_updated": "2026-07-11T10:41:40+00:00",
+  "total_events": 61,
   "events": [
+    {
+      "timestamp": "2026-07-11T10:37:48+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_hash": "75286f382393a97c9992fee88ac230e981ed9c022bdc2378425ade83d8ea8109",
+      "diff": {
+        "added": 197,
+        "removed": 1,
+        "summary": "+197 aggiunte, -1 rimosse (diff troncato a 200 righe)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Test di resilienza operativa digitale"
+          },
+          {
+            "op": " ",
+            "text": "Articolo 24"
+          },
+          {
+            "op": "-",
+            "text": "Requisi"
+          },
+          {
+            "op": "+",
+            "text": "Requisiti generali per lo svolgimento dei test di resilienza operativa digitale"
+          },
+          {
+            "op": "+",
+            "text": "1.   Allo scopo di valutare la preparazione alla gestione degli incidenti connessi alle TIC, di identificare punti deboli, carenze e lacune della resilienza operativa digitale e di attuare tempestivamente misure correttive, le entità finanziarie diverse dalle microimprese, tenuto conto dei criteri di cui all’articolo 4, paragrafo 2, stabiliscono, mantengono e riesaminano un programma di test di resilienza operativa digitale solido ed esaustivo quale parte integrante del quadro per la gestione dei rischi informatici di cui all’articolo 6."
+          },
+          {
+            "op": "+",
+            "text": "2.   Il programma di test di resilienza operativa digitale comprende una serie di valutazioni, test, metodologie, pratiche e strumenti da applicare conformemente agli articoli 25 e 26."
+          },
+          {
+            "op": "+",
+            "text": "3.   Nello svolgimento del programma di test di resilienza operativa digitale di cui al paragrafo 1 del presente articolo, le entità finanziarie, diverse dalle microimprese, adottano un approccio basato sul rischio che prende in considerazione i criteri di cui all’articolo 4, paragrafo 2, tenendo debitamente conto del mutevole contesto dei rischi informatici, di eventuali rischi specifici cui l’entità finanziaria interessata è o potrebbe essere esposta, della criticità dei patrimoni informativi e dei servizi forniti, nonché di qualsiasi altro fattore giudicato rilevante dall’entità finanziaria stessa."
+          },
+          {
+            "op": "+",
+            "text": "4.   Le entità finanziarie, diverse dalle microimprese, assicurano che i test siano svolti da soggetti indipendenti, interni o esterni. Se i test sono svolti da un soggetto incaricato dello svolgimento dei test interno, le entità finanziarie dedicano risorse sufficienti e garantiscono che siano evitati conflitti d’interessi durante le fasi di progettazione ed esecuzione del test."
+          },
+          {
+            "op": "+",
+            "text": "5.   Le entità finanziarie, diverse dalle microimprese, definiscono procedure e politiche per dare un ordine di priorità ai problemi riscontrati durante lo svolgimento dei test, per classificarli e porvi rimedio; stabiliscono inoltre metodologie di convalida interne per accertare che tutti i punti deboli, le carenze o le lacune che sono stati individuati siano pienamente affrontati."
+          },
+          {
+            "op": "+",
+            "text": "6.   Le entità finanziarie, diverse dalle microimprese, provvedono affinché, con cadenza almeno annuale, siano eseguiti test adeguati su tutti i sistemi e le applicazioni di TIC a supporto di funzioni essenziali o importanti."
+          },
+          {
+            "op": "+",
+            "text": "Articolo 25"
+          },
+          {
+            "op": "+",
+            "text": "Test di strumenti e sistemi di TIC"
+          },
+          {
+            "op": "+",
+            "text": "1.   Il programma di test di resilienza operativa digitale di cui all’articolo 24 prevede, conformemente ai criteri di cui all’articolo 4, paragrafo 2, l’esecuzione di test adeguati, tra cui valutazione e scansione delle vulnerabilità, analisi open source, valutazioni della sicurezza delle reti, analisi delle carenze, esami della sicurezza fisica, questionari e soluzioni di scansione del software, esami del codice sorgente, ove fattibile, test basati su scenari, test di compatibilità, test di prestazione, test end-to-end e test di penetrazione."
+          },
+          {
+            "op": "+",
+            "text": "2.   I depositari centrali di titoli e le controparti centrali effettuano valutazioni della vulnerabilità prima di ciascun rilascio o nuovo rilascio di nuovi o già esistenti applicazioni e componenti infrastrutturali, e servizi TIC a supporto delle funzioni essenziali o importanti dell’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "3.   Le microimprese eseguono i test di cui al paragrafo 1 combinando un approccio basato sul rischio con una pianificazione strategica dei test relativi alle TIC, tenendo debitamente conto della necessità di mantenere un approccio equilibrato tra l’entità delle risorse e il tempo da assegnare ai test relativi alle TIC di cui al presente articolo, da un lato, e l’urgenza, il tipo di rischio, la criticità dei patrimoni informativi e dei servizi forniti nonché qualsiasi altro fattore rilevante, compresa la capacità dell’entità finanziaria di assumere rischi calcolati, dall’altro."
+          },
+          {
+            "op": "+",
+            "text": "Articolo 26"
+          },
+          {
+            "op": "+",
+            "text": "Test avanzati di strumenti, sistemi e processi di TIC basati su test di penetrazione guidati dalla minaccia (TLPT)"
+          },
+          {
+            "op": "+",
+            "text": "1.   Le entità finanziarie, diverse dalle entità di cui all’articolo 16, paragrafo 1, primo comma, e dalle microimprese, che sono identificate conformemente al paragrafo 8, terzo comma, del presente articolo, effettuano test avanzati sotto forma di test di penetrazione basati su minacce con cadenza almeno triennale. Sulla base del profilo di rischio dell’entità finanziaria e tenuto conto delle circostanze operative, l’autorità competente può, se necessario, chiedere all’entità finanziaria di ridurre o aumentare tale frequenza."
+          },
+          {
+            "op": "+",
+            "text": "2.   Ciascun test di penetrazione guidato dalla minaccia riguarda alcune o tutte le funzioni essenziali o importanti dell’entità finanziaria ed è effettuato sui sistemi attivi di produzione a supporto di tali funzioni."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie identificano tutti i sistemi, i processi e le tecnologie TIC sottostanti a supporto delle funzioni essenziali o importanti e tutti i pertinenti servizi TIC, compresi quelli a supporto di funzioni essenziali o importanti che sono stati esternalizzate o appaltate a fornitori terzi di servizi TIC."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie valutano quali funzioni essenziali o importanti debbano essere interessate dai TLPT. Il risultato della valutazione determina il preciso ambito di applicazione dei TLPT ed è convalidato dalle autorità competenti."
+          },
+          {
+            "op": "+",
+            "text": "3.   Qualora i fornitori terzi di servizi TIC rientrino nell’ambito di applicazione dei TLPT, l’entità finanziaria adotta le misure e le salvaguardie necessarie per garantire la partecipazione di tali fornitori terzi di servizi TIC ai TLPT ed è sempre pienamente responsabile di garantire il rispetto del presente regolamento."
+          },
+          {
+            "op": "+",
+            "text": "4.   Fatto salvo il paragrafo 2, primo e secondo comma, laddove si ritiene ragionevolmente che la partecipazione di un fornitore terzo di servizi TIC ai TLPT di cui al paragrafo 3 possa avere un impatto avverso sulla qualità o la sicurezza dei servizi offerti dal fornitore terzo di servizi TIC a clienti che sono entità non rientranti nell’ambito di applicazione del presente regolamento, ovvero sulla riservatezza dei dati relativi a tali servizi, l’entità finanziaria e il fornitore terzo di servizi TIC possono concordare per iscritto che il fornitore terzo di servizi TIC stipuli direttamente accordi contrattuali con un soggetto incaricato dello svolgimento dei test esterno, allo scopo di condurre, sotto la direzione di un’entità finanziaria designata, un TLPT congiunto che coinvolga diverse entità finanziarie ("
+          },
+          {
+            "op": "+",
+            "text": "pooled testing"
+          },
+          {
+            "op": "+",
+            "text": ") a cui il fornitore terzo di servizi TIC fornisce tali servizi."
+          },
+          {
+            "op": "+",
+            "text": "Detto test congiunto riguarda la pertinente gamma di servizi TIC a supporto delle funzioni essenziali o importanti appaltate dalle entità finanziarie al rispettivo fornitore terzo di servizi TIC. I test congiunti sono considerati TLPT effettuati dalle entità finanziarie che partecipano ai test congiunti."
+          },
+          {
+            "op": "+",
+            "text": "Il numero di entità finanziarie che partecipano ai test congiunti è debitamente calibrato tenendo conto della complessità e dei tipi di servizi interessati."
+          },
+          {
+            "op": "+",
+            "text": "5.   Le entità finanziarie, cooperando con i fornitori terzi di servizi TIC e altre parti coinvolte, inclusi i soggetti incaricati dello svolgimento dei test ma escluse le autorità competenti, applicano efficaci controlli di gestione del rischio per attenuare i rischi di potenziali impatti sui dati, danni alle attività e perturbazioni delle funzioni essenziali o importanti, delle operazioni o dei servizi delle entità finanziarie, delle loro controparti o del settore finanziario."
+          },
+          {
+            "op": "+",
+            "text": "6.   Alla fine dei test, dopo che le relazioni e i piani correttivi siano stati concordati, l’entità finanziaria e, ove applicabile, i soggetti incaricato dello svolgimento dei test esterni trasmettono all’autorità, designata conformemente al paragrafo 9 o 10, una sintesi delle pertinenti risultanze, i piani correttivi e la documentazione attestante che i TLPT sono stati svolti conformemente ai requisiti."
+          },
+          {
+            "op": "+",
+            "text": "7.   Le autorità forniscono alle entità finanziarie un attestato che conferma che i test sono stati svolti conformemente ai requisiti, come si evince dalla documentazione, in modo da consentire il riconoscimento reciproco dei TLPT tra le autorità competenti. L’entità finanziaria notifica all’autorità competente interessata l’attestato, la sintesi delle pertinenti risultanze e i piani correttivi."
+          },
+          {
+            "op": "+",
+            "text": "Fatto salvo tale attestato, le entità finanziarie rimangono sempre pienamente responsabili degli impatti dei test di cui al paragrafo 4."
+          },
+          {
+            "op": "+",
+            "text": "8.   Per l’effettuazione dei TLPT, le entità finanziarie si avvalgono di soggetti incaricati dello svolgimento dei test in conformità dell’articolo 27. Quando ricorrono a soggetti incaricati dello svolgimento dei test interni per l’effettuazione di TLPT, le entità finanziarie si avvalgono di un soggetto incaricato dello svolgimento dei test esterno ogni tre test."
+          },
+          {
+            "op": "+",
+            "text": "Gli enti creditizi classificati come significativi a norma dell’articolo 6, paragrafo 4, del regolamento (UE) n. 1024/2013, ricorrono esclusivamente a soggetto incaricato dello svolgimento dei test esterni conformemente all’articolo 27, paragrafo 1, lettere da a) a e)."
+          },
+          {
+            "op": "+",
+            "text": "Le autorità competenti identificano le entità finanziarie che hanno l’obbligo di svolgere TLPT tenendo conto dei criteri di cui all’articolo 4, paragrafo 2, sulla base della valutazione degli elementi seguenti:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "i fattori correlati all’impatto, in particolare la portata dell’impatto sul settore finanziario dei servizi forniti e delle attività svolte dall’entità finanziaria;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "i possibili problemi di stabilità finanziaria, tra cui il carattere sistemico dell’entità finanziaria a livello di Unione o nazionale, a seconda dei casi;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "lo specifico profilo dei rischi informatici, il livello di maturità delle TIC dell’entità finanziaria o le caratteristiche tecnologiche in questione."
+          },
+          {
+            "op": "+",
+            "text": "9.   Gli Stati membri possono designare un’autorità pubblica unica nel settore finanziario responsabile delle questioni relative ai TLPT nel settore finanziario a livello nazionale e le affidano tutte le competenze e tutti i compiti a tal fine."
+          },
+          {
+            "op": "+",
+            "text": "10.   In assenza di una designazione a norma del paragrafo 9 del presente articolo e fatto salvo il potere di identificare le entità finanziarie tenute a svolgere TLPT, un’autorità competente può delegare l’esercizio di alcuni o di tutti i compiti di cui al presente articolo e all’articolo 27 a un’altra autorità nazionale nel settore finanziario."
+          },
+          {
+            "op": "+",
+            "text": "11.   Di concerto con la BCE, le AEV elaborano progetti di norme tecniche di regolamentazione comuni conformemente al quadro di riferimento TIBER-EU al fine di specificare ulteriormente quanto segue:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "i criteri utilizzati ai fini dell’applicazione del paragrafo 8, secondo comma;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "i requisiti e le norme che disciplinano il ricorso a soggetto incaricato dello svolgimento dei test interni;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "i requisiti concernenti:"
+          },
+          {
+            "op": "+",
+            "text": "i)"
+          },
+          {
+            "op": "+",
+            "text": "l’ambito dei TLPT di cui al paragrafo 2;"
+          },
+          {
+            "op": "+",
+            "text": "ii)"
+          },
+          {
+            "op": "+",
+            "text": "l’approccio e la metodologia da seguire per i test in ciascuna fase del relativo processo;"
+          },
+          {
+            "op": "+",
+            "text": "iii)"
+          },
+          {
+            "op": "+",
+            "text": "i risultati, la chiusura e le fasi correttive dei test;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "il tipo di cooperazione di vigilanza e altri tipi di cooperazione pertinenti necessari per svolgere i TLPT e per la facilitazione del riconoscimento reciproco di tali test, nel contesto di entità finanziarie che operano in più di uno Stato membro, al fine di consentire un livello adeguato di partecipazione alla vigilanza, nonché un’attuazione flessibile per tener conto delle specificità dei sottosettori finanziari o dei mercati finanziari locali."
+          },
+          {
+            "op": "+",
+            "text": "All’ atto dell’elaborazione di tali progetti di norme tecniche di regolamentazione, le AEV tengono debitamente conto di eventuali caratteristiche specifiche derivanti dalla natura distinta delle attività nei diversi settori dei servizi finanziari."
+          },
+          {
+            "op": "+",
+            "text": "Le AEV presentano tali progetti di norme tecniche di regolamentazione alla Commissione entro il 17 luglio 2024."
+          },
+          {
+            "op": "+",
+            "text": "Alla Commissione è delegato il potere di integrare il presente regolamento, adottando le norme tecniche di regolamentazione di cui al primo comma in conformità degli articoli da 10 a 14 dei regolamenti (UE) n. 1093/2010, (UE) n. 1094/2010 o (UE) n. 1095/2010."
+          },
+          {
+            "op": "+",
+            "text": "Articolo 27"
+          },
+          {
+            "op": "+",
+            "text": "Requisiti per i soggetti incaricati dello svolgimento dei test per lo svolgimento dei TLPT"
+          },
+          {
+            "op": "+",
+            "text": "1.   Per lo svolgimento dei test di penetrazione basati su minacce, le entità finanziarie ricorrono unicamente a soggetto incaricato dello svolgimento dei test che:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "possano vantare il più alto grado di idoneità e reputazione;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "possiedano capacità tecniche e organizzative e dimostrino esperienza specifica nel campo delle analisi delle minacce, dei test di penetrazione e dei test red team;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "siano certificati da un ente di accreditamento in uno Stato membro o rispettino codici formali di condotta o quadri etici;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "forniscano una garanzia indipendente o una relazione di audit concernente la solida gestione dei rischi derivanti dallo svolgimento di TLPT, comprese la dovuta protezione delle informazioni riservate dell’entità finanziaria e il risarcimento dei rischi commerciali dell’entità finanziaria;"
+          },
+          {
+            "op": "+",
+            "text": "e)"
+          },
+          {
+            "op": "+",
+            "text": "siano debitamente e pienamente coperti da un’assicurazione di responsabilità professionale, anche contro i rischi di colpa e negligenza."
+          },
+          {
+            "op": "+",
+            "text": "2.   Quando ricorrono a soggetto incaricato dello svolgimento dei test interni, le entità finanziare devono provvedere affinché, oltre all’obbligo di cui al paragrafo 1, siano soddisfatte le condizioni seguenti:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "tale ricorso è stato approvato dall’autorità competente interessata o dall’autorità pubblica unica designata conformemente all’articolo 26, paragrafi 9 e 10;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "l’autorità competente interessata ha verificato che l’entità finanziaria dispone di risorse dedicate sufficienti e che essa ha garantito che siano evitati conflitti d’interessi durante le fasi di progettazione ed esecuzione del test; e"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "il soggetto che fornisce analisi delle minacce è esterno all’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "3.   Le entità finanziarie garantiscono che i contratti conclusi con i soggetti incaricati dello svolgimento dei test esterni prevedano una solida gestione dei risultati dei TLPT e che qualsiasi trattamento dei dati, comprese la generazione, la conservazione, l’aggregazione, l’elaborazione, la segnalazione, la comunicazione o la distruzione, non comporti rischi per l’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "CAPO V"
+          },
+          {
+            "op": "+",
+            "text": "Gestione dei rischi informatici derivanti da terzi"
+          },
+          {
+            "op": "+",
+            "text": "Sezione I"
+          },
+          {
+            "op": "+",
+            "text": "Principi fondamentali di una solida gestione dei rischi informatici derivanti da terzi"
+          },
+          {
+            "op": "+",
+            "text": "Articolo 28"
+          },
+          {
+            "op": "+",
+            "text": "Principi generali"
+          },
+          {
+            "op": "+",
+            "text": "1.   Le entità finanziarie gestiscono i rischi informatici derivanti da terzi quali componenti integranti dei rischi informatici nel contesto del proprio quadro per la gestione di detti rischi di cui all’articolo 6, paragrafo 1, e conformemente ai principi indicati di seguito:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "le entità finanziarie che hanno stipulato accordi contrattuali per l’utilizzo di servizi TIC per lo svolgimento delle proprie operazioni commerciali rimangono sempre pienamente responsabili del rispetto e dell’adempimento di tutti gli obblighi previsti dal presente regolamento e dalla normativa applicabile in materia di servizi finanziari;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "la gestione dei rischi informatici derivanti da terzi da parte delle entità finanziarie si svolge nel rispetto del principio di proporzionalità, tenendo conto:"
+          },
+          {
+            "op": "+",
+            "text": "i)"
+          },
+          {
+            "op": "+",
+            "text": "della natura, della portata, della complessità e dell’importanza delle dipendenze connesse alle TIC;"
+          },
+          {
+            "op": "+",
+            "text": "ii)"
+          },
+          {
+            "op": "+",
+            "text": "dei rischi derivanti dagli accordi contrattuali per l’utilizzo di servizi TIC conclusi con fornitori terzi di servizi TIC, tenendo conto della criticità o dell’importanza dei rispettivi servizi, processi o funzioni e del potenziale impatto sulla continuità e la disponibilità delle attività e dei servizi finanziari a livello individuale e di gruppo."
+          },
+          {
+            "op": "+",
+            "text": "2.   Nel contesto del quadro per la gestione dei rischi informatici TIC, le entità finanziarie diverse dalle entità di cui all’articolo 16, paragrafo 1, primo comma, e dalle microimprese adottano e riesaminano periodicamente una strategia per i rischi informatici derivanti da terzi, tenendo conto della strategia basata su una varietà di fornitori di cui all’articolo 6, paragrafo 9, ove applicabile. Tale strategia comprende una politica per l’utilizzo dei servizi TIC a supporto di funzioni essenziali o importanti prestati da fornitori terzi e si applica su base individuale e, se del caso, su base subconsolidata e consolidata. Sulla base di una valutazione del profilo di rischio complessivo dell’entità finanziaria e della portata e della complessità dei servizi operativi, l’organo di gestione riesamina periodicamente i rischi individuati in relazione agli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti."
+          },
+          {
+            "op": "+",
+            "text": "3.   Nel contesto del quadro per la gestione dei rischi informatici, le entità finanziarie mantengono e aggiornano a livello di entità, e su base subconsolidata e consolidata, un registro di informazioni su tutti gli accordi contrattuali per l’utilizzo di servizi TIC prestati da fornitori terzi."
+          },
+          {
+            "op": "+",
+            "text": "Gli accordi contrattuali di cui al primo comma sono opportunamente documentati, distinguendo quelli che si riferiscono a servizi TIC a supporto di funzioni essenziali o importanti dagli altri."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie comunicano almeno una volta all’anno alle autorità competenti il numero di nuovi accordi per l’utilizzo di servizi TIC, le categorie di fornitori terzi di servizi TIC, il tipo di accordi contrattuali e le funzioni e i servizi TIC forniti."
+          },
+          {
+            "op": "+",
+            "text": "Su richiesta, le entità finanziarie mettono a disposizione dell’autorità competente il registro delle informazioni completo o, a seconda della richiesta, determinate sezioni del registro insieme alle informazioni giudicate necessarie per consentire l’efficace vigilanza sull’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie informano tempestivamente l’autorità competente in merito a eventuali accordi contrattuali previsti per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti, nonché del momento in cui una funzione diventa essenziale o importante."
+          },
+          {
+            "op": "+",
+            "text": "4.   Prima di stipulare un accordo contrattuale per l’utilizzo di servizi TIC, le entità finanziarie:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "valutano se l’accordo contrattuale riguardi l’utilizzo di servizi TIC a supporto di una funzione essenziale o importante;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "verificano se siano soddisfatte le condizioni di vigilanza per la conclusione del contratto;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "identificano e valutano tutti i rischi pertinenti relativi all’accordo contrattuale, compresa la possibilità che tale accordo contrattuale possa aggravare il rischio di concentrazione delle TIC di cui all’articolo 29;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "effettuano controlli di dovuta diligenza ("
+          },
+          {
+            "op": "+",
+            "text": "due diligence"
+          },
+          {
+            "op": "+",
+            "text": ") sui potenziali fornitori terzi di servizi TIC e ne garantiscono l’idoneità lungo tutto il processo di selezione e valutazione;"
+          },
+          {
+            "op": "+",
+            "text": "e)"
+          },
+          {
+            "op": "+",
+            "text": "individuano e valutano i conflitti d’interessi che possano derivare dall’accordo contrattuale."
+          },
+          {
+            "op": "+",
+            "text": "5.   Le entità finanziarie possono stipulare accordi contrattuali soltanto con fornitori terzi di servizi TIC che soddisfano standard appropriati in materia di sicurezza delle informazioni. Laddove tali accordi contrattuali riguardino funzioni essenziali o importanti, le entità finanziarie, prima di concludere detti accordi, prendono in debita considerazione l’utilizzo da parte dei fornitori terzi di servizi TIC degli standard di qualità più aggiornati ed elevati in materia di sicurezza delle informazioni."
+          },
+          {
+            "op": "+",
+            "text": "6.   Nell’esercizio dei diritti di accesso, ispezione e audit nei confronti del fornitore terzo di servizi TIC, le entità finanziarie predeterminano, sulla base di un approccio basato sul rischio, la frequenza delle verifiche di audit e delle ispezioni nonché i settori da sottoporre ad audit, aderendo a standard di audit comunemente accettate in conformità di eventuali indicazioni di vigilanza sull’uso e l’integrazione di tali standard di audit."
+          },
+          {
+            "op": "+",
+            "text": "Laddove gli accordi contrattuali conclusi con fornitori terzi di servizi TIC per l’utilizzo di servizi TIC comportino un’elevata complessità tecnica, l’entità finanziaria verifica che i revisori, indipendentemente dal fatto che siano revisori interni o esterni o siano un gruppo di revisori, possiedano competenze e conoscenze adeguate per svolgere efficacemente gli audit e le valutazioni del caso."
+          },
+          {
+            "op": "+",
+            "text": "7.   Le entità finanziarie stabiliscono clausole che consentano la risoluzione degli accordi contrattuali per l’utilizzo di servizi TIC in una qualsiasi delle circostanze seguenti:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "rilevante violazione, da parte del fornitore terzo di servizi TIC, di leggi, regolamenti o condizioni contrattuali applicabili;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "circostanze, identificate nel corso del monitoraggio dei rischi informatici derivanti da terzi, ritenute suscettibili di alterare l’esercizio delle funzioni previsto a norma dell’accordo contrattuale, tra cui modifiche di rilievo che incidano sull’accordo o sulla situazione del fornitore terzo di servizi TIC;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "punti deboli del fornitore terzo di servizi TIC emersi riguardo alla sua gestione complessiva dei rischi informatici e, in particolare, nel modo in cui il fornitore garantisce la disponibilità, autenticità, integrità e riservatezza dei dati, siano essi dati personali o altrimenti sensibili, oppure dei dati non personali;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "laddove l’autorità competente non sia più in grado di vigilare efficacemente sull’entità finanziaria per via delle condizioni dell’accordo contrattuale in questione o delle circostanze ivi afferenti."
+          },
+          {
+            "op": "+",
+            "text": "8.   Per i servizi TIC a supporto di funzioni essenziali o importanti, le entità finanziarie predispongono strategie di uscita. Tali strategie tengono conto dei rischi che possono emergere a livello dei fornitori terzi di servizi TIC, in particolare possibili disfunzioni dei fornitori stessi, il deterioramento della qualità dei servizi TIC forniti, una perturbazione dell’attività commerciale conseguente a una fornitura di servizi TIC inadeguata o carente, oppure gravi rischi connessi all’adeguatezza e alla continuità dell’esercizio del rispettivo servizio TIC oppure la risoluzione di accordi contrattuali con fornitori terzi di servizi TIC in una delle circostanze di cui al paragrafo 7."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie garantiscono di poter porre termine agli accordi contrattuali senza:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "perturbare le proprie attività commerciali;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "limitare il rispetto dei requisiti normativi;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "pregiudicare la continuità e la qualità dei servizi forniti ai clienti."
+          },
+          {
+            "op": "+",
+            "text": "I piani di uscita sono esaustivi, documentati e, conformemente ai criteri di cui all’articolo 4, paragrafo 2, sottoposti a test adeguati e riesaminati periodicamente."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie identificano soluzioni alternative ed elaborano piani di transizione che consentano loro di trasferire i servizi TIC previsti dal contratto e i relativi dati dal fornitore terzo di servizi TIC, in maniera sicura e nella loro interezza, a fornitori alternativi oppure reintegrarli al proprio interno."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie dispongono di misure di emergenza idonee per mantenere la continuità operativa qualora si verifichino le circostanze di cui al primo comma."
+          },
+          {
+            "op": "+",
+            "text": "9.   Le AEV, tramite il comitato congiunto, elaborano progetti di norme tecniche di attuazione per definire modelli standard in relazione al registro delle informazioni di cui al paragrafo 3, comprese le informazioni comuni a tutti gli accordi contrattuali per l’utilizzo di servizi TIC. Le AEV presentano tali progetti di norme tecniche di attuazione alla Commissione entro il 17 gennaio 2024."
+          },
+          {
+            "op": "+",
+            "text": "Alla Commissione è conferito il potere di adottare le norme tecniche di attuazione di cui al primo comma in conformità dell’articolo 15 dei regolamenti (UE) n. 1093/2010, (UE) n. 1094/2010 e (UE) n. 1095/2010."
+          },
+          {
+            "op": "+",
+            "text": "10.   Le AEV, tramite il comitato congiunto, elaborano progetti di norme tecniche di regolamentazione per precisare ulteriormente il contenuto dettagliato della politica di cui al paragrafo 2, in relazione agli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti prestati da fornitori terzi di servizi TIC."
+          },
+          {
+            "op": "+",
+            "text": "All’atto dell’elaborazione di tali progetti di norme tecniche di regolamentazione, le AEV tengono conto delle dimensioni e del profilo di rischio complessivo dell’entità finanziaria, nonché della natura, della portata e della complessità dei suoi servizi, delle sue attività e delle sue operazioni. Le AEV presentano detti progetti di norme tecniche di regolamentazione alla Commissione 17 gennaio 2024."
+          },
+          {
+            "op": "+",
+            "text": "Alla Commissione è delegato il potere di integrare il presente regolamento, adottando le norme tecniche di regolamentazione di cui al primo comma in conformità degli articoli da 10 a 14 dei regolamenti (UE) n. 1093/2010, (UE) n. 1094/2010 o (UE) n. 1095/2010."
+          },
+          {
+            "op": "+",
+            "text": "Articolo 29"
+          },
+          {
+            "op": "+",
+            "text": "Valutazione preliminare del rischio di concentrazione delle TIC a livello di entità"
+          },
+          {
+            "op": "+",
+            "text": "1.   All’atto dell’identificazione e della valutazione dei rischi di cui all’articolo 28, paragrafo 4, lettera c), le entità finanziarie tengono conto altresì dell’eventualità che la prevista conclusione di un accordo contrattuale relativo a servizi TIC a supporto di funzioni essenziali o importanti possa avere una delle seguenti conseguenze:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "la conclusione di un contratto con un fornitore terzo di servizi TIC non facilmente sostituibile; o"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "la presenza di molteplici accordi contrattuali relativi alla prestazione di servizi TIC a supporto di funzioni essenziali o importanti con lo stesso fornitore terzo oppure con fornitori terzi strettamente connessi."
+          },
+          {
+            "op": "+",
+            "text": "Le entità finanziarie vagliano i benefici e i costi di soluzioni alternative, quali il ricorso a diversi fornitori terzi di servizi TIC, verificando se e come le soluzioni previste soddisfino le esigenze commerciali e consentano di conseguire gli obiettivi fissati nella propria strategia di resilienza digitale."
+          },
+          {
+            "op": "+",
+            "text": "2.   Qualora gli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti prevedano la possibilità che un fornitore terzo di servizi TIC subappalti a sua volta servizi TIC a supporto di una funzione essenziale o importante ad altri fornitori terzi di servizi TIC, le entità finanziarie vagliano i benefici e i rischi che possono derivare da tale subappalto, in particolare nel caso di un subappaltatore di TIC stabilito in un paese terzo."
+          },
+          {
+            "op": "+",
+            "text": "Qualora gli accordi contrattuali riguardino servizi TIC a supporto delle funzioni essenziali o importanti, le entità finanziarie tengono in debita considerazione le disposizioni del diritto fallimentare applicabili in caso di fallimento del fornitore terzo di servizi TIC come pure eventuali restrizioni relative all’urgente ripristino dei dati dell’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "Qualora gli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti siano conclusi con un fornitore terzo di servizi TIC stabilito in un paese terzo, le entità finanziarie, in aggiunta alle considerazioni di cui al secondo comma, tengono conto altresì del rispetto delle norme dell’UE sulla protezione dei dati e dell’effettiva applicazione della legge in tale paese terzo."
+          },
+          {
+            "op": "+",
+            "text": "Qualora gli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti prevedano un subappalto, le entità finanziarie valutano se e come catene di subappalti potenzialmente lunghe e complesse possano incidere sulla loro capacità di monitorare pienamente le funzioni appaltate e sulla capacità dell’autorità competente di vigilare efficacemente, a tal proposito, sull’entità finanziaria."
+          },
+          {
+            "op": "+",
+            "text": "Articolo 30"
+          },
+          {
+            "op": "+",
+            "text": "Principali disposizioni contrattuali"
+          },
+          {
+            "op": "+",
+            "text": "1.   I diritti e gli obblighi dell’entità finanziaria e del fornitore terzo di servizi TIC sono attribuiti chiaramente e definiti per iscritto. Il testo integrale del contratto comprende gli accordi sul livello dei servizi ed è contenuto in un documento scritto disponibile alle parti in formato cartaceo oppure in un documento in altro formato scaricabile, durevole e accessibile."
+          },
+          {
+            "op": "+",
+            "text": "2.   Gli accordi contrattuali per l’utilizzo di servizi TIC comprendono almeno gli elementi seguenti:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "la descrizione chiara e completa di tutte le funzioni che il fornitore terzo di servizi TIC deve svolgere e tutti i servizi TIC che deve prestare, comprese l’indicazione dell’eventuale autorizzazione a subappaltare un servizio TIC a sostegno di una funzione essenziale o importante o parti significative di essa e, in caso affermativo, le condizioni di tale subappalto;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "le località, segnatamente le regioni o i paesi, in cui si devono svolgere le funzioni e prestare i servizi TIC appaltati o subappaltati e in cui si devono trattare i dati, compreso il luogo di conservazione, nonché l’obbligo, per il fornitore terzo di servizi TIC, di segnalare in anticipo all’entità finanziaria l’intenzione di cambiare tale o tali località;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "le disposizioni in materia di disponibilità, autenticità, integrità e riservatezza in relazione alla protezione dei dati, compresi i dati personali;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "le disposizioni relative alle garanzie di accesso, ripristino e restituzione, in un formato facilmente accessibile, di dati personali e non personali trattati dall’entità finanziaria in caso di insolvenza, risoluzione o interruzione delle operazioni commerciali del fornitore terzo di servizi TIC o in caso di risoluzione degli accordi commerciali;"
+          },
+          {
+            "op": "+",
+            "text": "e)"
+          },
+          {
+            "op": "+",
+            "text": "le descrizioni dei livelli di servizio, compresi relativi aggiornamenti e revisioni;"
+          },
+          {
+            "op": "+",
+            "text": "f)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo per il fornitore terzo di servizi TIC di prestare assistenza all’entità finanziaria senza costi aggiuntivi o a un costo stabilito ex ante, qualora si verifichi un incidente connesso alle TIC relativo al servizio TIC fornito all’entità finanziaria;"
+          },
+          {
+            "op": "+",
+            "text": "g)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo per il fornitore terzo di servizi di TIC di operare senza riserve con le autorità competenti e con le autorità di risoluzione dell’entità finanziaria, comprese le persone da queste nominate;"
+          },
+          {
+            "op": "+",
+            "text": "h)"
+          },
+          {
+            "op": "+",
+            "text": "i diritti di risoluzione e il relativo termine minimo di preavviso per la risoluzione degli accordi contrattuali, conformemente alle attese delle autorità competenti e delle autorità di risoluzione;"
+          },
+          {
+            "op": "+",
+            "text": "i)"
+          },
+          {
+            "op": "+",
+            "text": "le condizioni riguardanti la partecipazione dei fornitori terzi di servizi TIC ai programmi di sensibilizzazione sulla sicurezza delle TIC e alle attività di formazione sulla resilienza operativa digitale delle entità finanziarie conformemente all’articolo 13, paragrafo 6."
+          },
+          {
+            "op": "+",
+            "text": "3.   Gli accordi contrattuali per l’utilizzo di servizi TIC a supporto di funzioni essenziali o importanti comprendono, in aggiunta agli elementi di cui al paragrafo 2, almeno quanto segue:"
+          },
+          {
+            "op": "+",
+            "text": "a)"
+          },
+          {
+            "op": "+",
+            "text": "la descrizione completa dei livelli di servizio, comprendente i relativi aggiornamenti e revisioni con precisi obiettivi quantitativi e qualitativi, in termini di prestazioni, nell’ambito dei livelli di servizio concordati, in modo da consentire un monitoraggio efficace da parte dell’entità finanziaria dei servizi TIC e l’applicazione, senza indebito ritardo, di opportune azioni correttive qualora i livelli di servizio concordati non siano rispettati;"
+          },
+          {
+            "op": "+",
+            "text": "b)"
+          },
+          {
+            "op": "+",
+            "text": "termini di preavviso e obblighi di segnalazione per il fornitore terzo di servizi TIC nei confronti dell’entità finanziaria, tra cui la notifica di eventuali sviluppi che potrebbero esercitare un impatto significativo sulla capacità del fornitore terzo di servizi TIC di prestare servizi a supporto di funzioni essenziali o importanti efficacemente, in linea con i livelli di servizio concordati;"
+          },
+          {
+            "op": "+",
+            "text": "c)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo per il fornitore terzo di servizi TIC di attuare e testare i piani operativi d’emergenza e di predisporre misure, strumenti e politiche per la sicurezza delle TIC che offrano un adeguato livello di sicurezza per la fornitura dei servizi da parte dell’entità finanziaria, in linea con il proprio quadro normativo;"
+          },
+          {
+            "op": "+",
+            "text": "d)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo per il fornitore terzo di servizi TIC di partecipare e cooperare pienamente al TLPT dell’entità finanziaria di cui agli articoli 26 e 27;"
+          },
+          {
+            "op": "+",
+            "text": "e)"
+          },
+          {
+            "op": "+",
+            "text": "il diritto di monitorare costantemente le prestazioni del fornitore terzo di servizi TIC, che comporta quanto segue:"
+          },
+          {
+            "op": "+",
+            "text": "i)"
+          },
+          {
+            "op": "+",
+            "text": "diritti incondizionati di accesso, ispezione e audit da parte dell’entità finanziaria — o di un terzo designato a tal fine — e dell’autorità competente nonché il diritto di ottenere copia della documentazione pertinente in loco, se di importanza critica per le operazioni del fornitore terzo di servizi TIC, il cui effettivo esercizio non sia impedito o limitato da altri accordi contrattuali o politiche di attuazione;"
+          },
+          {
+            "op": "+",
+            "text": "ii)"
+          },
+          {
+            "op": "+",
+            "text": "il diritto di concordare livelli di garanzia alternativi, qualora siano interessati i diritti di altri clienti;"
+          },
+          {
+            "op": "+",
+            "text": "iii)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo per il fornitore terzo di servizi TIC di cooperare senza riserve nel corso delle ispezioni e degli audit in loco svolti dalle autorità competenti, dall’autorità di sorveglianza capofila, dall’entità finanziaria o da un terzo designato; e"
+          },
+          {
+            "op": "+",
+            "text": "iv)"
+          },
+          {
+            "op": "+",
+            "text": "l’obbligo di fornire dettagli sull’ambito di applicazione, sulle procedure da seguire e sulla frequenza di tali ispezioni e audit;"
+          },
+          {
+            "op": "+",
+            "text": "f)"
+          },
+          {
+            "op": "+",
+            "text": "le strategie di uscita, in particolare la definizione di un adeguato periodo di transizione obbligatorio:"
+          },
+          {
+            "op": "+",
+            "text": "i)"
+          },
+          {
+            "op": "+",
+            "text": "durante il quale il fornitore terzo di servizi TIC continuerà a prestare i suoi servizi TIC o a esercitare le sue funzioni allo scopo di ridurre il rischio di perturbazioni presso l’entità finanziaria o di garantire la sua efficace risoluzione e ristrutturazione;"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-07-11T10:37:31+00:00",
+      "id": "consob-dora",
+      "name": "CONSOB - DORA",
+      "url": "https://www.consob.it/web/area-pubblica/dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "caeb8523178190e0db7067fd898b3eff9700f0660657d3556f0e53dbb3254e07",
+      "new_hash": "0d8c0e63649464707c6016d2c4631a8b3874e71c98b3ce1ed170f7d18059b848",
+      "diff": {
+        "added": 0,
+        "removed": 1,
+        "summary": "+0 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Mercati"
+          },
+          {
+            "op": " ",
+            "text": "Finanza digitale"
+          },
+          {
+            "op": "-",
+            "text": "ESAP - European single access point"
+          },
+          {
+            "op": " ",
+            "text": "Revisione legale"
+          },
+          {
+            "op": " ",
+            "text": "Procedimenti Consob"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-10T13:28:21+00:00",
       "id": "ecb-supervision-priorities",

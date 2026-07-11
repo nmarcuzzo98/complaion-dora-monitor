@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T13:31:53+00:00",
+  "last_updated": "2026-07-11T10:41:40+00:00",
   "total_deadlines": 3,
   "deadlines": [
     {
@@ -10,7 +10,7 @@
       "source_name": "Scadenza DORA - Registro CTPP annuale 2027",
       "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
       "first_seen": "2026-07-07T14:31:30+00:00",
-      "last_seen": "2026-07-10T13:31:53+00:00"
+      "last_seen": "2026-07-11T10:41:40+00:00"
     },
     {
       "date": "2028-01-17",
@@ -20,7 +20,7 @@
       "source_name": "Scadenza DORA - Primo ciclo TLPT triennale",
       "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
       "first_seen": "2026-07-07T14:31:30+00:00",
-      "last_seen": "2026-07-10T13:31:53+00:00"
+      "last_seen": "2026-07-11T10:41:40+00:00"
     },
     {
       "date": "2028-01-17",
@@ -30,7 +30,7 @@
       "source_name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
       "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
       "first_seen": "2026-07-09T16:17:39+00:00",
-      "last_seen": "2026-07-09T16:17:39+00:00"
+      "last_seen": "2026-07-11T10:41:40+00:00"
     }
   ]
 }
