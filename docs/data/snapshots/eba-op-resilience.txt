@@ -308,22 +308,104 @@ Opinions
 Keywords
 Date
 Apply
-There is no matching document.
+7 March 2025
+ESAs Joint Committee Opinion on the rejection of the RTS on subcontracting under DORA
+European Supervisory Authorities (ESAs) issue a joint opinion on the European Commission’s rejection of draft Regulatory Technical Standards (RTS) under DORA, addressing subcontracting conditions for ICT services supporting critical or important functions in financial entities, ensuring alignment with Article 30(5) of DORA.
+Download document
+View press release
+15 October 2024
+ESAs proposals for further changes to the ITS on RoI
+Download document
+View press release
+15 October 2024
+ESAs proposals for further changes to the Annex of the ITS on RoI
+Download document
+View press release
+15 October 2024
+Opinion of the ESAs on the rejection of the ITS on RoI under DORA
+EBA, EIOPA, and ESMA jointly respond to the European Commission’s rejection of DORA’s draft Implementing Technical Standards on ICT third-party service provider identification, advocating for mandatory LEI use over EUID to ensure operational resilience, supervisory efficiency, and global consistency in financial sector risk management.
+Download document
+View press release
 Decisions
 Keywords
 Date
 Apply
-There is no matching document.
+29 January 2025
+ESAs Decision on reporting of information for CTPP designation (corrigendum consolidated)
+EBA, ESMA, and EIOPA joint decision establishing annual reporting requirements for EU competent authorities to provide data on ICT third-party service providers, supporting designation of critical providers under DORA (Regulation (EU) 2022/2554) and Delegated Regulation (EU) 2024/1502, with first submission due by 30 April 2025.
+Download document
+View press release
+29 January 2025
+ESAs Decision on reporting of information for CTPP designation (corrigendum)
+European Supervisory Authorities (EBA, ESMA, EIOPA) correct reporting requirements for competent authorities to designate critical ICT third-party service providers under DORA (Regulation (EU) 2022/2554), aligning data points with Commission Implementing Regulation (EU) 2024/2956.
+Download document
+View press release
+15 November 2024
+Draft validation rules for DORA reporting of RoI
+Download document
+View press release
+15 November 2024
+ESA 2024 22 Decision on reporting of information for CTPP designation
+EBA, EIOPA, and ESMA joint decision outlining annual reporting requirements for competent authorities to provide data on ICT third-party service providers, enabling designation of critical providers under DORA (Regulation (EU) 2022/2554) by April 2025.
+Download document
+View press release
 Reports
 Keywords
 Date
 Apply
-There is no matching document.
+17 January 2025
+Joint Report on the feasibility for further Centralisation of reporting of major ICT incidents
+EBA and joint committee assess the feasibility of centralising major ICT incident reporting under DORA (Regulation (EU) 2022/2554), analysing current frameworks, stakeholder input, and potential options for streamlined EU-level reporting.
+Download document
+View press release
+17 December 2024
+ESA 2024 35 DORA Dry Run exercise summary report
+EBA and ESAs report on the 2024 DORA Dry Run exercise, summarizing key findings on financial entities' registers of ICT third-party service provider contracts, data quality checks, and recommendations for compliance with Digital Operational Resilience Act requirements.
+Download document
+View press release
+27 September 2023
+ESA 2023 22 - ESAs report on the landscape of ICT TPPs.pdf
+ESAs Report on the landscape of ICT third-party providers in the EU
+Download document
+View press release
 Other publications
 Keywords
 Date
 Apply
-There is no matching document.
+14 January 2026
+Memorandum of Understanding on DORA oversight of critical ICT third-party service providers in EU and UK
+EU and UK financial authorities establish cooperation under DORA and UK FSMA to oversee critical ICT third-party service providers, enabling information exchange, joint oversight activities, and coordination on cross-border supervision and risk monitoring.
+Download document
+View press release
+14 January 2026
+ESAs targeted equivalence assessment of DORA confidentiality and professional secrecy regimes
+European Supervisory Authorities (ESAs) assess the equivalence of UK confidentiality and professional secrecy regimes under DORA Article 55, evaluating compliance with data protection, disclosure restrictions, and sanctions for breaches in financial services.
+Download document
+View press release
+15 July 2025
+Guide on DORA oversight of critical third-party providers activities
+European Supervisory Authorities guide on DORA oversight of critical ICT third-party providers – clarifies roles, processes, and compliance for cloud service providers and other key vendors under EU digital operational resilience rules.
+Download document
+View press release
+18 February 2025
+Roadmap towards the designation of CTPPs under DORA
+Download document
+View press release
+17 July 2024
+The Systemic Cyber Incident Coordination Framework: EU-SCICF
+European Banking Authority (EBA) outlines the EU-SCICF, a framework for coordinating responses to systemic cyber incidents threatening financial stability, involving national and EU authorities to share information and align crisis measures.
+Download document
+View press release
+5 June 2024
+Memorandum of Understanding on cooperation between the ESA and ENISA
+European Supervisory Authorities (EBA, EIOPA, ESMA) and ENISA establish a cooperation framework under DORA and NIS2 Directive to enhance cybersecurity, incident reporting, technical standards, and cross-sector collaboration in the EU financial sector.
+Download document
+View press release
+29 September 2023
+Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework.pdf
+Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework
+Download document
+View press release
 Footer
 EUROPEAN BANKING AUTHORITY
 Our mission is to contribute to the stability and effectiveness of the European financial system through simple, consistent, transparent, fair regulation and supervision that benefits all EU citizens.
