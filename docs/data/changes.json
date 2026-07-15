@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-07-14T11:17:37+00:00",
-  "total_events": 64,
+  "last_updated": "2026-07-15T11:21:51+00:00",
+  "total_events": 65,
   "events": [
+    {
+      "timestamp": "2026-07-15T11:17:55+00:00",
+      "id": "normattiva-dlgs-23-2025",
+      "name": "Normattiva - D.Lgs. 23/2025 (adeguamento italiano a DORA)",
+      "url": "https://www.normattiva.it/eli/id/2025/03/11/25G00032/ORIGINAL",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "35b3cee690f035cbd5a3078fe033b42ccc9f0bdaeb81390b7db00bd282d02bbf",
+      "new_hash": "f331b25d7d3a5d92a8d58c1e466a364812763dfcf31cd7eb6026f74a2dd40949",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Dichiarazione di accessibilità"
+          },
+          {
+            "op": " ",
+            "text": "dati.normattiva.it"
+          },
+          {
+            "op": "-",
+            "text": "Portale Normattiva, Versione 2.4.4"
+          },
+          {
+            "op": "+",
+            "text": "Portale Normattiva, Versione 2.4.5"
+          },
+          {
+            "op": " ",
+            "text": "torna su"
+          },
+          {
+            "op": " ",
+            "text": "lavori preparatori"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-14T11:13:18+00:00",
       "id": "eba-op-resilience",

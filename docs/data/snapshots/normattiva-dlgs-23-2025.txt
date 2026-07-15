@@ -756,7 +756,7 @@ Mappa del sito
 FAQ
 Dichiarazione di accessibilità
 dati.normattiva.it
-Portale Normattiva, Versione 2.4.4
+Portale Normattiva, Versione 2.4.5
 torna su
 lavori preparatori
 chiudi
