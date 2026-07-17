@@ -1,7 +1,449 @@
 {
-  "last_updated": "2026-07-16T11:59:26+00:00",
-  "total_events": 66,
+  "last_updated": "2026-07-17T11:14:16+00:00",
+  "total_events": 67,
   "events": [
+    {
+      "timestamp": "2026-07-17T11:10:08+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "3a4c7eac1e574e96100f77ee5b827cecd20304f341e1e907ecde780eb0ed862e",
+      "new_hash": "c48d4c8a33bfc6adccdc8ede5ec068bab08807e75ace3b37e09fa63a84ba3898",
+      "diff": {
+        "added": 86,
+        "removed": 4,
+        "summary": "+86 aggiunte, -4 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Apply"
+          },
+          {
+            "op": "-",
+            "text": "There is no matching document."
+          },
+          {
+            "op": "+",
+            "text": "7 March 2025"
+          },
+          {
+            "op": "+",
+            "text": "ESAs Joint Committee Opinion on the rejection of the RTS on subcontracting under DORA"
+          },
+          {
+            "op": "+",
+            "text": "European Supervisory Authorities (ESAs) issue a joint opinion on the European Commission’s rejection of draft Regulatory Technical Standards (RTS) under DORA, addressing subcontracting conditions for ICT services supporting critical or important functions in financial entities, ensuring alignment with Article 30(5) of DORA."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 October 2024"
+          },
+          {
+            "op": "+",
+            "text": "ESAs proposals for further changes to the ITS on RoI"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 October 2024"
+          },
+          {
+            "op": "+",
+            "text": "ESAs proposals for further changes to the Annex of the ITS on RoI"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 October 2024"
+          },
+          {
+            "op": "+",
+            "text": "Opinion of the ESAs on the rejection of the ITS on RoI under DORA"
+          },
+          {
+            "op": "+",
+            "text": "EBA, EIOPA, and ESMA jointly respond to the European Commission’s rejection of DORA’s draft Implementing Technical Standards on ICT third-party service provider identification, advocating for mandatory LEI use over EUID to ensure operational resilience, supervisory efficiency, and global consistency in financial sector risk management."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": " ",
+            "text": "Decisions"
+          },
+          {
+            "op": " ",
+            "text": "Keywords"
+          },
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Apply"
+          },
+          {
+            "op": "-",
+            "text": "There is no matching document."
+          },
+          {
+            "op": "+",
+            "text": "29 January 2025"
+          },
+          {
+            "op": "+",
+            "text": "ESAs Decision on reporting of information for CTPP designation (corrigendum consolidated)"
+          },
+          {
+            "op": "+",
+            "text": "EBA, ESMA, and EIOPA joint decision establishing annual reporting requirements for EU competent authorities to provide data on ICT third-party service providers, supporting designation of critical providers under DORA (Regulation (EU) 2022/2554) and Delegated Regulation (EU) 2024/1502, with first submission due by 30 April 2025."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "29 January 2025"
+          },
+          {
+            "op": "+",
+            "text": "ESAs Decision on reporting of information for CTPP designation (corrigendum)"
+          },
+          {
+            "op": "+",
+            "text": "European Supervisory Authorities (EBA, ESMA, EIOPA) correct reporting requirements for competent authorities to designate critical ICT third-party service providers under DORA (Regulation (EU) 2022/2554), aligning data points with Commission Implementing Regulation (EU) 2024/2956."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 November 2024"
+          },
+          {
+            "op": "+",
+            "text": "Draft validation rules for DORA reporting of RoI"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 November 2024"
+          },
+          {
+            "op": "+",
+            "text": "ESA 2024 22 Decision on reporting of information for CTPP designation"
+          },
+          {
+            "op": "+",
+            "text": "EBA, EIOPA, and ESMA joint decision outlining annual reporting requirements for competent authorities to provide data on ICT third-party service providers, enabling designation of critical providers under DORA (Regulation (EU) 2022/2554) by April 2025."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": " ",
+            "text": "Reports"
+          },
+          {
+            "op": " ",
+            "text": "Keywords"
+          },
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Apply"
+          },
+          {
+            "op": "-",
+            "text": "There is no matching document."
+          },
+          {
+            "op": "+",
+            "text": "17 January 2025"
+          },
+          {
+            "op": "+",
+            "text": "Joint Report on the feasibility for further Centralisation of reporting of major ICT incidents"
+          },
+          {
+            "op": "+",
+            "text": "EBA and joint committee assess the feasibility of centralising major ICT incident reporting under DORA (Regulation (EU) 2022/2554), analysing current frameworks, stakeholder input, and potential options for streamlined EU-level reporting."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "17 December 2024"
+          },
+          {
+            "op": "+",
+            "text": "ESA 2024 35 DORA Dry Run exercise summary report"
+          },
+          {
+            "op": "+",
+            "text": "EBA and ESAs report on the 2024 DORA Dry Run exercise, summarizing key findings on financial entities' registers of ICT third-party service provider contracts, data quality checks, and recommendations for compliance with Digital Operational Resilience Act requirements."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "27 September 2023"
+          },
+          {
+            "op": "+",
+            "text": "ESA 2023 22 - ESAs report on the landscape of ICT TPPs.pdf"
+          },
+          {
+            "op": "+",
+            "text": "ESAs Report on the landscape of ICT third-party providers in the EU"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": " ",
+            "text": "Other publications"
+          },
+          {
+            "op": " ",
+            "text": "Keywords"
+          },
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Apply"
+          },
+          {
+            "op": "-",
+            "text": "There is no matching document."
+          },
+          {
+            "op": "+",
+            "text": "14 January 2026"
+          },
+          {
+            "op": "+",
+            "text": "Memorandum of Understanding on DORA oversight of critical ICT third-party service providers in EU and UK"
+          },
+          {
+            "op": "+",
+            "text": "EU and UK financial authorities establish cooperation under DORA and UK FSMA to oversee critical ICT third-party service providers, enabling information exchange, joint oversight activities, and coordination on cross-border supervision and risk monitoring."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "14 January 2026"
+          },
+          {
+            "op": "+",
+            "text": "ESAs targeted equivalence assessment of DORA confidentiality and professional secrecy regimes"
+          },
+          {
+            "op": "+",
+            "text": "European Supervisory Authorities (ESAs) assess the equivalence of UK confidentiality and professional secrecy regimes under DORA Article 55, evaluating compliance with data protection, disclosure restrictions, and sanctions for breaches in financial services."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "15 July 2025"
+          },
+          {
+            "op": "+",
+            "text": "Guide on DORA oversight of critical third-party providers activities"
+          },
+          {
+            "op": "+",
+            "text": "European Supervisory Authorities guide on DORA oversight of critical ICT third-party providers – clarifies roles, processes, and compliance for cloud service providers and other key vendors under EU digital operational resilience rules."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "18 February 2025"
+          },
+          {
+            "op": "+",
+            "text": "Roadmap towards the designation of CTPPs under DORA"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "17 July 2024"
+          },
+          {
+            "op": "+",
+            "text": "The Systemic Cyber Incident Coordination Framework: EU-SCICF"
+          },
+          {
+            "op": "+",
+            "text": "European Banking Authority (EBA) outlines the EU-SCICF, a framework for coordinating responses to systemic cyber incidents threatening financial stability, involving national and EU authorities to share information and align crisis measures."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "5 June 2024"
+          },
+          {
+            "op": "+",
+            "text": "Memorandum of Understanding on cooperation between the ESA and ENISA"
+          },
+          {
+            "op": "+",
+            "text": "European Supervisory Authorities (EBA, EIOPA, ESMA) and ENISA establish a cooperation framework under DORA and NIS2 Directive to enhance cybersecurity, incident reporting, technical standards, and cross-sector collaboration in the EU financial sector."
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": "+",
+            "text": "29 September 2023"
+          },
+          {
+            "op": "+",
+            "text": "Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework.pdf"
+          },
+          {
+            "op": "+",
+            "text": "Joint-ESAs’ response to the Call for advice on the designation criteria and fees for the DORA oversight framework"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": " ",
+            "text": "Footer"
+          },
+          {
+            "op": " ",
+            "text": "EUROPEAN BANKING AUTHORITY"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-16T11:56:31+00:00",
       "id": "eba-op-resilience",
