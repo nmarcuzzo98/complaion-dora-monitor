@@ -1,0 +1,91 @@
+Country Authority Name Membership status E I E d a t C h S n e i o A c d c l n s s a t f h r l P ( e i a E c o o o t B t t b l f h I i o A c l t a a i h f i g , t m e e I E a I n s t I t h a t i O f h e o w a o r r P n v r e e a A s e e s N r . e , t r o s E e o n a S a f - d n S M m d t t A a y h f ) e f p i r n D i o n o A v t t e i r h y d r t i o e i e r c s d u r l s t e s p h ( 3 a a ' r C ( r v e 2 t T e l y 3 a P ) a t I i P C o n n s f T y g ' t ) e s h t a o c e e s o r c D v n d r i O i o c e ti e m f R c i n a A ic e l ? d A d (m i i r a r n e b e s e t o c e s y a ( d r e t r o o n e o n . y c u i g l r n a a i s o . a l a g t h b r e t d i m a i o d e o e p n a q c n e ) e y r u i m o n s d o i p f t i v b f o i m a a a t e s n y r l e r u C t e - i o m m c o n c T r h f i t b P a p a a s k e p P a t i r t e m t r n r s o i u r a o g h a s r c d n i n o C b t p e u a n i o , T n g r s d P e i ? a y n P n g - r A o e r r l a a a e s c n t s o y e y o o d n C c u s e T i u e a n i P n l n t t t i P i a t o e t i n y t n m o y , c r ? o p o y C f l r i o n s T a y u P o m t c r P r a h e - t d n o e t D p o r o yo p u er h ty a C v ri e T g P h an P ts y s r ? i e n l t a e t l i l n e g c t t u o a l D p o r m f o o a y e v r l o m l i i d a u n b f e g f h e d i l a r u i a s a v n b h t e d i o i o C p e o v n r T t e o s h t P r h e a m P r a e n ? e f m d d f a i e l e r n i e f a m i i n l t n a i b g o i t t e e n i a o r d s n n n h t y o s o i t p a s
+AT FMA Michael Hysek Member OF Yes No No No No No
+AT FMA Peter Braumüller Alternate OF Yes No No No No No
+BE FSMA Antoine Greindl Observer OF Yes No No No No No
+BE NBB Dominik Smoniewski Member OF Yes No No No No No
+BE NBB Thomas Plomteux Alternate OF Yes No No No No No
+BG BNB Mihail Dimov Alternate OF Yes No No No No No
+BG FSC Petar Dzelepov Observer OF Yes No No No No No
+BG BNB Stefan Krastanov Member OF Yes No No No No No
+CY CBC Nicolas Procopiou Alternate OF Yes No No No No No
+CY CBC Pany Karamanou Member OF Yes No No No No No
+CY CBC Christos Meletiou Alternate OF Yes No No No No No
+CY CYSEC Nicolas Kakouros Observer OF Yes No No No No No
+CZ CNB Olexa Tomáš Member OF Yes No No No No No
+CZ CNB Jan Bridzik Alternate OF Yes No No No No No
+DE BaFin Jens Obermöller Member OF Yes No No No No No
+DE BaFin Sibel Kocatepe Alternate OF Yes No No No No No
+DK FSA Adam Naji Dindler Al-Saffar Member OF Yes No No No No No
+DK FSA Carmen Tsang Saabye Observer OF Yes No No No No No
+DK FSA Jan Bertel Jans Observer OF Yes No No No No No
+DK FSA Wasim Ramzan Alternate OF Yes No No No No No
+EE Finantsinpektsioon Birgit Saask Alternate OF Yes No No No No No
+EE Finantsinpektsioon Enel Kirschner Member OF Yes No No No No No
+EL HCMC Georgios Banavas Observer OF Yes No No No No No
+EL BoG Stefanos Zissis Alternate OF Yes No No No No No
+EL BoG Ioanna Pantou Member OF Yes No No No No No
+ES CNMV David Martín Cuesta Observer OF Yes No No No No No
+ES DGSFP Javier Baena Álvarez de QuevedObserver OF Yes No No No No No
+ES BDE José Miguel del Río Miguel Member OF Yes No No No No No
+ES BDE Silvia Senabre López Alternate OF Yes No No No No No
+EU ENISA Dimitra Liveri Observer OF Yes No No No No No
+EU ESRB Francesco Mazzaferro Observer OF Yes No No No No No
+EU EIOPA Damian Jaworski Observer OF Yes No No No No No
+EU ECB Fiona van Echelpoel Observer OF Yes No No No No No
+EU EBA François-Louis Michaud Member OF Yes No No No No No
+EU EFTA Jónína Sigrún Lárusdóttir Member OF Yes No No No No No
+EU EFTA Marta Margrét Rúnarsdóttir Alternate OF Yes No No No No No
+EU ECB/SSM Maria Julve San Martin Alternate OF Yes No No No No No
+EU EU COM Mattias Levin Observer OF Yes No No No No No
+EU ESMA Natasha Cazenave Observer OF Yes No No No No No
+EU EIOPA Petra Hielkema Member OF Yes No No No No No
+EU ESMA Verena Ross Member OF Yes No No No No No
+FI FSA Jussi Terho Alternate OF Yes No No No No No
+FI FSA Sanna Helin-Ala-Nissilä Observer OF Yes No No No No No
+FI FSA Samu Kurri Member OF Yes No No No No No
+FR ACPR Henri-Olivier Fliche Alternate OF Yes No No No No No
+FR ACPR M. Frédéric HERVO Member OF Yes No No No No No
+FR Banque de France Audrey METZGER Observer OF Yes No No No No No
+FR Banque de France Uriel N'gbatongo Alternate OF Yes No No No No No
+HR HANFA Boris Mršić Alternate OF Yes No No No No No
+HR HNB Damir Blažeković Observer OF Yes No No No No No
+HR HANFA Mladen Gavrančić Member OF Yes No No No No No
+HU MNB Anita Tikos Alternate OF Yes No No No No No
+IE CBI Allan Kearns Alternate OF Yes No No No No No
+IE PAIE John Gethin Observer OF Yes No No No No No
+IE PAIE Mary Broderick Observer OF Yes No No No No No
+IE CBI Patricia Dunne Member OF Yes No No No No No
+IS CBI Tjörvi Einarsson Member OF Yes No No No No No
+IT BDI Andrea Pilati Member OF Yes No No No No No
+IT Consob Isadora Tarola Observer OF Yes No No No No No
+IT BDI Maria Grazia Miele Alternate OF Yes No No No No No
+IT IVASS Michele Ruggiero Alternate OF Yes No No No No No
+IT IVASS Roberto Roberti Observer OF Yes No No No No No
+IT Consob Salvatore Ciccarelli Alternate OF Yes No No No No No
+LI FMA Franz-Anton Steurer Member OF Yes No No No No No
+LI FMA Mathias Bartel Member OF Yes No No No No No
+LT LB Vytenis Grajauskas Alternate OF Yes No No No No No
+LT LB Šarūnas Grigas Member OF Yes No No No No No
+LU CSSF Cecile Gellenoncourt Member OF Yes No No No No No
+LU CSSF Kathrin Moules Alternate OF Yes No No No No No
+LV Latvijas Bank Marine Krasovska Member OF Yes No No No No No
+LV Latvijas Bank Arnis Šinka Alternate OF Yes No No No No No
+MT MFSA Alan Decelis Member OF Yes No No No No No
+NL DNB Peter Timmer Alternate OF Yes No No No No No
+NL AFM Robert Mosch Observer OF Yes No No No No No
+NL AFM Tom Vandeven Observer OF Yes No No No No No
+NO Finanstilsynet Wenche Eline Fagereng Member OF Yes No No No No No
+PL KNF Krzysztof Dąbrowski Member OF Yes No No No No No
+PL KNF Paweł Rzewuski Alternate OF Yes No No No No No
+PT CMVM Carla Mãe Observer OF Yes No No No No No
+PT ASF Hugo Borginho Observer OF Yes No No No No No
+PT BDP Luís Fernando Rosa da Costa FeAlternate OF Yes No No No No No
+PT BDP Rui Miguel Correia Pinto Member OF Yes No No No No No
+RO BNR Silvia Ciorgodă Alternate OF Yes No No No No No
+RO BNR Cătălin Davidescu Member OF Yes No No No No No
+RO ASF Hapau Razvan-Hapau Observer OF Yes No No No No No
+SE FI Erik Johansson Member OF Yes No No No No No
+SI Banka Slovenije Borut Poljšak Member OF Yes No No No No No
+SI Banka Slovenije Tomaž Košak Alternate OF Yes No No No No No
+SK NBS Stacho Mudrák Member OF Yes No No No No No
+SK NBS Viera Mihaľková Alternate OF Yes No No No No No
