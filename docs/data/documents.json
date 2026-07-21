@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-20T09:02:56+00:00",
+  "last_scan": "2026-07-21T08:30:35+00:00",
   "total_tracked": 56,
   "items": [
     {
@@ -12,9 +12,9 @@
       "size": 60889,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:49+00:00",
-      "last_check": "2026-07-20T08:58:45+00:00",
+      "last_check": "2026-07-21T08:29:06+00:00",
       "last_modified": "2026-07-07T16:20:49+00:00",
-      "last_status": "unchanged"
+      "last_status": "http_502"
     },
     {
       "id": "eba-op-resilience",
@@ -26,9 +26,9 @@
       "size": 130519,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:54+00:00",
-      "last_check": "2026-07-20T08:59:06+00:00",
+      "last_check": "2026-07-21T08:29:06+00:00",
       "last_modified": "2026-07-17T11:10:08+00:00",
-      "last_status": "unchanged"
+      "last_status": "http_502"
     },
     {
       "id": "ecb-supervision-priorities",
@@ -40,7 +40,7 @@
       "size": 70554,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:21:07+00:00",
-      "last_check": "2026-07-20T08:59:21+00:00",
+      "last_check": "2026-07-21T08:29:13+00:00",
       "last_modified": "2026-07-10T13:28:21+00:00",
       "last_status": "unchanged"
     },
@@ -54,7 +54,7 @@
       "size": 105469,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:58+00:00",
-      "last_check": "2026-07-20T08:59:10+00:00",
+      "last_check": "2026-07-21T08:29:08+00:00",
       "last_modified": "2026-07-18T07:50:13+00:00",
       "last_status": "unchanged"
     },
@@ -68,9 +68,9 @@
       "size": 77039,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:21:04+00:00",
-      "last_check": "2026-07-20T08:59:19+00:00",
+      "last_check": "2026-07-21T08:29:12+00:00",
       "last_modified": "2026-07-07T16:21:04+00:00",
-      "last_status": "unchanged"
+      "last_status": "http_502"
     },
     {
       "id": "esma-dora",
@@ -79,10 +79,10 @@
       "type": "page",
       "category": "DORA - EU",
       "hash": "33bc38eb11595470aa3c64cc3afd66636169c717b40af71be448988fdeed92e5",
-      "size": 76233,
+      "size": 76236,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:56+00:00",
-      "last_check": "2026-07-20T08:59:08+00:00",
+      "last_check": "2026-07-21T08:29:07+00:00",
       "last_modified": "2026-07-07T16:20:56+00:00",
       "last_status": "unchanged"
     },
@@ -96,7 +96,7 @@
       "size": 132864,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:37+00:00",
-      "last_check": "2026-07-20T08:58:21+00:00",
+      "last_check": "2026-07-21T08:28:55+00:00",
       "last_modified": "2026-07-07T16:20:37+00:00",
       "last_status": "unchanged"
     },
@@ -107,10 +107,10 @@
       "type": "page",
       "category": "DORA - Italia",
       "hash": "0d8c0e63649464707c6016d2c4631a8b3874e71c98b3ce1ed170f7d18059b848",
-      "size": 284894,
+      "size": 284889,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:41+00:00",
-      "last_check": "2026-07-20T08:58:24+00:00",
+      "last_check": "2026-07-21T08:28:58+00:00",
       "last_modified": "2026-07-11T10:37:31+00:00",
       "last_status": "unchanged"
     },
@@ -124,7 +124,7 @@
       "size": 37031,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:43+00:00",
-      "last_check": "2026-07-20T08:58:27+00:00",
+      "last_check": "2026-07-21T08:29:01+00:00",
       "last_modified": "2026-07-07T16:20:43+00:00",
       "last_status": "unchanged"
     },
@@ -138,7 +138,7 @@
       "size": 27281,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:20:46+00:00",
-      "last_check": "2026-07-20T08:58:29+00:00",
+      "last_check": "2026-07-21T08:29:04+00:00",
       "last_modified": "2026-07-07T16:20:46+00:00",
       "last_status": "unchanged"
     },
@@ -152,7 +152,7 @@
       "size": 150202,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:21:13+00:00",
-      "last_check": "2026-07-20T08:59:26+00:00",
+      "last_check": "2026-07-21T08:29:19+00:00",
       "last_modified": "2026-07-15T11:17:55+00:00",
       "last_status": "unchanged"
     },
@@ -166,9 +166,9 @@
       "size": 0,
       "content_type": "text/html",
       "first_seen": "2026-07-07T16:21:00+00:00",
-      "last_check": "2026-07-20T08:59:11+00:00",
+      "last_check": "2026-07-21T08:29:10+00:00",
       "last_modified": "2026-07-20T08:59:11+00:00",
-      "last_status": "changed"
+      "last_status": "unchanged"
     },
     {
       "id": "pdf-b132d9d6fb12",
@@ -180,7 +180,7 @@
       "size": 867441,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:44+00:00",
-      "last_check": "2026-07-20T09:01:48+00:00",
+      "last_check": "2026-07-21T08:30:27+00:00",
       "last_modified": "2026-07-07T16:23:44+00:00",
       "last_status": "unchanged"
     },
@@ -196,7 +196,7 @@
       "first_seen": "2026-07-07T16:24:27+00:00",
       "last_check": "2026-07-20T09:02:30+00:00",
       "last_modified": "2026-07-07T16:24:27+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-e5675a5f7eed",
@@ -210,7 +210,7 @@
       "first_seen": "2026-07-07T16:24:11+00:00",
       "last_check": "2026-07-20T09:02:15+00:00",
       "last_modified": "2026-07-07T16:24:11+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-45a05bd1f326",
@@ -224,7 +224,7 @@
       "first_seen": "2026-07-07T16:24:33+00:00",
       "last_check": "2026-07-20T09:02:36+00:00",
       "last_modified": "2026-07-07T16:24:33+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-ac106d888c67",
@@ -238,7 +238,7 @@
       "first_seen": "2026-07-07T16:24:04+00:00",
       "last_check": "2026-07-20T09:02:08+00:00",
       "last_modified": "2026-07-07T16:24:04+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-28216ad05f43",
@@ -252,7 +252,7 @@
       "first_seen": "2026-07-07T16:21:29+00:00",
       "last_check": "2026-07-20T08:59:41+00:00",
       "last_modified": "2026-07-07T16:21:29+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-49f164dc56a9",
@@ -264,7 +264,7 @@
       "size": 90283,
       "content_type": "application/pdf",
       "first_seen": "2026-07-18T07:53:06+00:00",
-      "last_check": "2026-07-20T09:01:55+00:00",
+      "last_check": "2026-07-21T08:30:34+00:00",
       "last_modified": "2026-07-18T07:53:06+00:00",
       "last_status": "unchanged"
     },
@@ -280,7 +280,7 @@
       "first_seen": "2026-07-07T16:21:19+00:00",
       "last_check": "2026-07-20T08:59:31+00:00",
       "last_modified": "2026-07-07T16:21:19+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-c5000ccbb9d0",
@@ -294,7 +294,7 @@
       "first_seen": "2026-07-07T16:22:13+00:00",
       "last_check": "2026-07-20T09:00:22+00:00",
       "last_modified": "2026-07-07T16:22:13+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-bec453ed003b",
@@ -308,7 +308,7 @@
       "first_seen": "2026-07-07T16:21:48+00:00",
       "last_check": "2026-07-20T08:59:58+00:00",
       "last_modified": "2026-07-07T16:21:48+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-65097fb4bd5b",
@@ -322,7 +322,7 @@
       "first_seen": "2026-07-07T16:22:10+00:00",
       "last_check": "2026-07-20T09:00:19+00:00",
       "last_modified": "2026-07-07T16:22:10+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-dad236fc16ec",
@@ -336,7 +336,7 @@
       "first_seen": "2026-07-07T16:21:45+00:00",
       "last_check": "2026-07-20T08:59:55+00:00",
       "last_modified": "2026-07-07T16:21:45+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-7dac8b53360d",
@@ -350,7 +350,7 @@
       "first_seen": "2026-07-07T16:21:39+00:00",
       "last_check": "2026-07-20T08:59:50+00:00",
       "last_modified": "2026-07-07T16:21:39+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-4775026e1c7d",
@@ -362,7 +362,7 @@
       "size": 186076,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:34+00:00",
-      "last_check": "2026-07-20T09:01:38+00:00",
+      "last_check": "2026-07-21T08:30:16+00:00",
       "last_modified": "2026-07-07T16:23:34+00:00",
       "last_status": "unchanged"
     },
@@ -376,7 +376,7 @@
       "size": 259199,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:22:54+00:00",
-      "last_check": "2026-07-20T09:01:01+00:00",
+      "last_check": "2026-07-21T08:29:37+00:00",
       "last_modified": "2026-07-07T16:22:54+00:00",
       "last_status": "unchanged"
     },
@@ -390,7 +390,7 @@
       "size": 175917,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:49+00:00",
-      "last_check": "2026-07-20T09:01:53+00:00",
+      "last_check": "2026-07-21T08:30:32+00:00",
       "last_modified": "2026-07-07T16:23:49+00:00",
       "last_status": "unchanged"
     },
@@ -406,7 +406,7 @@
       "first_seen": "2026-07-07T16:22:21+00:00",
       "last_check": "2026-07-20T09:00:29+00:00",
       "last_modified": "2026-07-07T16:22:21+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-4d31da9c9a56",
@@ -418,7 +418,7 @@
       "size": 1425243,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:13+00:00",
-      "last_check": "2026-07-20T09:01:18+00:00",
+      "last_check": "2026-07-21T08:29:55+00:00",
       "last_modified": "2026-07-07T16:23:13+00:00",
       "last_status": "unchanged"
     },
@@ -432,7 +432,7 @@
       "size": 395740,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:21:22+00:00",
-      "last_check": "2026-07-20T08:59:35+00:00",
+      "last_check": "2026-07-21T08:29:24+00:00",
       "last_modified": "2026-07-07T16:21:22+00:00",
       "last_status": "unchanged"
     },
@@ -448,7 +448,7 @@
       "first_seen": "2026-07-07T16:22:28+00:00",
       "last_check": "2026-07-20T09:00:36+00:00",
       "last_modified": "2026-07-07T16:22:28+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-95958522130c",
@@ -460,7 +460,7 @@
       "size": 282593,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:47+00:00",
-      "last_check": "2026-07-20T09:01:51+00:00",
+      "last_check": "2026-07-21T08:30:30+00:00",
       "last_modified": "2026-07-07T16:23:47+00:00",
       "last_status": "unchanged"
     },
@@ -476,7 +476,7 @@
       "first_seen": "2026-07-07T16:23:52+00:00",
       "last_check": "2026-07-20T09:01:57+00:00",
       "last_modified": "2026-07-07T16:23:52+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-ae5921a1a431",
@@ -488,7 +488,7 @@
       "size": 264090,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:41+00:00",
-      "last_check": "2026-07-20T09:01:45+00:00",
+      "last_check": "2026-07-21T08:30:23+00:00",
       "last_modified": "2026-07-07T16:23:41+00:00",
       "last_status": "unchanged"
     },
@@ -502,7 +502,7 @@
       "size": 1013847,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:05+00:00",
-      "last_check": "2026-07-20T09:01:11+00:00",
+      "last_check": "2026-07-21T08:29:47+00:00",
       "last_modified": "2026-07-07T16:23:05+00:00",
       "last_status": "unchanged"
     },
@@ -516,7 +516,7 @@
       "size": 599176,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:08+00:00",
-      "last_check": "2026-07-20T09:01:14+00:00",
+      "last_check": "2026-07-21T08:29:50+00:00",
       "last_modified": "2026-07-07T16:23:08+00:00",
       "last_status": "unchanged"
     },
@@ -532,7 +532,7 @@
       "first_seen": "2026-07-07T16:22:03+00:00",
       "last_check": "2026-07-20T09:00:13+00:00",
       "last_modified": "2026-07-07T16:22:03+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-b19d7c56a70a",
@@ -546,7 +546,7 @@
       "first_seen": "2026-07-07T16:24:40+00:00",
       "last_check": "2026-07-20T09:02:42+00:00",
       "last_modified": "2026-07-07T16:24:40+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-79a35a57f0c3",
@@ -560,7 +560,7 @@
       "first_seen": "2026-07-07T16:24:37+00:00",
       "last_check": "2026-07-20T09:02:39+00:00",
       "last_modified": "2026-07-07T16:24:37+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-f7a15f71ed69",
@@ -574,7 +574,7 @@
       "first_seen": "2026-07-07T16:24:43+00:00",
       "last_check": "2026-07-20T09:02:45+00:00",
       "last_modified": "2026-07-07T16:24:43+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-a50203c55a9e",
@@ -588,7 +588,7 @@
       "first_seen": "2026-07-07T16:24:47+00:00",
       "last_check": "2026-07-20T09:02:49+00:00",
       "last_modified": "2026-07-07T16:24:47+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-8dcfb6aa49f8",
@@ -602,7 +602,7 @@
       "first_seen": "2026-07-07T16:22:45+00:00",
       "last_check": "2026-07-20T09:00:52+00:00",
       "last_modified": "2026-07-07T16:22:45+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-4e68c3647849",
@@ -614,7 +614,7 @@
       "size": 366965,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:21:26+00:00",
-      "last_check": "2026-07-20T08:59:38+00:00",
+      "last_check": "2026-07-21T08:29:27+00:00",
       "last_modified": "2026-07-07T16:21:26+00:00",
       "last_status": "unchanged"
     },
@@ -630,7 +630,7 @@
       "first_seen": "2026-07-07T16:22:18+00:00",
       "last_check": "2026-07-20T09:00:27+00:00",
       "last_modified": "2026-07-07T16:22:18+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-73d932980a57",
@@ -644,7 +644,7 @@
       "first_seen": "2026-07-07T16:21:42+00:00",
       "last_check": "2026-07-20T08:59:53+00:00",
       "last_modified": "2026-07-07T16:21:42+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-70ea5f7a18a7",
@@ -656,7 +656,7 @@
       "size": 1663515,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:38+00:00",
-      "last_check": "2026-07-20T09:01:41+00:00",
+      "last_check": "2026-07-21T08:30:20+00:00",
       "last_modified": "2026-07-07T16:23:38+00:00",
       "last_status": "unchanged"
     },
@@ -672,7 +672,7 @@
       "first_seen": "2026-07-07T16:24:53+00:00",
       "last_check": "2026-07-20T09:02:54+00:00",
       "last_modified": "2026-07-07T16:24:53+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-e2723f856967",
@@ -684,7 +684,7 @@
       "size": 2812927,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:32+00:00",
-      "last_check": "2026-07-20T09:01:37+00:00",
+      "last_check": "2026-07-21T08:30:14+00:00",
       "last_modified": "2026-07-07T16:23:32+00:00",
       "last_status": "unchanged"
     },
@@ -700,7 +700,7 @@
       "first_seen": "2026-07-07T16:21:36+00:00",
       "last_check": "2026-07-20T08:59:47+00:00",
       "last_modified": "2026-07-07T16:21:36+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-7c750bae58da",
@@ -714,7 +714,7 @@
       "first_seen": "2026-07-07T16:22:30+00:00",
       "last_check": "2026-07-20T09:00:38+00:00",
       "last_modified": "2026-07-07T16:22:30+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-0d13d9d05884",
@@ -726,7 +726,7 @@
       "size": 1111853,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:23:18+00:00",
-      "last_check": "2026-07-20T09:01:23+00:00",
+      "last_check": "2026-07-21T08:30:00+00:00",
       "last_modified": "2026-07-07T16:23:18+00:00",
       "last_status": "unchanged"
     },
@@ -742,7 +742,7 @@
       "first_seen": "2026-07-07T16:22:33+00:00",
       "last_check": "2026-07-20T09:00:41+00:00",
       "last_modified": "2026-07-07T16:22:33+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     },
     {
       "id": "pdf-bfd1187978d1",
@@ -754,7 +754,7 @@
       "size": 180163,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:22:52+00:00",
-      "last_check": "2026-07-20T09:00:58+00:00",
+      "last_check": "2026-07-21T08:29:34+00:00",
       "last_modified": "2026-07-07T16:22:52+00:00",
       "last_status": "unchanged"
     },
@@ -768,7 +768,7 @@
       "size": 442688,
       "content_type": "application/pdf",
       "first_seen": "2026-07-07T16:22:50+00:00",
-      "last_check": "2026-07-20T09:00:56+00:00",
+      "last_check": "2026-07-21T08:29:32+00:00",
       "last_modified": "2026-07-07T16:22:50+00:00",
       "last_status": "unchanged"
     },
@@ -784,7 +784,7 @@
       "first_seen": "2026-07-07T16:21:32+00:00",
       "last_check": "2026-07-20T08:59:43+00:00",
       "last_modified": "2026-07-07T16:21:32+00:00",
-      "last_status": "unchanged"
+      "last_status": "stale"
     }
   ]
 }
