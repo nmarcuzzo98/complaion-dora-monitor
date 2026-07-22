@@ -71,9 +71,12 @@ Supervision
 Toggle submenu
 Registration with ESMA
 Investigations and Inspections
-Supervisory Convergence Tools
 Sanctions and Enforcement
+Supervisory Convergence
+Toggle submenu
+Supervisory Convergence Tools
 Enforcement Convergence Initiatives
+Peer Reviews
 Breach of Union Law
 Data
 Toggle submenu
@@ -92,7 +95,6 @@ Speeches
 Newsletter
 Interactive Single Rulebook
 Guidelines, Recommendations and Technical Standards
-Peer Reviews
 Risk Monitoring and Analysis
 Questions and Answers
 Investor Corner

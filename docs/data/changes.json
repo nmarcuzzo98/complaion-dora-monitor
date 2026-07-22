@@ -1,7 +1,89 @@
 {
-  "last_updated": "2026-07-21T08:30:35+00:00",
-  "total_events": 71,
+  "last_updated": "2026-07-22T08:33:19+00:00",
+  "total_events": 72,
   "events": [
+    {
+      "timestamp": "2026-07-22T08:29:33+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "33bc38eb11595470aa3c64cc3afd66636169c717b40af71be448988fdeed92e5",
+      "new_hash": "c724083853992e489d12fe9340d31d4971853a35dec292f6fcc5c5685215c3e1",
+      "diff": {
+        "added": 4,
+        "removed": 2,
+        "summary": "+4 aggiunte, -2 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Registration with ESMA"
+          },
+          {
+            "op": " ",
+            "text": "Investigations and Inspections"
+          },
+          {
+            "op": "+",
+            "text": "Sanctions and Enforcement"
+          },
+          {
+            "op": "+",
+            "text": "Supervisory Convergence"
+          },
+          {
+            "op": "+",
+            "text": "Toggle submenu"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory Convergence Tools"
+          },
+          {
+            "op": "-",
+            "text": "Sanctions and Enforcement"
+          },
+          {
+            "op": " ",
+            "text": "Enforcement Convergence Initiatives"
+          },
+          {
+            "op": "+",
+            "text": "Peer Reviews"
+          },
+          {
+            "op": " ",
+            "text": "Breach of Union Law"
+          },
+          {
+            "op": " ",
+            "text": "Data"
+          },
+          {
+            "op": " ",
+            "text": "Interactive Single Rulebook"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines, Recommendations and Technical Standards"
+          },
+          {
+            "op": "-",
+            "text": "Peer Reviews"
+          },
+          {
+            "op": " ",
+            "text": "Risk Monitoring and Analysis"
+          },
+          {
+            "op": " ",
+            "text": "Questions and Answers"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-20T08:59:11+00:00",
       "id": "eur-lex-2022-2554",
