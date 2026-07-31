@@ -96,8 +96,8 @@ Supervisory reporting - DPM and XBRL
 Insurance statistics
 Occupational pensions statistics
 Insurance Risk Dashboard
-Supervisory reporting
 Occupational pensions risk dashboard
+Supervisory reporting
 Registers, lists and databases
 Financial education map
 Data on sanctions imposed on insurance distributors

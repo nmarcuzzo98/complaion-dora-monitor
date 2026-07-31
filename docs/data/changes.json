@@ -1,7 +1,53 @@
 {
-  "last_updated": "2026-07-30T08:30:44+00:00",
-  "total_events": 74,
+  "last_updated": "2026-07-31T08:53:35+00:00",
+  "total_events": 75,
   "events": [
+    {
+      "timestamp": "2026-07-31T08:49:57+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "dff40b428d97b1498257828bdb12084a3b5244bf4c85c938093a57775bdc80c7",
+      "new_hash": "bfc3ebcb6ada7914ac7f6542dadbdf33cec08d0ff1f95f9d2875cc592e992121",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Occupational pensions statistics"
+          },
+          {
+            "op": " ",
+            "text": "Insurance Risk Dashboard"
+          },
+          {
+            "op": "+",
+            "text": "Occupational pensions risk dashboard"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": "-",
+            "text": "Occupational pensions risk dashboard"
+          },
+          {
+            "op": " ",
+            "text": "Registers, lists and databases"
+          },
+          {
+            "op": " ",
+            "text": "Financial education map"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-27T09:52:22+00:00",
       "id": "eur-lex-2022-2554",
