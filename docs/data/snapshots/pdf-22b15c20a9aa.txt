@@ -1,0 +1,261 @@
+31 July 2026
+JC 2026 25
+ESA Statement
+Toward a consistent and risk-based approach
+for ICT risks from frontier AI models
+1. The advanced capabilities of recent frontier AI models significantly accelerate cyber risks, underscoring
+the urgent need for robust cybersecurity measures and rapid incident response capabilities. AI-
+enabled cyber tools could generate systemic risks due to their ability to: i) rapidly discover and exploit
+vulnerabilities; ii) target vulnerabilities in shared infrastructure; and iii) leverage single points of failure
+across entities1. While these models can help deliver substantial defensive improvements, they can
+also provide an advantage to malicious actors, which could leverage these capabilities, while defenders
+need to implement their responses following quality assured protocols.
+2. On 7 July, the European Commission published its Action Plan on Cybersecurity and Artificial
+Intelligence to reinforce the EU’s cybersecurity and resilience2. In this context, the ESRB stressed in its
+issues note and in its warning3 that the misuse of highly capable AI models could have a substantial
+impact in the financial system. If such disruptions persist for several days or affect multiple institutions
+simultaneously, the consequences could extend beyond individual entities to the broader financial
+system and the real economy. Likewise, ENISA published an initial set of recommendations to develop
+the operational capabilities of the various stakeholders to face these risks4.
+3. Therefore, the supervisory dialogue with the financial entities pays particular attention to these risks
+and to the measures financial entities have in place to safeguard operational resilience. In particular,
+the ECB has emphasised to the CEOs of the significant institutions5 the importance of addressing,
+without delay, open supervisory findings and measures related to the ICT areas in focus and security
+risks that have been identified in previous supervisory activities such as on-site inspections, targeted
+reviews and the 2024 cyber-resilience stress test. Given the accelerating threat landscape, existing
+weaknesses that remain unresolved may become increasingly material and pose significant risks to
+operational resilience. Likewise, other competent authorities may set their supervisory expectations
+accordingly.
+1 See also IMF Blogpost (07th May 2026) Financial Stability Risks Mount as Artificial Intelligence Fuels Cyberattacks
+2 EU Action Plan on Cybersecurity and Artificial Intelligence | Shaping Europe’s digital future
+3 Warning of the European Systemic Risk Board of 25 June 2026 on systemic cyber risks stemming from frontier artificial
+intelligence models (ESRB/2026/3)
+4 https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era
+5 Addressing AI-enabled cybersecurity threats
+1
+4. The ESAs have a mandate to promote coordination between competent authorities and to foster
+supervisory convergence. Given the significant ICT risks stemming from frontier AI models, the goal of
+this ESA statement is to provide context to the current situation considering the existing legislation and
+supervisory expectations, through possible mitigating actions that financial entities may implement to
+address these risks. In this regard, the present ESA Statement is consistent with the initiatives and
+communications issued by the European Systemic Risk Board (ESRB), the ENISA and the competent
+authorities, and with the objectives of the European Commission Action Plan.
+5. The current EU regulatory framework, especially the Digital Operational Resilience Act (DORA) and the
+AI Act, provide a solid foundation to tackle risks stemming from the release of highly capable AI models.
+The requirements set out in DORA remain highly relevant, through the implementation of the ICT risk
+management framework, testing, incident and recovery management and ICT third party risk
+management. The AI Act provides a framework for ‘General-purpose AI models with systemic risk’,
+where providers are subject to additional obligations, including transparency, the provision of relevant
+technical documentation and cybersecurity aspects. While the regulatory framework remains
+technology-neutral, the shorter vulnerability discovery and exploitation cycles, led the ESAs to
+encourage financial entities to act fast and proactively, make the necessary arrangements to enhance
+their cybersecurity capabilities and adapt them to the new context. It is expected that financial entities
+implement measures in a proportionate manner, considering their size and overall risk profile, and the
+nature, scale and complexity of their services, activities and operations.
+6. Consequently, to strengthen the risk mitigation, to promote a coordinated supervisory approach and
+ensure a level playing field across the EU, the ESAs encourage financial entities, taking into account the
+expectations of their supervisory authorities, to adjust ICT risk management processes, procedures and
+controls according to the following three risk mitigation strategies: i) prevention; ii) detection; iii)
+management. The Annex provides examples of risk mitigation strategies and potential actions that can
+be summarised as:
+. Prevention relies on comprehensive and continuously updated inventories of all IT assets
+(including infrastructure, applications, data repositories, APIs, and AI/ML components), as
+this enables financial entities to classify assets based on criticality and exposure. Secure-by-
+design principles ensure that systems are architected with built-in safeguards, rather than
+relying solely on reactive controls. Strong monitoring and proactive patching processes are
+essential to maintaining resilience against evolving threats and reduce the window of
+exposure. Assessing the risk from dependencies among IT assets is essential for consistently
+prioritising preventive measures.
+. Detection scales up existing vulnerability discovery processes, in terms of timeliness and
+complexity, to match the existing threats. Despite preventive measures, the perimeter might
+still be breached by AI-assisted threat actors. Therefore, detective measures are essential to
+identify, analyse, and respond to intrusions before they escalate into significant incidents.
+Monitoring processes transition from periodic to continuous, to reduce detection and
+response times, and enhance visibility into unusual or malicious behaviour. Security operation
+2
+centre (SOC) and red teaming capabilities can be enhanced with AI solutions in addition to
+existing technical and staff capabilities.
+. Management of cyber risk to improve operational resilience, through operational resilience
+testing, enhanced disaster recovery, data backup capabilities and increased cyber maturity.
+Risk management frameworks, testing methodologies, and governance structures need to
+adapt to address AI-assisted threats and potential multi-system failures. In parallel,
+management bodies must ensure that accountability keeps pace with emerging risks, while
+cybersecurity awareness must evolve toward a more proactive and adaptive mindset. The
+amendment of existing IT risk management frameworks would potentially trigger needed
+updates on the business and IT architecture, alongside changes to business continuity plans.
+7. In this context, competent authorities should also ensure that financial entities’ management body is
+fully committed to mitigate frontier AI models-driven cyber risks, with clear governance and
+accountability frameworks in place, timely response plans adequately prepared, and sufficient internal
+investments dedicated to strengthening cyber resilience. The Risk Appetite Framework should be
+reviewed to update and/or incorporate metrics, tolerance thresholds, and control measures consistent
+with the evolving risk profile stemming both from the internal use of such models and from indirect
+exposure to them.
+8. In all cases and without delay, the financial entities should establish governance structures that support
+effective management of frontier AI related risk and closely monitor this risk. While ideally financial
+entities try and match the speed and sophistication of AI-assisted threat actors, a one-size-fits-all
+approach when implementing these risk mitigation strategies would not be proportionate and
+efficient. Instead, entities shall take into account their size and overall risk profile, and the nature,
+interconnectedness, scale and complexity of their services, activities and operations when designing
+their risk mitigation strategies (DORA Art.4).
+9. The ESAs will keep working with competent authorities to maintain a proportionate, risk-based and
+forward-looking approach regarding emerging risks from advanced AI models with cyber capabilities.
+Such combined efforts will aim at ensuring that the financial sector is sufficiently resilient, consistently
+with the objectives of the DORA framework.
+10. Furthermore, the ESAs as Lead Overseers initiated targeted engagement with relevant CTPPs to
+understand how they identify and manage the new challenges they face. It covered the identification
+and assessment of the risks, the mitigation measures they have implemented, and their adaptation to
+the opportunities associated with these new capabilities. The insights gained have informed the annual
+risk assessment cycle and the prioritisation of activities under the 2027 Oversight Plan. The ESAs as
+Lead Overseers have also begun embedding AI-related risks into its Oversight Examination
+Methodology and will continue to strengthen this work throughout 2027. In parallel, these threats are
+expected to be reflected in the scope of the oversight examinations and other oversight activities in
+2027 to assess the preparedness and resilience of CTPPs in an increasingly AI-enabled threat
+environment.
+3
+Annex – Examples of risk mitigation strategies and actions
+Financial entities may consider these risk mitigation strategies and actions taking into account their size, complexity, interconnectedness and risk
+exposure. This Annex does not establish additional requirements, nor should be regarded as a comprehensive checklist. Instead, it is to be read as
+illustrative examples to be considered by financial entities, also in their dialogue with ICT third-party service providers.
+Strategy Risk Potential actions to consider
+Prevention
+As referred to in Article 10 of the RTS RMF, measures may
+Implement automated security Traditional static security models may not be able to respond
+range from basic automated vulnerability scanning and
+controls into development, timely to AI-enhanced attacks as they rely on predefined rules,
+patch management to (AI-augmented) “DevSecOps”
+deployment, and operational signatures, and fixed patterns, while AI-driven threats are
+(Development, Security, and Operations) practices, across
+workflows dynamic and adaptive.
+the ICT-System lifecycle.
+AI’s ability to analyse and exploit architectural flaws (such as Implement basic secure design principles, threat
+Implement security and resilience by poorly secured APIs, excessive permissions, or monolithic modelling, for critical systems and network segmentation,
+design principles system designs) further emphasizes the need to embed evolving towards more advanced techniques like zero-
+security and resilience into systems from the outset. trust architectures and AI-driven threat modelling.
+Protect proprietary source code and critical configuration
+Highly capable AI-models can analyse leaked or exposed source confidentiality to reduce the attack surface available for
+code to identify vulnerabilities, backdoors, or proprietary automated discovery, slow down reconnaissance,
+Protect confidentiality of source code
+algorithms, or even attempt to reverse engineer protected improve the effectiveness of deception operations and
+code in search of known vulnerabilities. limit the ability to exploit application weaknesses quickly
+and systematically.
+4
+A larger attack surface provides more entry points for Eliminate unnecessary exposures, enforcing
+cyberattacks, which highly capable AI models may rapidly scan segmentation, and decommissioning legacy systems. This
+and analyse to identify weak spots, misconfigurations, or can be achieved by applying, as a minimum, basic hygiene
+Reduce the attack surface
+unpatched vulnerabilities at scale. The broader and more measures (e.g., inventory management), and evolving
+complex the attack surface, the easier it is for AI-powered into more advanced techniques like AI-driven attack
+adversaries to find and prioritize exploitable targets quickly. surface management.
+Following a risk-based approach investigate proactive and
+automated patch processes for high-risk systems and
+patches, and aim towards extending these processes to
+AI-driven attacks operate at machine speed, enabling all environments, including disaster recovery (DR) and
+Proactive and automated patches for vulnerability detection and exploitation in a very short time backup systems.
+high/risk systems across all span. Traditional patching processes relying on periodic and Consider newly introduced or enhanced risks and ensure
+environments reactive approach may not be sufficient to ensure a timely sufficient mitigating controls, such as clear criteria for
+reaction. which patches and systems to include, sufficient
+(automated) testing, monitoring, the deployment
+schedule, redundancies, or robust fallback plans and
+rollback procedures.
+The risk toolkit includes strict access controls, continuous
+monitoring, and multi-factor authentication (MFA) to limit
+AI-driven attacks can bypass controls based on traditional
+Ensure that access management the impact of breaches; as the maturity of the control
+methods, such as static passwords or perimeter-based security,
+minimises permissions and reduces environment grows, foundational requirements like basic
+mimic legitimate behaviour, and exploit trust relationships
+the likeliness of unauthorised access MFA and least-privilege access may evolve into advanced
+faster than legacy defences can respond.
+techniques like behavioural analytics and just-in-time (JIT)
+access.
+Assess, monitor, and enforce
+Assess, monitor, and enforce cybersecurity standards
+cybersecurity standards across the In a supply chain attack, an attacker may compromise an entity
+across the whole supply chain, with more rigorous
+whole supply chain through an ICT third-party service provider; this can be further
+controls for greater exposure and more complex supply
+5
+exploited by sophisticated AI models, which can identify weak chains. This includes not only services providers and
+links in the supply chain and automate multi-stage attacks. partners but also soft- and hardware providers and open-
+source communities.
+Detection
+Employ continuous scanning and monitoring to detect and
+Periodic vulnerability scanning may no longer be sufficient in remediate weaknesses before they are exploited. Align the
+Apply continuous vulnerability
+the face of AI-driven attacks, which can uncover zero-day frequency and depth of scanning with the financial entity’s
+scanning and monitoring
+vulnerabilities and exploit them immediately. risk profile: from basic automated scans to AI-driven, real-
+time vulnerability management.
+Implement comprehensive logging and behavioural
+Implement comprehensive logging
+AI-assisted attackers can generate unusual activity patterns monitoring strategies to detect anomalies, use deception
+and behavioural monitoring while
+that traditional signature-based detection may miss. techniques, identify lateral movements, and respond to
+avoiding data overload
+intrusions before they cause significant damage.
+AI-driven attacks can operate continuously, adapt in real time,
+and exploit vulnerabilities shortly after emergence; they can Increase the frequency of scans, tests, and compliance
+Increase the frequency of scans, tests, learn from failed attempts and quickly adjust tactics to bypass checks, to keep pace with dynamic threats, moving
+and compliance checks controls, making gaps between scheduled checks highly towards continuous or near-real-time monitoring when
+exploitable. This may make periodic security checks (e.g., possible.
+annual penetration tests or compliance audits) insufficient.
+Risk management and operational resilience
+Update incident reporting and
+Update and regularly test incident reporting and Business
+Incident response and business continuity plans are often
+Business Continuity Processes
+Continuity Processes frameworks for AI-assisted threats
+designed for single-system failures or linear attack progression
+frameworks to account for AI-assisted
+and multi-system failure, ensuring coordinated response
+threats and multi-system failure
+and may not be adequate under AI-assisted highly complex
+and effective recovery. Implement strong data backup
+6
+scenarios, such as the simultaneous exploitation of capabilities and ensure that backups are not exposed to
+vulnerabilities in diverse systems. the same risks as primary systems.
+Operational resilience testing evolves to simulate AI-
+Execute periodic operational enhanced threat scenarios, and financial entities should
+AI-driven attacks can trigger cascading failures across
+resilience testing and evolve the test their ability to withstand AI-assisted cyber-attacks.
+interconnected systems, disrupting operations in ways that
+testing towards AI-enhanced threat Scalable testing frameworks may provide a structured,
+traditional resilience tests may not anticipate.
+scenarios but flexible threat-led approach to allow for a
+proportional approach to resilience testing.
+AI-driven attacks can analyse and exploit dependencies across
+a financial entity’s ICT infrastructure, such as software As threat actors can use AI to map these dependencies,
+Identify and monitor dependencies dependencies (e.g., open-source libraries, third-party APIs), identify single points of failure, and chain exploits for
+across the full ICT infrastructure infrastructure dependencies (e.g., cloud providers, DNS maximum impact, it is important to identify and monitor
+services) or operational dependencies (e.g., outsourced their dependencies, assess their criticality and risk, and
+IT/SOC). implement measures to mitigate AI-driven exploitation.
+AI-driven attacks target not only technical systems but also Evolvement of the management accountability should
+governance weaknesses, decision-making gaps, and risk
+Management body accountability to evolve from periodic oversight to continuous, informed
+oversight failures. Without clear accountability at their highest
+evolve from periodic oversight to engagement, integrating cybersecurity into strategic
+continuous, informed decision making
+level, financial entities may underestimate AI-specific risks, fail
+decisions and that sufficient resources are allocated to
+to allocate sufficient resources, or lack coordinated responses to
+manage these risks.
+complex, automated attack patterns.
+Adoption of more automated monitoring processes, as
+As AI-driven threats evolve rapidly, requiring real-time visibility
+Implement automated risk monitoring well as faster and more adaptive escalation procedures,
+and escalation to ensure timely response and decision-making,
+and escalation procedure so to contain threats before they spread into wider
+the frequency of risk reporting may reveal to be insufficient for
+incidents.
+detecting and mitigating AI-enhanced attacks.
+7
+Advance cybersecurity awareness to tackle new threats;
+AI-driven attacks can generate unusual or highly complex
+move from a purely preventive mindset to a more
+Evolve cybersecurity awareness to a behavioural patterns that current security tools may not be
+reactive one, empowering staff members to detect and
+more reactive and proactive mindset able to identify; social engineering has also evolved the ways to
+report anomalies as a complementary element in the
+target and exploit financial entities’ vulnerabilities.
+cybersecurity toolbox.
+8

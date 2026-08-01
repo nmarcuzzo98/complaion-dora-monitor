@@ -1,7 +1,319 @@
 {
-  "last_updated": "2026-07-31T08:53:35+00:00",
-  "total_events": 75,
+  "last_updated": "2026-08-01T08:25:35+00:00",
+  "total_events": 79,
   "events": [
+    {
+      "timestamp": "2026-08-01T08:24:18+00:00",
+      "id": "pdf-22b15c20a9aa",
+      "name": "ESAs' statement toward a consistent and risk-based approach for ICT risks from frontier AI models (31 July 2026)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2026-07/JC_2026_25_ESA_statement_on_frontier_AI_models.pdf",
+      "type": "pdf",
+      "status": "new",
+      "previous_hash": null,
+      "new_hash": "58b1a3d4063120c8526841802e3a585c514bda25c9f42ba6f140e209cd72ea72",
+      "diff": {
+        "added": 37,
+        "removed": 0,
+        "summary": "Nuovo PDF (anteprima del contenuto)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": "+",
+            "text": "31 July 2026"
+          },
+          {
+            "op": "+",
+            "text": "JC 2026 25"
+          },
+          {
+            "op": "+",
+            "text": "ESA Statement"
+          },
+          {
+            "op": "+",
+            "text": "Toward a consistent and risk-based approach"
+          },
+          {
+            "op": "+",
+            "text": "for ICT risks from frontier AI models"
+          },
+          {
+            "op": "+",
+            "text": "1. The advanced capabilities of recent frontier AI models significantly accelerate cyber risks, underscoring"
+          },
+          {
+            "op": "+",
+            "text": "the urgent need for robust cybersecurity measures and rapid incident response capabilities. AI-"
+          },
+          {
+            "op": "+",
+            "text": "enabled cyber tools could generate systemic risks due to their ability to: i) rapidly discover and exploit"
+          },
+          {
+            "op": "+",
+            "text": "vulnerabilities; ii) target vulnerabilities in shared infrastructure; and iii) leverage single points of failure"
+          },
+          {
+            "op": "+",
+            "text": "across entities1. While these models can help deliver substantial defensive improvements, they can"
+          },
+          {
+            "op": "+",
+            "text": "also provide an advantage to malicious actors, which could leverage these capabilities, while defenders"
+          },
+          {
+            "op": "+",
+            "text": "need to implement their responses following quality assured protocols."
+          },
+          {
+            "op": "+",
+            "text": "2. On 7 July, the European Commission published its Action Plan on Cybersecurity and Artificial"
+          },
+          {
+            "op": "+",
+            "text": "Intelligence to reinforce the EU’s cybersecurity and resilience2. In this context, the ESRB stressed in its"
+          },
+          {
+            "op": "+",
+            "text": "issues note and in its warning3 that the misuse of highly capable AI models could have a substantial"
+          },
+          {
+            "op": "+",
+            "text": "impact in the financial system. If such disruptions persist for several days or affect multiple institutions"
+          },
+          {
+            "op": "+",
+            "text": "simultaneously, the consequences could extend beyond individual entities to the broader financial"
+          },
+          {
+            "op": "+",
+            "text": "system and the real economy. Likewise, ENISA published an initial set of recommendations to develop"
+          },
+          {
+            "op": "+",
+            "text": "the operational capabilities of the various stakeholders to face these risks4."
+          },
+          {
+            "op": "+",
+            "text": "3. Therefore, the supervisory dialogue with the financial entities pays particular attention to these risks"
+          },
+          {
+            "op": "+",
+            "text": "and to the measures financial entities have in place to safeguard operational resilience. In particular,"
+          },
+          {
+            "op": "+",
+            "text": "the ECB has emphasised to the CEOs of the significant institutions5 the importance of addressing,"
+          },
+          {
+            "op": "+",
+            "text": "without delay, open supervisory findings and measures related to the ICT areas in focus and security"
+          },
+          {
+            "op": "+",
+            "text": "risks that have been identified in previous supervisory activities such as on-site inspections, targeted"
+          },
+          {
+            "op": "+",
+            "text": "reviews and the 2024 cyber-resilience stress test. Given the accelerating threat landscape, existing"
+          },
+          {
+            "op": "+",
+            "text": "weaknesses that remain unresolved may become increasingly material and pose significant risks to"
+          },
+          {
+            "op": "+",
+            "text": "operational resilience. Likewise, other competent authorities may set their supervisory expectations"
+          },
+          {
+            "op": "+",
+            "text": "accordingly."
+          },
+          {
+            "op": "+",
+            "text": "1 See also IMF Blogpost (07th May 2026) Financial Stability Risks Mount as Artificial Intelligence Fuels Cyberattacks"
+          },
+          {
+            "op": "+",
+            "text": "2 EU Action Plan on Cybersecurity and Artificial Intelligence | Shaping Europe’s digital future"
+          },
+          {
+            "op": "+",
+            "text": "3 Warning of the European Systemic Risk Board of 25 June 2026 on systemic cyber risks stemming from frontier artificial"
+          },
+          {
+            "op": "+",
+            "text": "intelligence models (ESRB/2026/3)"
+          },
+          {
+            "op": "+",
+            "text": "4 https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era"
+          },
+          {
+            "op": "+",
+            "text": "5 Addressing AI-enabled cybersecurity threats"
+          },
+          {
+            "op": "+",
+            "text": "1"
+          },
+          {
+            "op": "+",
+            "text": "4. The ESAs have a mandate to promote coordination between competent authorities and to foster"
+          },
+          {
+            "op": "+",
+            "text": "supervisory convergence. Given the significant ICT risk"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-01T08:21:15+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "bfc3ebcb6ada7914ac7f6542dadbdf33cec08d0ff1f95f9d2875cc592e992121",
+      "new_hash": "d256fcb05c503ca2f4b48c7584be540313005fb61f2447999be91a3cb8695f80",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Risk-free interest rate term structures"
+          },
+          {
+            "op": " ",
+            "text": "Symmetric adjustment of the equity capital charge"
+          },
+          {
+            "op": "+",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory reporting - DPM and XBRL"
+          },
+          {
+            "op": " ",
+            "text": "Insurance statistics"
+          },
+          {
+            "op": " ",
+            "text": "Insurance Risk Dashboard"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions risk dashboard"
+          },
+          {
+            "op": "-",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Registers, lists and databases"
+          },
+          {
+            "op": " ",
+            "text": "Financial education map"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-01T08:21:13+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "c724083853992e489d12fe9340d31d4971853a35dec292f6fcc5c5685215c3e1",
+      "new_hash": "8fea97882cc3a5007c6adeb1245b8792ddd5cef7c42e447d08bfdbea78e9b2ac",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Joint ESAs Report in response to the European Commission consultation pursuant to Article 58(3) of Regulation (EU) 2022/2554 (DORA) (17 December 2025)"
+          },
+          {
+            "op": " ",
+            "text": "2025 ESAs Report on major ICT-related incidents (3 June 2026)"
+          },
+          {
+            "op": "+",
+            "text": "ESAs' statement toward a consistent and risk-based approach for ICT risks from frontier AI models (31 July 2026)"
+          },
+          {
+            "op": " ",
+            "text": "ESMA is an authority of the European Union"
+          },
+          {
+            "op": " ",
+            "text": "Careers"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-08-01T08:21:11+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "c48d4c8a33bfc6adccdc8ede5ec068bab08807e75ace3b37e09fa63a84ba3898",
+      "new_hash": "189ed057a191054cf7659e5ac065a7113f8f9d57657ce9d983ca511f07ef7d43",
+      "diff": {
+        "added": 4,
+        "removed": 0,
+        "summary": "+4 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Apply"
+          },
+          {
+            "op": "+",
+            "text": "31 July 2026"
+          },
+          {
+            "op": "+",
+            "text": "ESA Statement on frontier AI models"
+          },
+          {
+            "op": "+",
+            "text": "Download document"
+          },
+          {
+            "op": "+",
+            "text": "View press release"
+          },
+          {
+            "op": " ",
+            "text": "14 January 2026"
+          },
+          {
+            "op": " ",
+            "text": "Memorandum of Understanding on DORA oversight of critical ICT third-party service providers in EU and UK"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-07-31T08:49:57+00:00",
       "id": "eiopa-dora",
