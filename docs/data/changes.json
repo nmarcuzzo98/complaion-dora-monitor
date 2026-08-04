@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-08-03T09:49:05+00:00",
-  "total_events": 82,
+  "last_updated": "2026-08-04T08:39:56+00:00",
+  "total_events": 83,
   "events": [
+    {
+      "timestamp": "2026-08-04T08:36:04+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "04479c310f0e62bfc937d0e66ca8199effe531269e5ed81b220cd4f282e47d19",
+      "new_hash": "8fea97882cc3a5007c6adeb1245b8792ddd5cef7c42e447d08bfdbea78e9b2ac",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Sanctions and Enforcement"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory Convergence"
+          },
+          {
+            "op": "+",
+            "text": "Toggle submenu"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory Convergence Tools"
+          },
+          {
+            "op": " ",
+            "text": "Enforcement Convergence Initiatives"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-08-03T09:44:54+00:00",
       "id": "eur-lex-2022-2554",
