@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-08-06T08:40:10+00:00",
-  "total_events": 83,
+  "last_updated": "2026-08-07T07:22:32+00:00",
+  "total_events": 84,
   "events": [
+    {
+      "timestamp": "2026-08-07T07:18:48+00:00",
+      "id": "ecb-supervision-priorities",
+      "name": "ECB Banking Supervision - Priorita' di vigilanza",
+      "url": "https://www.bankingsupervision.europa.eu/framework/priorities/",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "e3f0b2c8ee0244cb4cdff20afe55e5ef354bbe65a759e82c5e633ae07108a449",
+      "new_hash": "34c3d604e8a2a9aa95d74d23591480409b810827e365ce7be5f597f6de8b1a15",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Interviews"
+          },
+          {
+            "op": " ",
+            "text": "Supervision Newsletter"
+          },
+          {
+            "op": "-",
+            "text": "Previous supervision newsletters"
+          },
+          {
+            "op": "+",
+            "text": "Previous Supervision Newsletters"
+          },
+          {
+            "op": " ",
+            "text": "Newsletter articles"
+          },
+          {
+            "op": " ",
+            "text": "The Supervision Blog"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-08-04T08:36:04+00:00",
       "id": "esma-dora",
