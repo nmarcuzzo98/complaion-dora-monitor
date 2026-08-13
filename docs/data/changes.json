@@ -1,7 +1,53 @@
 {
-  "last_updated": "2026-08-12T07:28:56+00:00",
-  "total_events": 86,
+  "last_updated": "2026-08-13T07:31:59+00:00",
+  "total_events": 87,
   "events": [
+    {
+      "timestamp": "2026-08-13T07:27:31+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "d256fcb05c503ca2f4b48c7584be540313005fb61f2447999be91a3cb8695f80",
+      "new_hash": "a50169161570b5c1e21a7c2240eb040bc4a5a7556df9c1682803d6ae4e7a1cf4",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Risk-free interest rate term structures"
+          },
+          {
+            "op": " ",
+            "text": "Symmetric adjustment of the equity capital charge"
+          },
+          {
+            "op": "+",
+            "text": "Supervisory reporting - DPM and XBRL"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": "-",
+            "text": "Supervisory reporting - DPM and XBRL"
+          },
+          {
+            "op": " ",
+            "text": "Insurance statistics"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions statistics"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-08-10T07:41:14+00:00",
       "id": "eur-lex-2022-2554",

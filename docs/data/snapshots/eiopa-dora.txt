@@ -92,8 +92,8 @@ Solvency II Single Rulebook
 IDD Single Rulebook
 Risk-free interest rate term structures
 Symmetric adjustment of the equity capital charge
-Supervisory reporting
 Supervisory reporting - DPM and XBRL
+Supervisory reporting
 Insurance statistics
 Occupational pensions statistics
 Insurance Risk Dashboard
