@@ -93,9 +93,9 @@ IDD Single Rulebook
 Risk-free interest rate term structures
 Symmetric adjustment of the equity capital charge
 Supervisory reporting - DPM and XBRL
-Supervisory reporting
 Insurance statistics
 Occupational pensions statistics
+Supervisory reporting
 Insurance Risk Dashboard
 Occupational pensions risk dashboard
 Registers, lists and databases

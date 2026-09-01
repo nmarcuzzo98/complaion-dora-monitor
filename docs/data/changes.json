@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-31T12:55:46+00:00",
-  "total_events": 95,
+  "last_updated": "2026-09-01T11:15:59+00:00",
+  "total_events": 96,
   "events": [
+    {
+      "timestamp": "2026-09-01T11:12:15+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "a50169161570b5c1e21a7c2240eb040bc4a5a7556df9c1682803d6ae4e7a1cf4",
+      "new_hash": "ba29e6577179ecb0099d8a48426c5e1c5c9cecfb3bf7ffceb3ff9fdec981e85c",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Symmetric adjustment of the equity capital charge"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory reporting - DPM and XBRL"
+          },
+          {
+            "op": "-",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Insurance statistics"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions statistics"
+          },
+          {
+            "op": "+",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Insurance Risk Dashboard"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions risk dashboard"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-08-31T12:52:18+00:00",
       "id": "eur-lex-2022-2554",
