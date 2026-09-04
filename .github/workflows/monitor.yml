@@ -25,7 +25,15 @@ jobs:
       - name: Run DORA scan
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LAST_SCAN_OUTPUT: /tmp/last_scan_changes.json
         run: python scripts/scrape_dora.py
+
+      - name: Notify Slack (variazioni di questo scan)
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NEW_CHANGES_FILE: /tmp/last_scan_changes.json
+        run: python scripts/notify_slack.py
 
       - name: Commit & push changes
         run: |
