@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-Complaion - DORA Monitor (v1.2)
+Complaion - DORA Monitor (v1.3)
 Scraper con SNAPSHOTS + DIFF + AI SUMMARY + PDF TEXT + ESTRAZIONE SCADENZE.
 Adattato dal Complaion ACN Monitor v5.1 per il perimetro DORA (Regolamento UE 2022/2554).
 
-Novita' v1.2:
-- AI description anche per risorse rilevate per la prima volta (status "new"), non solo per le "changed".
+Novita' v1.3:
+- Prompt Gemini riscritti senza triple-quoted string (uso concatenazione di f-string singole)
+  per evitare problemi di copy-paste in editor che interpretano triple-backtick come markdown.
+- Emissione delle variazioni dell'ultimo scan per il notifier Slack.
 """
 import difflib
 import hashlib
@@ -290,19 +292,29 @@ def ai_summarize(resource_name, diff_data, resource_type="page"):
                 diff_text_parts.append(f"{op}{line.get('text', '')}")
         diff_text = "\n".join(diff_text_parts)[:GEMINI_MAX_DIFF_CHARS]
         type_label = "PDF" if resource_type == "pdf" else "pagina web"
-        prompt = f"""Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. Analizza questo diff rilevato su una {type_label} ufficiale (autorita' nazionale come Banca d'Italia/CONSOB/IVASS oppure ESA europea come EBA/ESMA/EIOPA), risorsa: "{resource_name}".
-Statistiche: {diff_data.get('summary', '')}
-Diff (righe con + sono state AGGIUNTE, righe con - sono state RIMOSSE):
-```
-{diff_text}
-```
-Produci un riassunto in italiano molto sintetico (3-5 righe massimo) di cosa e cambiato.
-Concentrati sugli aspetti operativi rilevanti per gli enti finanziari soggetti a DORA: banche, imprese di investimento, assicurazioni, istituti di pagamento, gestori di fondi, ecc.
-Se il diff riguarda RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, registro dei fornitori ICT critici (CTPP), o framework TLPT, evidenzialo.
-NON usare markdown. NON usare emoji.
-Inizia direttamente con il contenuto, senza preamboli tipo "Il documento e stato modificato...".
-Se il diff non sembra contenere informazioni utili (es. solo modifiche minori al layout, refresh tecnici, modifiche di formattazione), rispondi solo: "Modifiche tecniche/grafiche non rilevanti."
-"""
+        # NB: costruito con concatenazione di f-string singole per evitare
+        # problemi di copy-paste con triple-quoted string contenenti delimitatori markdown.
+        prompt = (
+            "Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - "
+            "Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. "
+            f"Analizza questo diff rilevato su una {type_label} ufficiale (autorita' nazionale come "
+            f"Banca d'Italia/CONSOB/IVASS oppure ESA europea come EBA/ESMA/EIOPA), risorsa: \"{resource_name}\".\n\n"
+            f"Statistiche: {diff_data.get('summary', '')}\n\n"
+            "Diff (righe con + sono state AGGIUNTE, righe con - sono state RIMOSSE):\n"
+            "---- INIZIO DIFF ----\n"
+            f"{diff_text}\n"
+            "---- FINE DIFF ----\n\n"
+            "Produci un riassunto in italiano molto sintetico (3-5 righe massimo) di cosa e cambiato. "
+            "Concentrati sugli aspetti operativi rilevanti per gli enti finanziari soggetti a DORA: "
+            "banche, imprese di investimento, assicurazioni, istituti di pagamento, gestori di fondi, ecc. "
+            "Se il diff riguarda RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, "
+            "registro dei fornitori ICT critici (CTPP), o framework TLPT, evidenzialo. "
+            "NON usare markdown. NON usare emoji. "
+            "Inizia direttamente con il contenuto, senza preamboli tipo \"Il documento e stato modificato...\".\n\n"
+            "Se il diff non sembra contenere informazioni utili (es. solo modifiche minori al layout, "
+            "refresh tecnici, modifiche di formattazione), rispondi solo: "
+            "\"Modifiche tecniche/grafiche non rilevanti.\""
+        )
         response = model.generate_content(prompt)
         summary = (response.text or "").strip()
         if not summary or len(summary) < 10:
@@ -321,18 +333,22 @@ def ai_describe_new_resource(resource_name, text, resource_type="page"):
         model = genai.GenerativeModel(GEMINI_MODEL)
         preview = text[:GEMINI_MAX_DIFF_CHARS]
         type_label = "PDF" if resource_type == "pdf" else "pagina web"
-        prompt = f"""Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. Analizza il contenuto di questa {type_label} appena rilevata per la prima volta, risorsa: "{resource_name}".
-
-Contenuto (primi caratteri):
-```
-{preview}
-```
-
-Produci una descrizione in italiano molto sintetica (2-4 righe) di cosa contiene la risorsa, evidenziando gli aspetti rilevanti per gli enti finanziari soggetti a DORA.
-Se si tratta di RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, registro CTPP, framework TLPT, indicalo esplicitamente.
-NON usare markdown. NON usare emoji.
-Inizia con il contenuto, senza preamboli tipo "La risorsa contiene...".
-"""
+        prompt = (
+            "Sei un consulente esperto di compliance DORA (Regolamento UE 2022/2554 - "
+            "Digital Operational Resilience Act) per il settore finanziario italiano ed europeo. "
+            f"Analizza il contenuto di questa {type_label} appena rilevata per la prima volta, "
+            f"risorsa: \"{resource_name}\".\n\n"
+            "Contenuto (primi caratteri):\n"
+            "---- INIZIO CONTENUTO ----\n"
+            f"{preview}\n"
+            "---- FINE CONTENUTO ----\n\n"
+            "Produci una descrizione in italiano molto sintetica (2-4 righe) di cosa contiene la risorsa, "
+            "evidenziando gli aspetti rilevanti per gli enti finanziari soggetti a DORA. "
+            "Se si tratta di RTS/ITS, guidelines, Q&A, template di segnalazione incidenti, "
+            "registro CTPP, framework TLPT, indicalo esplicitamente. "
+            "NON usare markdown. NON usare emoji. "
+            "Inizia con il contenuto, senza preamboli tipo \"La risorsa contiene...\"."
+        )
         response = model.generate_content(prompt)
         summary = (response.text or "").strip()
         if not summary or len(summary) < 10:
@@ -620,7 +636,7 @@ def scan():
     }
     return documents_state, new_changes, all_deadlines_from_scan
 def main():
-    print(f"=== Complaion - DORA Monitor v1.2 - scan {utc_now_iso()} ===")
+    print(f"=== Complaion - DORA Monitor v1.3 - scan {utc_now_iso()} ===")
     print(f"  pdfplumber: {'OK' if PDFPLUMBER_AVAILABLE else 'NO'}")
     print(f"  google-generativeai: {'OK' if GENAI_AVAILABLE else 'NO'}")
     print(f"  GEMINI_API_KEY: {'SET' if GEMINI_API_KEY else 'NOT SET'}")
@@ -654,6 +670,20 @@ def main():
     print(f"Eventi totali nel log: {len(events)}")
     print(f"Scadenze totali attive (post-merge, future): {len(merged)}")
     print(f"  di cui da scan: {len(deadlines_from_scan)}, da seed: {len(SEED_DEADLINES)}")
+
+    # Emissione delle variazioni di QUESTO scan per il notifier Slack.
+    # File separato da changes.json (che accumula lo storico 180gg).
+    # Path configurabile via env LAST_SCAN_OUTPUT; default /tmp/ per non finire nel commit.
+    last_scan_output = Path(os.environ.get(
+        "LAST_SCAN_OUTPUT",
+        "/tmp/last_scan_changes.json"
+    ))
+    try:
+        save_json(last_scan_output, {"events": new_changes})
+        print(f"Variazioni di questo scan scritte in: {last_scan_output}")
+    except Exception as e:
+        print(f"[warn] Impossibile scrivere last_scan_changes: {e}", file=sys.stderr)
+
     return 0
 if __name__ == "__main__":
     sys.exit(main())
