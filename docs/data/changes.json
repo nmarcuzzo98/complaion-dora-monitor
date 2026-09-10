@@ -1,7 +1,65 @@
 {
-  "last_updated": "2026-09-09T10:54:58+00:00",
-  "total_events": 98,
+  "last_updated": "2026-09-10T10:48:55+00:00",
+  "total_events": 99,
   "events": [
+    {
+      "timestamp": "2026-09-10T10:45:13+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "ba29e6577179ecb0099d8a48426c5e1c5c9cecfb3bf7ffceb3ff9fdec981e85c",
+      "new_hash": "d64a2946f876efe079b4c027a4e8d3ddc7f92a165b096ef9da87f289071518af",
+      "diff": {
+        "added": 2,
+        "removed": 0,
+        "summary": "+2 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Letters"
+          },
+          {
+            "op": " ",
+            "text": "Opinions"
+          },
+          {
+            "op": "+",
+            "text": "Peer review reports"
+          },
+          {
+            "op": " ",
+            "text": "Protocols, decisions and memoranda"
+          },
+          {
+            "op": " ",
+            "text": "Reports and research"
+          },
+          {
+            "op": " ",
+            "text": "Documents disclosed through public access to documents"
+          },
+          {
+            "op": " ",
+            "text": "Occasional research papers"
+          },
+          {
+            "op": "+",
+            "text": "Warnings"
+          },
+          {
+            "op": " ",
+            "text": "See all"
+          },
+          {
+            "op": " ",
+            "text": "Media"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-07T11:43:53+00:00",
       "id": "eur-lex-2022-2554",
