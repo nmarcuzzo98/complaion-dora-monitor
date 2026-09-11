@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-09-10T10:48:55+00:00",
-  "total_events": 99,
+  "last_updated": "2026-09-11T10:46:31+00:00",
+  "total_events": 100,
   "events": [
+    {
+      "timestamp": "2026-09-11T10:43:02+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "189ed057a191054cf7659e5ac065a7113f8f9d57657ce9d983ca511f07ef7d43",
+      "new_hash": "9b7111d5215f04b019432208acf29d0efa5c9e4fcea6a08e8f4fc7717d5472f4",
+      "diff": {
+        "added": 10,
+        "removed": 10,
+        "summary": "+10 aggiunte, -10 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Filter"
+          },
+          {
+            "op": "-",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities"
+          },
+          {
+            "op": "-",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents"
+          },
+          {
+            "op": "-",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP)"
+          },
+          {
+            "op": "-",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines for institutions and resolution authorities on improving resolvability"
+          },
+          {
+            "op": "-",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines on internal governance for investment firms"
+          },
+          {
+            "op": " ",
+            "text": "Under consultation"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines on outsourcing arrangements"
+          },
+          {
+            "op": " ",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines on ICT and security risk management"
+          },
+          {
+            "op": "+",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Joint Guidelines on the oversight cooperation and information exchange between the ESAs and the competent authorities"
+          },
+          {
+            "op": "+",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Joint Guidelines on estimation of aggregated annual costs and losses caused by major ICT-related incidents"
+          },
+          {
+            "op": "+",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP)"
+          },
+          {
+            "op": "+",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines for institutions and resolution authorities on improving resolvability"
+          },
+          {
+            "op": "+",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines on internal governance for investment firms"
+          },
+          {
+            "op": " ",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines on ICT Risk Assessment under the SREP"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-10T10:45:13+00:00",
       "id": "eiopa-dora",
