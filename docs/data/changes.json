@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-09-13T11:15:40+00:00",
-  "total_events": 102,
+  "last_updated": "2026-09-14T12:02:19+00:00",
+  "total_events": 104,
   "events": [
+    {
+      "timestamp": "2026-09-14T11:58:06+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "75286f382393a97c9992fee88ac230e981ed9c022bdc2378425ade83d8ea8109",
+      "new_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "timestamp": "2026-09-14T11:58:04+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "96fffafc18f432bedc474efd62db237165aa6b252d4a39c60efc97bee89fd2a7",
+      "new_hash": "a70e9749350215a5586c1ac86343183f45906a37d716520ecb9ade6baac0ad1b",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Peer review reports"
+          },
+          {
+            "op": " ",
+            "text": "Protocols, decisions and memoranda"
+          },
+          {
+            "op": "+",
+            "text": "Recommendations"
+          },
+          {
+            "op": " ",
+            "text": "Reports and research"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory statements"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-12T10:11:56+00:00",
       "id": "eur-lex-2022-2554",

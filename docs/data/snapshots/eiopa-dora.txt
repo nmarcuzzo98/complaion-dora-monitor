@@ -114,6 +114,7 @@ Letters
 Opinions
 Peer review reports
 Protocols, decisions and memoranda
+Recommendations
 Reports and research
 Supervisory statements
 Technical standards
