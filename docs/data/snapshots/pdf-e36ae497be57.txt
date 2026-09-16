@@ -1,0 +1,173 @@
+16 September 2026
+DORA Incident Reporting – Operational Instructions
+PURPOSE:
+This document provides operational instructions intended to support competent authorities in their supervisory engagement with financial entities
+regarding the reporting of information on the major ICT-related incidents under Regulation (EU) 2022/2554 (DORA), to enhance data quality and
+promote greater consistency across jurisdictions.
+The instructions are provided on ‘best efforts’ basis by the ESAs staff and therefore they do not represent any legal interpretation, nor do they represent
+official stance of the ESAs. These instructions have been agreed with the relevant competent authorities. They will be updated regularly, based on the
+experience of the ESAs and of the competent authorities with the DORA major ICT-related incident reporting.
+DEFINITIONS:
+▪ DORA – Regulation (EU) 2022/2554 on digital operational resilience for the financial sector
+▪ ITS 2025/302 (Commission Implementing Regulation (EU) 2025/302) – laying down implementing technical standards for the application of
+DORA with regard to the standard forms, and procedures for financial entities to report a major ICT-related incident and to notify a significant
+cyber threat (the template fields in the following tables are the ones defined in this ITS)
+▪ RTS 2025/301 (Commission Delegated Regulation (EU) 2025/301) – supplementing DORA with regard to regulatory technical standards. These
+standards define specifying the content and timelines limits for the initial notification of major ICT-related incidents, as well as the requirements
+and for intermediate and final reports on, major ICT-related such incidents. The RTS also covers, and the content of the voluntary notification
+for significant cyber threats
+▪ RTS 2024/1772 (Commission Delegated Regulation (EU) 2024/1772) – supplementing DORA regarding regulatory technical standards
+specifying the criteria for the classification of ICT-related incidents and cyber threats, setting out materiality thresholds and specifying the details
+of reports of major incidents
+▪ DORA ICT-related incidents reporting process: financial entities falling within the scope of DORA must, following the detection of an ICT-
+related incident classified as major, report information on the incident to their competent authority using the reporting channels, templates and
+format established at the national level. Upon receipt of such reports, competent authorities notify the ESAs by submitting the relevant
+information using ESAs pre-defined templates in English.
+1
+ID Last Description Template Observations Guidance
+update field(s)
+1 16/09/2026 Language of General ESAs receiving The entities in charge of reporting their incident notifications may consider that the competent
+the DORA incident reports authorities are expected to use the pre-defined templates in English for the purpose of
+incident using a template notifying the ESAs (i.e. headers/elements and values provided in close ended questions are
+reporting with based on the terminology set out in the English language version of the ITS 2025/302). Free
+templates and headers/elemen text fields may still be provided in the applicable national language.
+the information ts and values
+reported translated into
+therein by local languages
+competent
+authorities
+2 16/09/2026 Monetary General Inconsistent For the fields that are identifying with as “Monetary” as field type, ITS 2025/302 requires that
+fields reporting of “The data point shall be reported in units using a minimum precision equivalent to thousands
+monetary fields of units”.
+To ensure common reporting practices, all fields designated as monetary in nature—namely
+Field 3.11, Field 4.13 and Field 4.14—are reported in thousands of units, further precision
+can be added after the comma for instance:
+- EUR 2 500 should be reported as 3 (or 2,5)
+- EUR 2 500 382 should be reported as 2 500 (or 2500,382).
+In addition, all monetary amounts reported in these fields shall be expressed in the same
+currency as that specified in Field 1.15.
+3 16/09/2026 Provision of General Inclusion of ‘Not Free-text (alphanumeric) fields, whether mandatory or conditionally mandatory should contain
+information in applicable’, only information relevant to the purpose of the field. Where a field is not mandatory and not
+the free-text ‘nothing’, etc in applicable, it is recommended to leave it blank.
+(alphanumeric) the free-text Where the ITS 2025/302 specifies or suggests the type of input to be provided in a free-text
+fields fields. field, reporting entities are encouraged, where feasible, to follow the indicated wording and
+structure (e.g. as in Field 3.27) to promote consistency.
+4 16/09/2026 Reporting of General Missing final RTS 2025/301 requires that the final report must be submitted “no later than one month after
+incident’s final reports on either the submission of the intermediate report, or, where applicable, after the latest updated
+report notified intermediate report”.
+incidents Accordingly, after the submission of the initial notification and the first intermediate report, it is
+expected to receive at least one intermediate report per month updating the incident until the
+final report is produced and submitted.
+5 16/09/2026 Reporting of General Wrong To ensure that the latest version contains always the most up-to-date and accurate
+correction correction report information, when corrections are needed, it is expected that:
+reports - the correction is reported as a new version of the latest report submitted (i.e. if the
+last version was an intermediate report, submit a corrected version of the
+intermediate report).
+2
+ID Last Description Template Observations Guidance
+update field(s)
+- the file that includes the correction should, in addition to the corrected information,
+contain all the information from the latest update on the major incident.
+6 16/09/2026 Unique 1.3a, Fields 1.3a/1.3b - It is important that values reported in Fields 1.3a/1.3b and Field 2.1 remain
+identification of 1.3b, 2.1 or 2.1 reported UNCHANGED from the submission of the initial notification through to the final report.
+an incident inconsistently These fields are used to uniquely identify incidents and amending any of these fields
+throughout the during the reporting life-cycle, might trigger wrong double counting of an incident.
+life-cycle of an
+incident
+7 16/09/2026 Inclusion of 2.5 Different Following Article (8)(1) of the RTS 2024/1772 an incident would be considered major where it
+‘critical service practices in has affected critical services, as referred to in Article 6, and where at least one of the
+affected’ including or not additional conditions set out in that provision is met.
+criterium in ‘critical service Accordingly, the criterion relating to affected critical services must always be fulfilled, in
+reporting of affected’ as a addition to at least one other applicable criterion.
+classification criterium for Nevertheless, to ensure consistency in reporting, it is expected that all reports identify “critical
+criteria. triggering the services affected” explicitly among the criteria reported in field 2.5.
+major incident
+reporting.
+8 16/09/2026 Exclusion of 2.6 The home As specified in the RTS 2024/1772 (Article 4), the "geographical spread" refers to the
+Home Country country of the assessment of the major incident’s impact across other Member States. Accordingly, it is
+as affected expected that the country of the affected financial entity is not included in this field.
+geographical financial entity
+spread has been
+included in the
+list of
+“geographical
+spread”
+countries.
+3
+ID Last Description Template Observations Guidance
+update field(s)
+9 16/09/2026 Standardised 2.8 Difficulty in Field 2.8 indicates whether the incident originates from a third-party provider (TPP) or from
+reporting of reporting and another financial entity. The following information is required: the name of the relevant TPP or
+information on processing and other financial entity, its identification code, and the type of identification code provided (e.g.
+TPP or other analysing Field LEI or EUID) in an open-text alphanumeric field.
+financial entity 2.8
+origin To ensure consistency, it is recommended that, when it applies, Field 2.8 is reported in a
+standardised format where all elements included are separated by a semicolon (“;”) and
+reported in the specific order.
+Sub-field Sub-field type
+1. Full legal name of the TPP/other financial entity Alphanumeric
+2. Identification code of the TPP/other financial entity, to Alphanumeric
+be reported as either LEI or EUID
+3. Identification of the type of code provided under (3) Choice: LEI or EUID
+4. Any additional information considered relevant Alphanumeric
+.
+Examples:
+- for a major incident that originates from a TPP or another financial entity:
+PROVIDER REGISTERED LEGAL NAME;[LEI CODE];LEI; ”public
+statement issued by provider on xxx.”
+- for a major incident that does not originate from a TPP or another financial entity: leave
+blank.
+10 16/09/2026 Condition for 3.17 Field 3.17 is Field 3.17 indicates whether the values reported in Field 3.15 (Duration) and Field 3.16
+reporting Field defined in the (Service downtime) are actual or estimates. Since reporting of Field 3.15 is mandatory for
+3.17 ITS 2025/302 as both intermediate and final reports, it is expected that Field 3.17 is also completed for both
+“Information Mandatory for intermediate and final reports and not only when the “duration and service downtime” is
+on whether the intermediate reported as a criterion in Field 2.5. This ensures correct interpretation of the reported
+numbers for and final reports duration.
+duration and “if ‘Duration and
+service service
+downtime are downtime’
+actual or criterion met”
+estimates”.
+11 16/09/2026 Typo 3.25 Different The ITS 2025/302 provides two contrary wordings for one of the predefined options in Field
+concerning wordings in the 3.25:
+“Threats and description vs - Description:“(f) data exfiltration and manipulation, excluding identity theft;”
+techniques the field type list - Field Type list:“– Data exfiltration and manipulation, including identity theft”
+4
+ID Last Description Template Observations Guidance
+update field(s)
+used by the for one of the It is expected that the wording provided in the Description, i.e. “data exfiltration and
+threat actor” predefined manipulation, excluding identity theft” is taken as reference when reporting Field 3.25. (n.b.
+options in Field there is a separate option for reporting “identity theft” technique).
+3.25
+12 16/09/2026 Information for 4.10 For some It is expected that Field 4.10 is completed only when it has been determined that “the incident
+resolution reports, Field poses a risk to critical functions of financial entities as defined in Article 2(1), point 35, of
+authorities 4.10 and Field Directive 2014/59/EU” (as defined in the ITS 2025/302). If the assessment concludes that the
+4.11 are filled major incident did not pose such a risk, or if the information is not applicable to the affected
+when they do financial entity, it is expected that this field is left empty, in line with the recommendation
+not apply (e.g. provided under Topic #3.
+“none”, “not
+applicable”, etc)
+13 16/09/2026 Information for 4.11 Field 4.10 and It is expected that Field 4.11 is completed only when it has been determined that “the incident
+resolution Field 4.11 are has affected the resolvability of the entity or the group”. If the assessment concludes that the
+authorities filled when they major incident has not affected resolvability, or if the information is not applicable to the
+do not apply affected financial entity, it is expected that this field is left empty, in line with the
+(e.g. “none”, recommendation provided under Topic #3.
+“not applicable”,
+etc)
+14 16/09/2026 Condition for 4.12; 2.5 The ITS ITS 2025/302 requires financial entities to report in Field 4.12 “Detailed information about
+mandatory 2025/302 thresholds eventually reached by the major ICT-related incident in relation to the criterion
+reporting of specifies that ‘Economic impact’ referred to in Articles 7 and 14 of the Delegated Regulation (EU)
+Field 4.12 Field 4.12 is 2024/1772”. Therefore, it is expected that information in Field 4.121 is always reported in the
+“Materiality mandatory in final reports of incidents where "Economic impact" has been identified as a classification
+threshold for final reports, criterion in Field 2.5. At the same time, when information is available, entities can also report
+the while the data the “Economic impact” in Field 4.12, including for incidents which have been classified as
+classification field name is major due to other criteria (reported in Field 2.5).
+criterion “Materiality
+‘Economic threshold for the
+impact’” classification
+criterion
+‘Economical
+Impact’”
+1 When reporting the information on thresholds eventually reached by the major ICT-related incident in relation to the criterion ‘Economic impact’ (Field 4.12),
+financial entities can also consider the specific Q&A on staff costs calculation: 2025_7439 Staff costs (EBA).
+5

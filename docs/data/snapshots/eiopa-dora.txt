@@ -201,6 +201,7 @@ Commission’s rejection letter of the ITS on register of information
 ESAs' response to the Commission's rejection of ITS on registers of information
 ESAs' response to the Commission's rejection of RTS on subcontracting
 Roadmap for CTPPs designation
+DORA Incident Reporting - Operational Instructions
 Oversight
 DORA establishes an EU-wide oversight framework for critical ICT third-party providers (CTPPs) to ensure that the financial sector remains secure and resilient against ICT disruptions.
 The oversight framework helps to address potential systemic and concentration risks arising from the financial sector's reliance on a limited number of ICT providers.

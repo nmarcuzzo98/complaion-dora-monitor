@@ -1,7 +1,937 @@
 {
-  "last_updated": "2026-09-15T11:18:00+00:00",
-  "total_events": 104,
+  "last_updated": "2026-09-16T11:00:07+00:00",
+  "total_events": 109,
   "events": [
+    {
+      "timestamp": "2026-09-16T10:59:12+00:00",
+      "id": "pdf-e36ae497be57",
+      "name": "DORA Incident Reporting - Operational Instructions",
+      "url": "https://www.eiopa.europa.eu/document/download/c008472b-9d24-4629-81e9-aedffc62a2c9_en?filename=DORA%20Incident%20Reporting%20-%20Operational%20Instructions.pdf",
+      "type": "pdf",
+      "status": "new",
+      "previous_hash": null,
+      "new_hash": "8096503847651253c545e317566b84ff88fc7db4f85454411ee6a06bd96c94a9",
+      "diff": {
+        "added": 31,
+        "removed": 0,
+        "summary": "Nuovo PDF (anteprima del contenuto)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": "+",
+            "text": "16 September 2026"
+          },
+          {
+            "op": "+",
+            "text": "DORA Incident Reporting – Operational Instructions"
+          },
+          {
+            "op": "+",
+            "text": "PURPOSE:"
+          },
+          {
+            "op": "+",
+            "text": "This document provides operational instructions intended to support competent authorities in their supervisory engagement with financial entities"
+          },
+          {
+            "op": "+",
+            "text": "regarding the reporting of information on the major ICT-related incidents under Regulation (EU) 2022/2554 (DORA), to enhance data quality and"
+          },
+          {
+            "op": "+",
+            "text": "promote greater consistency across jurisdictions."
+          },
+          {
+            "op": "+",
+            "text": "The instructions are provided on ‘best efforts’ basis by the ESAs staff and therefore they do not represent any legal interpretation, nor do they represent"
+          },
+          {
+            "op": "+",
+            "text": "official stance of the ESAs. These instructions have been agreed with the relevant competent authorities. They will be updated regularly, based on the"
+          },
+          {
+            "op": "+",
+            "text": "experience of the ESAs and of the competent authorities with the DORA major ICT-related incident reporting."
+          },
+          {
+            "op": "+",
+            "text": "DEFINITIONS:"
+          },
+          {
+            "op": "+",
+            "text": "▪ DORA – Regulation (EU) 2022/2554 on digital operational resilience for the financial sector"
+          },
+          {
+            "op": "+",
+            "text": "▪ ITS 2025/302 (Commission Implementing Regulation (EU) 2025/302) – laying down implementing technical standards for the application of"
+          },
+          {
+            "op": "+",
+            "text": "DORA with regard to the standard forms, and procedures for financial entities to report a major ICT-related incident and to notify a significant"
+          },
+          {
+            "op": "+",
+            "text": "cyber threat (the template fields in the following tables are the ones defined in this ITS)"
+          },
+          {
+            "op": "+",
+            "text": "▪ RTS 2025/301 (Commission Delegated Regulation (EU) 2025/301) – supplementing DORA with regard to regulatory technical standards. These"
+          },
+          {
+            "op": "+",
+            "text": "standards define specifying the content and timelines limits for the initial notification of major ICT-related incidents, as well as the requirements"
+          },
+          {
+            "op": "+",
+            "text": "and for intermediate and final reports on, major ICT-related such incidents. The RTS also covers, and the content of the voluntary notification"
+          },
+          {
+            "op": "+",
+            "text": "for significant cyber threats"
+          },
+          {
+            "op": "+",
+            "text": "▪ RTS 2024/1772 (Commission Delegated Regulation (EU) 2024/1772) – supplementing DORA regarding regulatory technical standards"
+          },
+          {
+            "op": "+",
+            "text": "specifying the criteria for the classification of ICT-related incidents and cyber threats, setting out materiality thresholds and specifying the details"
+          },
+          {
+            "op": "+",
+            "text": "of reports of major incidents"
+          },
+          {
+            "op": "+",
+            "text": "▪ DORA ICT-related incidents reporting process: financial entities falling within the scope of DORA must, following the detection of an ICT-"
+          },
+          {
+            "op": "+",
+            "text": "related incident classified as major, report information on the incident to their competent authority using the reporting channels, templates and"
+          },
+          {
+            "op": "+",
+            "text": "format established at the national level. Upon receipt of such reports, competent authorities notify the ESAs by submitting the relevant"
+          },
+          {
+            "op": "+",
+            "text": "information using ESAs pre-defined templates in English."
+          },
+          {
+            "op": "+",
+            "text": "1"
+          },
+          {
+            "op": "+",
+            "text": "ID Last Description Template Observations Guidance"
+          },
+          {
+            "op": "+",
+            "text": "update field(s)"
+          },
+          {
+            "op": "+",
+            "text": "1 16/09/2026 Language of General ESAs receiving The entities in charge of reporting their incident notifications may consider that the competent"
+          },
+          {
+            "op": "+",
+            "text": "the DORA incident reports authorities are expected to use the pre-defined templates in English for the purpose of"
+          },
+          {
+            "op": "+",
+            "text": "incident using a template notifying the ESAs (i.e. headers/elements and values provided in close ended questi"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-16T10:58:17+00:00",
+      "id": "pdf-bc3b74058801",
+      "name": "Operational instructions on DORA incident reporting",
+      "url": "https://www.esma.europa.eu/sites/default/files/2026-09/DORA_Incident_reporting_-_Operational_instructions.pdf",
+      "type": "pdf",
+      "status": "new",
+      "previous_hash": null,
+      "new_hash": "8096503847651253c545e317566b84ff88fc7db4f85454411ee6a06bd96c94a9",
+      "diff": {
+        "added": 31,
+        "removed": 0,
+        "summary": "Nuovo PDF (anteprima del contenuto)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": "+",
+            "text": "16 September 2026"
+          },
+          {
+            "op": "+",
+            "text": "DORA Incident Reporting – Operational Instructions"
+          },
+          {
+            "op": "+",
+            "text": "PURPOSE:"
+          },
+          {
+            "op": "+",
+            "text": "This document provides operational instructions intended to support competent authorities in their supervisory engagement with financial entities"
+          },
+          {
+            "op": "+",
+            "text": "regarding the reporting of information on the major ICT-related incidents under Regulation (EU) 2022/2554 (DORA), to enhance data quality and"
+          },
+          {
+            "op": "+",
+            "text": "promote greater consistency across jurisdictions."
+          },
+          {
+            "op": "+",
+            "text": "The instructions are provided on ‘best efforts’ basis by the ESAs staff and therefore they do not represent any legal interpretation, nor do they represent"
+          },
+          {
+            "op": "+",
+            "text": "official stance of the ESAs. These instructions have been agreed with the relevant competent authorities. They will be updated regularly, based on the"
+          },
+          {
+            "op": "+",
+            "text": "experience of the ESAs and of the competent authorities with the DORA major ICT-related incident reporting."
+          },
+          {
+            "op": "+",
+            "text": "DEFINITIONS:"
+          },
+          {
+            "op": "+",
+            "text": "▪ DORA – Regulation (EU) 2022/2554 on digital operational resilience for the financial sector"
+          },
+          {
+            "op": "+",
+            "text": "▪ ITS 2025/302 (Commission Implementing Regulation (EU) 2025/302) – laying down implementing technical standards for the application of"
+          },
+          {
+            "op": "+",
+            "text": "DORA with regard to the standard forms, and procedures for financial entities to report a major ICT-related incident and to notify a significant"
+          },
+          {
+            "op": "+",
+            "text": "cyber threat (the template fields in the following tables are the ones defined in this ITS)"
+          },
+          {
+            "op": "+",
+            "text": "▪ RTS 2025/301 (Commission Delegated Regulation (EU) 2025/301) – supplementing DORA with regard to regulatory technical standards. These"
+          },
+          {
+            "op": "+",
+            "text": "standards define specifying the content and timelines limits for the initial notification of major ICT-related incidents, as well as the requirements"
+          },
+          {
+            "op": "+",
+            "text": "and for intermediate and final reports on, major ICT-related such incidents. The RTS also covers, and the content of the voluntary notification"
+          },
+          {
+            "op": "+",
+            "text": "for significant cyber threats"
+          },
+          {
+            "op": "+",
+            "text": "▪ RTS 2024/1772 (Commission Delegated Regulation (EU) 2024/1772) – supplementing DORA regarding regulatory technical standards"
+          },
+          {
+            "op": "+",
+            "text": "specifying the criteria for the classification of ICT-related incidents and cyber threats, setting out materiality thresholds and specifying the details"
+          },
+          {
+            "op": "+",
+            "text": "of reports of major incidents"
+          },
+          {
+            "op": "+",
+            "text": "▪ DORA ICT-related incidents reporting process: financial entities falling within the scope of DORA must, following the detection of an ICT-"
+          },
+          {
+            "op": "+",
+            "text": "related incident classified as major, report information on the incident to their competent authority using the reporting channels, templates and"
+          },
+          {
+            "op": "+",
+            "text": "format established at the national level. Upon receipt of such reports, competent authorities notify the ESAs by submitting the relevant"
+          },
+          {
+            "op": "+",
+            "text": "information using ESAs pre-defined templates in English."
+          },
+          {
+            "op": "+",
+            "text": "1"
+          },
+          {
+            "op": "+",
+            "text": "ID Last Description Template Observations Guidance"
+          },
+          {
+            "op": "+",
+            "text": "update field(s)"
+          },
+          {
+            "op": "+",
+            "text": "1 16/09/2026 Language of General ESAs receiving The entities in charge of reporting their incident notifications may consider that the competent"
+          },
+          {
+            "op": "+",
+            "text": "the DORA incident reports authorities are expected to use the pre-defined templates in English for the purpose of"
+          },
+          {
+            "op": "+",
+            "text": "incident using a template notifying the ESAs (i.e. headers/elements and values provided in close ended questi"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-16T10:58:15+00:00",
+      "id": "pdf-5b87f33b8bc8",
+      "name": "GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (Art 11.12)",
+      "url": "https://www.esma.europa.eu/sites/default/files/2024-07/JC_2024-34_-_Final_report_GL_on_costs_and_losses.pdf",
+      "type": "pdf",
+      "status": "new",
+      "previous_hash": null,
+      "new_hash": "f119f78905427078a3ec2ce20abb212c4d3d5656c9ef85f63706b81f3b68370a",
+      "diff": {
+        "added": 54,
+        "removed": 0,
+        "summary": "Nuovo PDF (anteprima del contenuto)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": "+",
+            "text": "JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS"
+          },
+          {
+            "op": "+",
+            "text": "JC 2024 34"
+          },
+          {
+            "op": "+",
+            "text": "17 July 2024"
+          },
+          {
+            "op": "+",
+            "text": "Final Report"
+          },
+          {
+            "op": "+",
+            "text": "Joint Guidelines"
+          },
+          {
+            "op": "+",
+            "text": "on the estimation of aggregated annual costs and losses caused by"
+          },
+          {
+            "op": "+",
+            "text": "major ICT-related incidents under Regulation (EU) 2022/2554"
+          },
+          {
+            "op": "+",
+            "text": "1"
+          },
+          {
+            "op": "+",
+            "text": "JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS"
+          },
+          {
+            "op": "+",
+            "text": "Contents"
+          },
+          {
+            "op": "+",
+            "text": "1. Executive Summary 3"
+          },
+          {
+            "op": "+",
+            "text": "Next steps 4"
+          },
+          {
+            "op": "+",
+            "text": "2. Background and rationale 5"
+          },
+          {
+            "op": "+",
+            "text": "Background 5"
+          },
+          {
+            "op": "+",
+            "text": "Rationale 5"
+          },
+          {
+            "op": "+",
+            "text": "3. Joint Guidelines on the estimation of aggregated annual costs and losses caused by major"
+          },
+          {
+            "op": "+",
+            "text": "ICT-related incidents 8"
+          },
+          {
+            "op": "+",
+            "text": "Status of these Joint Guidelines 8"
+          },
+          {
+            "op": "+",
+            "text": "Reporting Requirements 8"
+          },
+          {
+            "op": "+",
+            "text": "Title I - Subject matter, scope, addressees, and definitions 9"
+          },
+          {
+            "op": "+",
+            "text": "Subject matter and Scope of application 9"
+          },
+          {
+            "op": "+",
+            "text": "Addressees 9"
+          },
+          {
+            "op": "+",
+            "text": "Definitions 9"
+          },
+          {
+            "op": "+",
+            "text": "Title II- Implementation 9"
+          },
+          {
+            "op": "+",
+            "text": "Date of application 9"
+          },
+          {
+            "op": "+",
+            "text": "Title III- Provisions on the estimation of aggregated annual costs and losses of major ICT-related"
+          },
+          {
+            "op": "+",
+            "text": "incidents 10"
+          },
+          {
+            "op": "+",
+            "text": "Annex: Reporting template for gross costs and losses and financial recoveries in a reference year"
+          },
+          {
+            "op": "+",
+            "text": "12"
+          },
+          {
+            "op": "+",
+            "text": "4. Accompanying documents 13"
+          },
+          {
+            "op": "+",
+            "text": "4.1 Cost- Benefit Analysis / Impact Assessment 13"
+          },
+          {
+            "op": "+",
+            "text": "4.2 Feedback on the public consultation 16"
+          },
+          {
+            "op": "+",
+            "text": "Summary of the responses to the consultation and the ESAs’ analysis 17"
+          },
+          {
+            "op": "+",
+            "text": "2"
+          },
+          {
+            "op": "+",
+            "text": "JOINT COMMITTEE GUIDELINES ON AGGREGATED ANNUAL COSTS AND LOSSES OF MAJOR ICT-RELATED INCIDENTS"
+          },
+          {
+            "op": "+",
+            "text": "1. Executive Summary"
+          },
+          {
+            "op": "+",
+            "text": "Article 11(11) of Regulation 2022/2554 on digital operational resilience for the financial sector"
+          },
+          {
+            "op": "+",
+            "text": "(DORA) mandates the European Supervisory Authorities (ESAs), to develop ‘common guidelines on"
+          },
+          {
+            "op": "+",
+            "text": "the estimation of aggregated annual costs and losses caused by major ICT-related incidents’. These"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines aim at harmonising the estimation by financial entities of their aggregated annual costs"
+          },
+          {
+            "op": "+",
+            "text": "and losses caused by major information and communication technology (ICT)-related incidents"
+          },
+          {
+            "op": "+",
+            "text": "according to Article 11(10) DORA."
+          },
+          {
+            "op": "+",
+            "text": "In view of the ESAs, this mandate is closely interlinked with the DORA mandates conferred to the"
+          },
+          {
+            "op": "+",
+            "text": "ESAs under Article 18(3) on incident classification and under Article 20 on reporting of incidents as"
+          },
+          {
+            "op": "+",
+            "text": "these also require an assessment of costs and losses of ICT-related incidents. Consequently, the"
+          },
+          {
+            "op": "+",
+            "text": "ESAs seek to achieve consistency across these mandates to avoid contradictions, increase"
+          },
+          {
+            "op": "+",
+            "text": "comparability of the reported figures under the different mandates and, in case the competent"
+          },
+          {
+            "op": "+",
+            "text": "authorities request such information from the financial entities, reduce the reporting burden for"
+          },
+          {
+            "op": "+",
+            "text": "financial entities. All the criteria in the RTS on classification, including, but not limited to, the one"
+          },
+          {
+            "op": "+",
+            "text": "on ‘economic impact’, are designed to ensure proportionality, meaning that small financial entities"
+          },
+          {
+            "op": "+",
+            "text": "are likely to classify ICT-related incidents as “major” less frequently than bigger financial entities."
+          },
+          {
+            "op": "+",
+            "text": "Proportionality is thereby embedded in all other mandates that build on the classification of ICT-"
+          },
+          {
+            "op": "+",
+            "text": "related incidents as major, including these Guidelines."
+          },
+          {
+            "op": "+",
+            "text": "In fulfilment of the mandate, the Guidelines therefore set out that financial entitie"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-16T10:56:35+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "a70e9749350215a5586c1ac86343183f45906a37d716520ecb9ade6baac0ad1b",
+      "new_hash": "1a0dd43532207421cf0c14a6b547a00fff3ffdd7251aeb22568be618f0836b08",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "ESAs' response to the Commission's rejection of RTS on subcontracting"
+          },
+          {
+            "op": " ",
+            "text": "Roadmap for CTPPs designation"
+          },
+          {
+            "op": "+",
+            "text": "DORA Incident Reporting - Operational Instructions"
+          },
+          {
+            "op": " ",
+            "text": "Oversight"
+          },
+          {
+            "op": " ",
+            "text": "DORA establishes an EU-wide oversight framework for critical ICT third-party providers (CTPPs) to ensure that the financial sector remains secure and resilient against ICT disruptions."
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-09-16T10:56:33+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "8fea97882cc3a5007c6adeb1245b8792ddd5cef7c42e447d08bfdbea78e9b2ac",
+      "new_hash": "d1b914109a24bce9779f09d7284bbe30c5ad6ed06e1f19c4c8eabd96f9eb0516",
+      "diff": {
+        "added": 35,
+        "removed": 43,
+        "summary": "+35 aggiunte, -43 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Digital Operational Resilience Act (DORA)"
+          },
+          {
+            "op": " ",
+            "text": "Digital Operational Resilience Act (DORA)"
+          },
+          {
+            "op": "-",
+            "text": "The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to 21 different types of financial entities, of which 12 are in the remit of ESMA."
+          },
+          {
+            "op": "+",
+            "text": "The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to 20 different types of financial entities, of which 12 are in the remit of ESMA."
+          },
+          {
+            "op": " ",
+            "text": "Why is DORA needed?"
+          },
+          {
+            "op": " ",
+            "text": "The financial sector is increasingly dependent on information and communication technology (ICT) tools and systems to deliver its financial services, for which they increasingly rely on ICT service providers. This may expose financial entities to potential ICT (third-party) risk because the delivery of their financial services relies on entities who are not directly supervised nor subject to the same regulatory frameworks (i.e. when the ICT service providers are not financial entities themselves)."
+          },
+          {
+            "op": " ",
+            "text": "Oversight framework for ICT third-party providers that are designated as critical by the ESAs for the financial sector."
+          },
+          {
+            "op": " ",
+            "text": "white_background"
+          },
+          {
+            "op": "-",
+            "text": "Links to DORA Policy requirements"
+          },
+          {
+            "op": "-",
+            "text": "DORA Level 1:"
+          },
+          {
+            "op": "-",
+            "text": "Directive (EU) 2022/2556 as regards digital operational resilience for the financial sector:"
+          },
+          {
+            "op": "-",
+            "text": "Publication on Official Journal"
+          },
+          {
+            "op": "-",
+            "text": "Regulation (EU) 2022/2554 on digital operational resilience for the financial sector:"
+          },
+          {
+            "op": "-",
+            "text": "Published on Official Journal"
+          },
+          {
+            "op": "-",
+            "text": "DORA Level 2-3 by topic:"
+          },
+          {
+            "op": "-",
+            "text": "Risk management"
+          },
+          {
+            "op": "-",
+            "text": "Publication in Official Journal / ESAs websites"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2024/1774 with regard to regulatory technical standards specifying ICT risk management tools, methods, processes, and policies and the simplified ICT risk management framework (DORA Art. 15 and 16)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1774"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2024/1773 with regard to regulatory technical standards specifying the detailed content of the policy regarding contractual arrangements on the use of ICT services supporting critical or important functions provided by ICT third-party service providers (DORA Art. 28.10)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1773"
+          },
+          {
+            "op": "-",
+            "text": "Commission Implementing Regulation (EU) 2024/2956 with regard to standard templates for the register of information (DORA Art. 28.9)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402956"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2025/1190 with regard to regulatory technical standards specifying the criteria used for identifying financial entities required to perform threat-led penetration testing, the requirements and standards governing the use of internal testers, the requirements in relation to the scope, testing methodology and approach for each phase of the testing, results, closure and remediation stages and the type of supervisory and other relevant cooperation needed for the implementation of TLPT and for the facilitation of mutual recognition (DORA Art. 26.11)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501190"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2025/532 of 24 March 2025 supplementing Regulation (EU) 2022/2554 of the European Parliament and of the Council with regard to regulatory technical standards specifying the elements that a financial entity has to determine and assess when subcontracting ICT services supporting critical or important functions (DORA Art. 30.5)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500532"
+          },
+          {
+            "op": "+",
+            "text": "Links to DORA policy requirements"
+          },
+          {
+            "op": "+",
+            "text": "DORA requirements are set out across Level 1 legislation, Level 2 technical standards and delegated regulations and Level 3 supervisory guidance. The table below provides an overview of the relevant policy requirements by topic, as well as relevant supervisory material."
+          },
+          {
+            "op": "+",
+            "text": "primary_grey_background"
+          },
+          {
+            "op": "+",
+            "text": "Level 1"
+          },
+          {
+            "op": "+",
+            "text": "Core legislation"
+          },
+          {
+            "op": "+",
+            "text": "Directive (EU) 2022/2556 as regards digital operational resilience for the financial sector"
+          },
+          {
+            "op": "+",
+            "text": "Regulation (EU) 2022/2554 on digital operational resilience for the financial sector"
+          },
+          {
+            "op": "+",
+            "text": "Level 2"
+          },
+          {
+            "op": "+",
+            "text": "Regulatory Technical Standards (RTS)"
+          },
+          {
+            "op": "+",
+            "text": "Implementing Technical Standards (ITS)"
+          },
+          {
+            "op": "+",
+            "text": "Commission delegated regulation (CDR)"
+          },
+          {
+            "op": "+",
+            "text": "Level 3 & additional material"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines, Q&As, and supervisory-relevant material"
+          },
+          {
+            "op": "+",
+            "text": "Risk Management"
+          },
+          {
+            "op": "+",
+            "text": "Arts. 5-16; 26-30"
+          },
+          {
+            "op": "+",
+            "text": "RTS on ICT risk management and the simplified ICT risk management framework (DORA Art. 15 and 16)"
+          },
+          {
+            "op": "+",
+            "text": "RTS on contractual arrangements on the use of ICT services supporting critical or important functions provided by ICT third-party service providers (DORA Art. 28.10)"
+          },
+          {
+            "op": "+",
+            "text": "ITS on standard templates for the register of information (DORA Art. 28.9)"
+          },
+          {
+            "op": "+",
+            "text": "RTS on the implementation of TLPT (DORA Art. 26.11)"
+          },
+          {
+            "op": "+",
+            "text": "RTS on subcontracting ICT services supporting critical or important functions (DORA Art. 30.5)"
+          },
+          {
+            "op": "+",
+            "text": "Preparations for reporting of DORA registers of information"
+          },
+          {
+            "op": " ",
+            "text": "Incident reporting"
+          },
+          {
+            "op": "-",
+            "text": "Publication in Official Journal / ESAs websites"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2024/1772 with regard to regulatory technical standards specifying the criteria for the classification of ICT-related incidents and cyber threats, setting out materiality thresholds and specifying the details of reports of major incidents (DORA Art. 18.3)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1772"
+          },
+          {
+            "op": "+",
+            "text": "Arts. 17-23"
+          },
+          {
+            "op": "+",
+            "text": "RTS on the criteria for the classification of ICT-related incidents (DORA Art. 18.3)"
+          },
+          {
+            "op": "+",
+            "text": "RTS on incident notification and reports (DORA Art. 20(a))"
+          },
+          {
+            "op": " ",
+            "text": "GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (Art 11.12)"
+          },
+          {
+            "op": "-",
+            "text": "https://www.esma.europa.eu/sites/default/files/2024-07/JC_2024-34_-_Final_report_GL_on_costs_and_losses.pdf"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2025/301 with regard to regulatory technical standards specifying the content and time limits for the initial notification of, and intermediate and final report on, major ICT-related incidents, and the content of the voluntary notification for significant cyber threats (DORA Art. 20(a))"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500301"
+          },
+          {
+            "op": "-",
+            "text": "Commission Implementing Regulation (EU) 2025/302 laying down implementing technical standards with regard to the standard forms, templates, and procedures for financial entities to report a major ICT-related incident and to notify a significant cyber threat (DORA Art. 20(b))"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500302"
+          },
+          {
+            "op": "-",
+            "text": "Oversight framework"
+          },
+          {
+            "op": "-",
+            "text": "Publication in Official Journal / ESAs websites"
+          },
+          {
+            "op": "+",
+            "text": "Operational instructions on DORA incident reporting"
+          },
+          {
+            "op": "+",
+            "text": "Oversight Framework"
+          },
+          {
+            "op": "+",
+            "text": "Arts. 31-44"
+          },
+          {
+            "op": "+",
+            "text": "Regulation CDR on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)"
+          },
+          {
+            "op": "+",
+            "text": "Regulation CDR on the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers (DORA Art. 43.2)"
+          },
+          {
+            "op": "+",
+            "text": "RTS on harmonisation of conditions enabling the conduct of the oversight activities (DORA Art. 41(a)(b)(d))"
+          },
+          {
+            "op": "+",
+            "text": "RTS on the composition and tasks of the joint examination team (DORA Art. 41(1)(c))"
+          },
+          {
+            "op": " ",
+            "text": "GL on cooperation between ESAs and CAs regarding the structure of the oversight (Art. 32.7)"
+          },
+          {
+            "op": "-",
+            "text": "https://www.esma.europa.eu/sites/default/files/2024-11/JC-GL-2024-36_Guidelines_on_DORA_oversight_cooperation.pdf"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2024/1502 on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401502"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2024/1505 on the amount of the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers and the way in which those fees are to be paid (DORA Art. 43.2)"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401505"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2025/295 of 24 October 2024 supplementing Regulation (EU) 2022/2554 of the European Parliament and of the Council with regard to regulatory technical standards on harmonisation of conditions enabling the conduct of the oversight activities (DORA Art. 41(a)(b)(d))"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500295"
+          },
+          {
+            "op": "-",
+            "text": "Commission Delegated Regulation (EU) 2025/420 of 16 December 2024 with regard to regulatory technical standards to specify the criteria for determining the composition of the joint examination team ensuring a balanced participation of staff members from the ESAs and from the relevant competent authorities, their designation, tasks and working arrangements (DORA Art. 41(1)(c))"
+          },
+          {
+            "op": "-",
+            "text": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500420"
+          },
+          {
+            "op": "-",
+            "text": "white_background"
+          },
+          {
+            "op": "-",
+            "text": "primary_grey_background"
+          },
+          {
+            "op": "-",
+            "text": "primary_grey_background"
+          },
+          {
+            "op": "-",
+            "text": "DORA implementation timeline 🡫"
+          },
+          {
+            "op": "+",
+            "text": "Other relevant links:"
+          },
+          {
+            "op": "+",
+            "text": "Interactive Single Rulebook"
+          },
+          {
+            "op": "+",
+            "text": "Q&As"
+          },
+          {
+            "op": " ",
+            "text": "white_background"
+          },
+          {
+            "op": " ",
+            "text": "In order to provide greater clarity on the supervisory expectations towards the application of DORA and on the timeline for the first designation of the Critical Third-Party ICT service Providers (CTPPs) in 2025, the ESAs published in December 2024"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-14T11:58:06+00:00",
       "id": "eur-lex-2022-2554",
