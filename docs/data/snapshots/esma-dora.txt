@@ -127,7 +127,7 @@ ESMA's Activities
 Digital Finance and Innovation
 Digital Operational Resilience Act (DORA)
 Digital Operational Resilience Act (DORA)
-The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to 20 different types of financial entities, of which 12 are in the remit of ESMA.
+The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to more than 20 different types of financial entities, of which 12 are in the remit of ESMA.
 Why is DORA needed?
 The financial sector is increasingly dependent on information and communication technology (ICT) tools and systems to deliver its financial services, for which they increasingly rely on ICT service providers. This may expose financial entities to potential ICT (third-party) risk because the delivery of their financial services relies on entities who are not directly supervised nor subject to the same regulatory frameworks (i.e. when the ICT service providers are not financial entities themselves).
 When not managed properly, ICT risks can lead to disruptions of financial service delivery. This can have an impact on other financial entities, sectors and even on the rest of the economy, which underlines the importance of the digital operational resilience of the financial sector.
@@ -154,7 +154,6 @@ Links to DORA policy requirements
 DORA requirements are set out across Level 1 legislation, Level 2 technical standards and delegated regulations and Level 3 supervisory guidance. The table below provides an overview of the relevant policy requirements by topic, as well as relevant supervisory material.
 primary_grey_background
 Level 1
-Core legislation
 Directive (EU) 2022/2556 as regards digital operational resilience for the financial sector
 Regulation (EU) 2022/2554 on digital operational resilience for the financial sector
 Level 2
@@ -162,7 +161,7 @@ Regulatory Technical Standards (RTS)
 Implementing Technical Standards (ITS)
 Commission delegated regulation (CDR)
 Level 3 & additional material
-Guidelines, Q&As, and supervisory-relevant material
+Guidelines and relevant material
 Risk Management
 Arts. 5-16; 26-30
 RTS on ICT risk management and the simplified ICT risk management framework (DORA Art. 15 and 16)
@@ -175,34 +174,20 @@ Incident reporting
 Arts. 17-23
 RTS on the criteria for the classification of ICT-related incidents (DORA Art. 18.3)
 RTS on incident notification and reports (DORA Art. 20(a))
-GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (Art 11.12)
-Operational instructions on DORA incident reporting
+ITS on standard forms, templates, and procedures for financial entities to report a major ICT-related incident and to notify a significant cyber threat (DORA Art. 20(b))
+GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (DORA Art 11.12)
+Operational Instructions on DORA incident reporting
 Oversight Framework
 Arts. 31-44
-Regulation CDR on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)
-Regulation CDR on the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers (DORA Art. 43.2)
+CDR on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)
+CDR on the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers (DORA Art. 43.2)
 RTS on harmonisation of conditions enabling the conduct of the oversight activities (DORA Art. 41(a)(b)(d))
 RTS on the composition and tasks of the joint examination team (DORA Art. 41(1)(c))
-GL on cooperation between ESAs and CAs regarding the structure of the oversight (Art. 32.7)
+GL on cooperation between ESAs and CAs regarding the structure of the oversight (DORA Art. 32.7)
 Other relevant links:
 Interactive Single Rulebook
 Q&As
 white_background
-In order to provide greater clarity on the supervisory expectations towards the application of DORA and on the timeline for the first designation of the Critical Third-Party ICT service Providers (CTPPs) in 2025, the ESAs published in December 2024
-a public statement
-.
-The European Commission has
-communicated
-on the further steps towards the implementation of DORA.
-grey_3_background
-On 30 April 2025, the
-ESAs expect to collect the DORA registers of information from the competent authorities
-. Financial entities can find all the relevant material to prepare for the reporting of their DORA registers on the EBA's website: see the
-main page on the register reporting
-and
-relevant reporting framework
-.
-primary_grey_background
 DORA Oversight
 ESMA Links
 Joint ESAs Technical Advice on two EC delegated acts under the DORA specifying further criteria for critical ICT third-party service providers

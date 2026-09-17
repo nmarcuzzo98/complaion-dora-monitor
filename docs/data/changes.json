@@ -1,7 +1,245 @@
 {
-  "last_updated": "2026-09-16T11:00:07+00:00",
-  "total_events": 109,
+  "last_updated": "2026-09-17T11:09:33+00:00",
+  "total_events": 110,
   "events": [
+    {
+      "timestamp": "2026-09-17T11:05:25+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "d1b914109a24bce9779f09d7284bbe30c5ad6ed06e1f19c4c8eabd96f9eb0516",
+      "new_hash": "df16cb787762587ec1c462749c9dd6c85c9bc9f199cf34c21c83762ad60e25c7",
+      "diff": {
+        "added": 8,
+        "removed": 23,
+        "summary": "+8 aggiunte, -23 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Digital Operational Resilience Act (DORA)"
+          },
+          {
+            "op": " ",
+            "text": "Digital Operational Resilience Act (DORA)"
+          },
+          {
+            "op": "-",
+            "text": "The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to 20 different types of financial entities, of which 12 are in the remit of ESMA."
+          },
+          {
+            "op": "+",
+            "text": "The Digital Operational Resilience Act (DORA) is an EU regulation that entered into force on 16 January 2023 and will apply as of 17 January 2025. It aims at strengthening the information and communication technology (ICT) security of financial entities in the remit of the 3 ESAs and making sure that the financial sector in Europe is able to stay resilient in the event of a severe operational digital disruption. DORA brings harmonisation of the rules relating to digital operational resilience for the financial sector applying to more than 20 different types of financial entities, of which 12 are in the remit of ESMA."
+          },
+          {
+            "op": " ",
+            "text": "Why is DORA needed?"
+          },
+          {
+            "op": " ",
+            "text": "The financial sector is increasingly dependent on information and communication technology (ICT) tools and systems to deliver its financial services, for which they increasingly rely on ICT service providers. This may expose financial entities to potential ICT (third-party) risk because the delivery of their financial services relies on entities who are not directly supervised nor subject to the same regulatory frameworks (i.e. when the ICT service providers are not financial entities themselves)."
+          },
+          {
+            "op": " ",
+            "text": "primary_grey_background"
+          },
+          {
+            "op": " ",
+            "text": "Level 1"
+          },
+          {
+            "op": "-",
+            "text": "Core legislation"
+          },
+          {
+            "op": " ",
+            "text": "Directive (EU) 2022/2556 as regards digital operational resilience for the financial sector"
+          },
+          {
+            "op": " ",
+            "text": "Regulation (EU) 2022/2554 on digital operational resilience for the financial sector"
+          },
+          {
+            "op": " ",
+            "text": "Commission delegated regulation (CDR)"
+          },
+          {
+            "op": " ",
+            "text": "Level 3 & additional material"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines, Q&As, and supervisory-relevant material"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines and relevant material"
+          },
+          {
+            "op": " ",
+            "text": "Risk Management"
+          },
+          {
+            "op": " ",
+            "text": "Arts. 5-16; 26-30"
+          },
+          {
+            "op": " ",
+            "text": "RTS on the criteria for the classification of ICT-related incidents (DORA Art. 18.3)"
+          },
+          {
+            "op": " ",
+            "text": "RTS on incident notification and reports (DORA Art. 20(a))"
+          },
+          {
+            "op": "-",
+            "text": "GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (Art 11.12)"
+          },
+          {
+            "op": "-",
+            "text": "Operational instructions on DORA incident reporting"
+          },
+          {
+            "op": "+",
+            "text": "ITS on standard forms, templates, and procedures for financial entities to report a major ICT-related incident and to notify a significant cyber threat (DORA Art. 20(b))"
+          },
+          {
+            "op": "+",
+            "text": "GL on the estimation of aggregated annual costs/losses caused by major ICT incidents (DORA Art 11.12)"
+          },
+          {
+            "op": "+",
+            "text": "Operational Instructions on DORA incident reporting"
+          },
+          {
+            "op": " ",
+            "text": "Oversight Framework"
+          },
+          {
+            "op": " ",
+            "text": "Arts. 31-44"
+          },
+          {
+            "op": "-",
+            "text": "Regulation CDR on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)"
+          },
+          {
+            "op": "-",
+            "text": "Regulation CDR on the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers (DORA Art. 43.2)"
+          },
+          {
+            "op": "+",
+            "text": "CDR on the criteria for the designation of ICT third-party service providers as critical for financial entities (DORA Art. 31.8)"
+          },
+          {
+            "op": "+",
+            "text": "CDR on the oversight fees to be charged by the Lead Overseer to critical ICT third-party service providers (DORA Art. 43.2)"
+          },
+          {
+            "op": " ",
+            "text": "RTS on harmonisation of conditions enabling the conduct of the oversight activities (DORA Art. 41(a)(b)(d))"
+          },
+          {
+            "op": " ",
+            "text": "RTS on the composition and tasks of the joint examination team (DORA Art. 41(1)(c))"
+          },
+          {
+            "op": "-",
+            "text": "GL on cooperation between ESAs and CAs regarding the structure of the oversight (Art. 32.7)"
+          },
+          {
+            "op": "+",
+            "text": "GL on cooperation between ESAs and CAs regarding the structure of the oversight (DORA Art. 32.7)"
+          },
+          {
+            "op": " ",
+            "text": "Other relevant links:"
+          },
+          {
+            "op": " ",
+            "text": "Interactive Single Rulebook"
+          },
+          {
+            "op": " ",
+            "text": "Q&As"
+          },
+          {
+            "op": " ",
+            "text": "white_background"
+          },
+          {
+            "op": "-",
+            "text": "In order to provide greater clarity on the supervisory expectations towards the application of DORA and on the timeline for the first designation of the Critical Third-Party ICT service Providers (CTPPs) in 2025, the ESAs published in December 2024"
+          },
+          {
+            "op": "-",
+            "text": "a public statement"
+          },
+          {
+            "op": "-",
+            "text": "."
+          },
+          {
+            "op": "-",
+            "text": "The European Commission has"
+          },
+          {
+            "op": "-",
+            "text": "communicated"
+          },
+          {
+            "op": "-",
+            "text": "on the further steps towards the implementation of DORA."
+          },
+          {
+            "op": "-",
+            "text": "grey_3_background"
+          },
+          {
+            "op": "-",
+            "text": "On 30 April 2025, the"
+          },
+          {
+            "op": "-",
+            "text": "ESAs expect to collect the DORA registers of information from the competent authorities"
+          },
+          {
+            "op": "-",
+            "text": ". Financial entities can find all the relevant material to prepare for the reporting of their DORA registers on the EBA's website: see the"
+          },
+          {
+            "op": "-",
+            "text": "main page on the register reporting"
+          },
+          {
+            "op": "-",
+            "text": "and"
+          },
+          {
+            "op": "-",
+            "text": "relevant reporting framework"
+          },
+          {
+            "op": "-",
+            "text": "."
+          },
+          {
+            "op": "-",
+            "text": "primary_grey_background"
+          },
+          {
+            "op": " ",
+            "text": "DORA Oversight"
+          },
+          {
+            "op": " ",
+            "text": "ESMA Links"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-16T10:59:12+00:00",
       "id": "pdf-e36ae497be57",

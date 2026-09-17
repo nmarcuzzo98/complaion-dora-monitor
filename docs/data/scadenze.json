@@ -1,27 +1,7 @@
 {
-  "last_updated": "2026-09-16T11:00:07+00:00",
-  "total_deadlines": 5,
+  "last_updated": "2026-09-17T11:09:33+00:00",
+  "total_deadlines": 3,
   "deadlines": [
-    {
-      "date": "2026-09-16",
-      "date_text": "16/09/2026",
-      "context": "formation ts and values reported translated into therein by local languages competent authorities 2 16/09/2026 Monetary General Inconsistent For the fields that",
-      "source_id": "pdf-bc3b74058801",
-      "source_name": "Operational instructions on DORA incident reporting",
-      "source_url": "https://www.esma.europa.eu/sites/default/files/2026-09/DORA_Incident_reporting_-_Operational_instructions.pdf",
-      "first_seen": "2026-09-16T11:00:07+00:00",
-      "last_seen": "2026-09-16T11:00:07+00:00"
-    },
-    {
-      "date": "2026-09-16",
-      "date_text": "16/09/2026",
-      "context": "formation ts and values reported translated into therein by local languages competent authorities 2 16/09/2026 Monetary General Inconsistent For the fields that",
-      "source_id": "pdf-e36ae497be57",
-      "source_name": "DORA Incident Reporting - Operational Instructions",
-      "source_url": "https://www.eiopa.europa.eu/document/download/c008472b-9d24-4629-81e9-aedffc62a2c9_en?filename=DORA%20Incident%20Reporting%20-%20Operational%20Instructions.pdf",
-      "first_seen": "2026-09-16T11:00:07+00:00",
-      "last_seen": "2026-09-16T11:00:07+00:00"
-    },
     {
       "date": "2027-04-30",
       "date_text": "30 aprile 2027",
@@ -30,7 +10,7 @@
       "source_name": "Scadenza DORA - Registro CTPP annuale 2027",
       "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
       "first_seen": "2026-07-07T14:31:30+00:00",
-      "last_seen": "2026-09-16T11:00:07+00:00"
+      "last_seen": "2026-09-17T11:09:33+00:00"
     },
     {
       "date": "2028-01-17",
@@ -40,7 +20,7 @@
       "source_name": "Scadenza DORA - Primo ciclo TLPT triennale",
       "source_url": "https://www.eba.europa.eu/regulation-and-policy/digital-operational-resilience",
       "first_seen": "2026-07-07T14:31:30+00:00",
-      "last_seen": "2026-09-16T11:00:07+00:00"
+      "last_seen": "2026-09-17T11:09:33+00:00"
     },
     {
       "date": "2028-01-17",
