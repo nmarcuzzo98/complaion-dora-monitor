@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-17T11:09:33+00:00",
-  "total_events": 110,
+  "last_updated": "2026-09-18T10:53:53+00:00",
+  "total_events": 111,
   "events": [
+    {
+      "timestamp": "2026-09-18T10:50:11+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "9b7111d5215f04b019432208acf29d0efa5c9e4fcea6a08e8f4fc7717d5472f4",
+      "new_hash": "aed19ecb4bad5b3ffb5fa8b5550d296656365dfa35bdf457af373bfa605b9d87",
+      "diff": {
+        "added": 2,
+        "removed": 2,
+        "summary": "+2 aggiunte, -2 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Filter"
+          },
+          {
+            "op": "-",
+            "text": "Under consultation"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines on outsourcing arrangements"
+          },
+          {
+            "op": "+",
+            "text": "Final and awaiting translation into the EU official languages"
+          },
+          {
+            "op": "+",
+            "text": "Guidelines on third party risk management"
+          },
+          {
+            "op": " ",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines on ICT and security risk management"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-17T11:05:25+00:00",
       "id": "esma-dora",
