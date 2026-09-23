@@ -1,7 +1,85 @@
 {
-  "last_updated": "2026-09-22T11:07:45+00:00",
-  "total_events": 113,
+  "last_updated": "2026-09-23T10:57:37+00:00",
+  "total_events": 114,
   "events": [
+    {
+      "timestamp": "2026-09-23T10:53:22+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "1a0dd43532207421cf0c14a6b547a00fff3ffdd7251aeb22568be618f0836b08",
+      "new_hash": "af79c6c63a29b6fd26c7b62e9c681ce072758856fd5c60e9e061e778d58fef26",
+      "diff": {
+        "added": 3,
+        "removed": 2,
+        "summary": "+3 aggiunte, -2 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Factsheets"
+          },
+          {
+            "op": " ",
+            "text": "Letters"
+          },
+          {
+            "op": "-",
+            "text": "Opinions"
+          },
+          {
+            "op": "+",
+            "text": "Opinions addressed to European institutions"
+          },
+          {
+            "op": "+",
+            "text": "Opinions addressed to National Competent Authorities (NCAs)"
+          },
+          {
+            "op": " ",
+            "text": "Peer review reports"
+          },
+          {
+            "op": " ",
+            "text": "Protocols, decisions and memoranda"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory statements"
+          },
+          {
+            "op": " ",
+            "text": "Technical standards"
+          },
+          {
+            "op": "-",
+            "text": "Documents disclosed through public access to documents"
+          },
+          {
+            "op": " ",
+            "text": "Occasional research papers"
+          },
+          {
+            "op": " ",
+            "text": "Warnings"
+          },
+          {
+            "op": "+",
+            "text": "Documents disclosed through public access to documents"
+          },
+          {
+            "op": " ",
+            "text": "See all"
+          },
+          {
+            "op": " ",
+            "text": "Media"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-21T12:08:49+00:00",
       "id": "eur-lex-2022-2554",
