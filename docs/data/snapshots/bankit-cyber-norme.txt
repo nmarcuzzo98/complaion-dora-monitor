@@ -169,8 +169,6 @@ Vai alla pagina Media
 Link utili
 E-mail alert
 (si apre in una nuova finestra)
-Cerca nel sito
-|
 IT
 EN
 Go to english version
@@ -407,14 +405,12 @@ Informativa Privacy
 Preferenze cookie
 Disclaimer
 Copyright
-Open Data - metadati AgID (RDF)
 Altre informazioni legali
 Trasparenza
 Protezione dei dati
 Servizio di certificazione delle chiavi pubbliche
 Atti di notifica
 Seguici su
-Instagram
 YouTube
 X - Banca d’Italia
 X - Ufficio Stampa
@@ -422,7 +418,7 @@ Linkedin
 RSS
 E-mail Alert
 © Banca d'Italia
-PARTITA IVA 00950501007
+IVA 00950501007
 Codice Fiscale 00997670583
 ✕
 Informativa sui cookie:

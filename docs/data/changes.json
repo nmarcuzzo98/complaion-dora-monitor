@@ -1,7 +1,113 @@
 {
-  "last_updated": "2026-09-25T11:22:06+00:00",
-  "total_events": 114,
+  "last_updated": "2026-09-26T10:58:06+00:00",
+  "total_events": 115,
   "events": [
+    {
+      "timestamp": "2026-09-26T10:54:03+00:00",
+      "id": "bankit-cyber-norme",
+      "name": "Banca d'Italia - Norme cyber (include DORA)",
+      "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "420ecec2c0a7c2c8c5bb83cc0c7ba28787b046b3a26822a7ff6c862dcd800117",
+      "new_hash": "75fcc41c21bf14d934261efacd7a7897214104040137a4c9f2a28680a558bb1c",
+      "diff": {
+        "added": 1,
+        "removed": 5,
+        "summary": "+1 aggiunte, -5 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "E-mail alert"
+          },
+          {
+            "op": " ",
+            "text": "(si apre in una nuova finestra)"
+          },
+          {
+            "op": "-",
+            "text": "Cerca nel sito"
+          },
+          {
+            "op": "-",
+            "text": "|"
+          },
+          {
+            "op": " ",
+            "text": "IT"
+          },
+          {
+            "op": " ",
+            "text": "EN"
+          },
+          {
+            "op": " ",
+            "text": "Disclaimer"
+          },
+          {
+            "op": " ",
+            "text": "Copyright"
+          },
+          {
+            "op": "-",
+            "text": "Open Data - metadati AgID (RDF)"
+          },
+          {
+            "op": " ",
+            "text": "Altre informazioni legali"
+          },
+          {
+            "op": " ",
+            "text": "Trasparenza"
+          },
+          {
+            "op": " ",
+            "text": "Atti di notifica"
+          },
+          {
+            "op": " ",
+            "text": "Seguici su"
+          },
+          {
+            "op": "-",
+            "text": "Instagram"
+          },
+          {
+            "op": " ",
+            "text": "YouTube"
+          },
+          {
+            "op": " ",
+            "text": "X - Banca d’Italia"
+          },
+          {
+            "op": " ",
+            "text": "E-mail Alert"
+          },
+          {
+            "op": " ",
+            "text": "© Banca d'Italia"
+          },
+          {
+            "op": "-",
+            "text": "PARTITA IVA 00950501007"
+          },
+          {
+            "op": "+",
+            "text": "IVA 00950501007"
+          },
+          {
+            "op": " ",
+            "text": "Codice Fiscale 00997670583"
+          },
+          {
+            "op": " ",
+            "text": "✕"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-23T10:53:22+00:00",
       "id": "eiopa-dora",
