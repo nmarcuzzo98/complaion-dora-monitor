@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-10-02T12:02:45+00:00",
-  "total_events": 116,
+  "last_updated": "2026-10-03T11:15:28+00:00",
+  "total_events": 117,
   "events": [
+    {
+      "timestamp": "2026-10-03T11:12:03+00:00",
+      "id": "esma-dora",
+      "name": "ESMA - DORA",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "df16cb787762587ec1c462749c9dd6c85c9bc9f199cf34c21c83762ad60e25c7",
+      "new_hash": "ae370aa18f632bf5ab7078f65ba48d8bad68c2bbb1270aee8ef164715240db8b",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Risk Monitoring"
+          },
+          {
+            "op": " ",
+            "text": "Topical Analysis"
+          },
+          {
+            "op": "-",
+            "text": "Interactive Dashboards"
+          },
+          {
+            "op": "+",
+            "text": "Dashboards"
+          },
+          {
+            "op": " ",
+            "text": "Sustainable Finance"
+          },
+          {
+            "op": " ",
+            "text": "Toggle submenu"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-09-27T11:30:44+00:00",
       "id": "bankit-cyber-norme",

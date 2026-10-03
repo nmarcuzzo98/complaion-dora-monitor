@@ -55,7 +55,7 @@ Risk Analysis
 Toggle submenu
 Risk Monitoring
 Topical Analysis
-Interactive Dashboards
+Dashboards
 Sustainable Finance
 Toggle submenu
 Climate benchmarks and ESG disclosure
