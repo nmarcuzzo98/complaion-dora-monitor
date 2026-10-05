@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-10-04T11:55:37+00:00",
-  "total_events": 118,
+  "last_updated": "2026-10-05T13:50:30+00:00",
+  "total_events": 120,
   "events": [
+    {
+      "timestamp": "2026-10-05T13:46:29+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "75286f382393a97c9992fee88ac230e981ed9c022bdc2378425ade83d8ea8109",
+      "new_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "timestamp": "2026-10-05T13:46:23+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "aed19ecb4bad5b3ffb5fa8b5550d296656365dfa35bdf457af373bfa605b9d87",
+      "new_hash": "bc3893dad510279cd7a5d3c7770540b97924c55e5d4007f64661e904154da220",
+      "diff": {
+        "added": 0,
+        "removed": 2,
+        "summary": "+0 aggiunte, -2 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Date"
+          },
+          {
+            "op": " ",
+            "text": "Filter"
+          },
+          {
+            "op": "-",
+            "text": "Final and awaiting translation into the EU official languages"
+          },
+          {
+            "op": "-",
+            "text": "Guidelines on third party risk management"
+          },
+          {
+            "op": " ",
+            "text": "Final and translated into the EU official languages"
+          },
+          {
+            "op": " ",
+            "text": "Guidelines on ICT and security risk management"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-04T11:51:43+00:00",
       "id": "eur-lex-2022-2554",
