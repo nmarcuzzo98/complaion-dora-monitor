@@ -1,7 +1,69 @@
 {
-  "last_updated": "2026-10-14T11:23:34+00:00",
-  "total_events": 122,
+  "last_updated": "2026-10-15T11:00:59+00:00",
+  "total_events": 123,
   "events": [
+    {
+      "timestamp": "2026-10-15T10:57:01+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "af79c6c63a29b6fd26c7b62e9c681ce072758856fd5c60e9e061e778d58fef26",
+      "new_hash": "20a81cfa3a284fb6045d826b3caaece4e7da033193d673e662a09d8a653e666b",
+      "diff": {
+        "added": 2,
+        "removed": 2,
+        "summary": "+2 aggiunte, -2 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Declarations of interest"
+          },
+          {
+            "op": " ",
+            "text": "Members, alternates and observers of the DORA Oversight Forum (OF) are subject to the Ethics Rules for non-staff members of the ESAs and shall declare any interest as defined in Article 1(2) in relation to entities defined in Article 3(23) of DORA."
+          },
+          {
+            "op": "-",
+            "text": "17 JULY 2026"
+          },
+          {
+            "op": " ",
+            "text": "Overview of Declarations of Interests of the OF"
+          },
+          {
+            "op": "+",
+            "text": "17 July 2026"
+          },
+          {
+            "op": " ",
+            "text": "English"
+          },
+          {
+            "op": "+",
+            "text": "Download"
+          },
+          {
+            "op": " ",
+            "text": "(88.17 KB - PDF)"
+          },
+          {
+            "op": "-",
+            "text": "Download"
+          },
+          {
+            "op": " ",
+            "text": "European Insurance and Occupational Pensions Authority"
+          },
+          {
+            "op": " ",
+            "text": "Contact us"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-12T14:34:57+00:00",
       "id": "eur-lex-2022-2554",
