@@ -113,24 +113,19 @@ Statistiche
 Statistiche
 Le ricerche, le analisi empiriche e i confronti internazionali sviluppati in Banca d'Italia si fondano su un vasto patrimonio di statistiche, elaborate e diffuse seguendo i migliori standard internazionali e messe a disposizione del pubblico.
 Vai alla pagina Statistiche
-Vai al video "The Dissemination of Banca d'Italia’s microdata"
+Vai al Portale delle Statistiche
 (si apre in una nuova finestra)
 In questa sezione
 tematiche
-Banche, istituzioni finanziarie, moneta e mercato finanziario
+Banche, moneta e istituzioni finanziarie
+Mercato finanziario
 Conti finanziari, patrimoniali e distributivi
-Finanza pubblica
 Rapporti con l'Estero
+Finanza pubblica
+Famiglie
+Imprese
+Attività economica e prezzi
 Sistema dei pagamenti
-Indagini su famiglie e imprese
-Principali indicatori dell'economia italiana e dell'area dell'euro
-Statistiche dell'Eurosistema
-Statistiche diffuse nelle pubblicazioni economiche
-Statistiche storiche
-diffusione dati
-Statistiche aggregate - Base Dati Statistica
-Dati granulari - Research Data Center
-IBIS - Serie storica bilanci Banca d'Italia
 raccolta dati
 Informazioni generali sulla raccolta dati
 Segnalazioni creditizie e finanziarie
@@ -147,7 +142,10 @@ Elenco delle Società Veicolo di Cartolarizzazione (SVC)
 Collaborazione con altre Istituzioni
 Vai alla pagina Statistiche
 Link utili
-Agenda delle Statistiche
+Base Dati Statistica
+(si apre in una nuova finestra)
+Research Data Center
+(si apre in una nuova finestra)
 Scrivi a Statistiche
 Media
 Media

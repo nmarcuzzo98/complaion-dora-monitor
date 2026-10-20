@@ -1,7 +1,291 @@
 {
-  "last_updated": "2026-10-19T12:23:08+00:00",
-  "total_events": 126,
+  "last_updated": "2026-10-20T11:04:10+00:00",
+  "total_events": 130,
   "events": [
+    {
+      "timestamp": "2026-10-20T10:59:52+00:00",
+      "id": "esas-joint-committee-dora",
+      "name": "ESAs Joint Committee - DORA Technical Standards",
+      "url": "https://www.eba.europa.eu/legacy/regulation-and-policy/regulatory-activities/operational-resilience/esas-joint-committee",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "b4601c51913841ac5355e0b6c0dafc3495f54ed7f2ee63f223f7acdc08023846",
+      "new_hash": "947e99c8ce9914978a390d9fb6fbd67960f53f5d95ba82f2551e7b1fdd52a27c",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Start here"
+          },
+          {
+            "op": " ",
+            "text": "Single Rulebook"
+          },
+          {
+            "op": "+",
+            "text": "Overview of regulatory products"
+          },
+          {
+            "op": " ",
+            "text": "Simplification and efficiency"
+          },
+          {
+            "op": " ",
+            "text": "Implementing Basel III in Europe"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-10-20T10:59:44+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "bc3893dad510279cd7a5d3c7770540b97924c55e5d4007f64661e904154da220",
+      "new_hash": "ad90dcc314997433e33cd84b9026e2fc4b06b1cfac8e23e894d26d531bc732a6",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Start here"
+          },
+          {
+            "op": " ",
+            "text": "Single Rulebook"
+          },
+          {
+            "op": "+",
+            "text": "Overview of regulatory products"
+          },
+          {
+            "op": " ",
+            "text": "Simplification and efficiency"
+          },
+          {
+            "op": " ",
+            "text": "Implementing Basel III in Europe"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-10-20T10:59:41+00:00",
+      "id": "eba-dora",
+      "name": "EBA - DORA (Direct Supervision and Oversight)",
+      "url": "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "41fe3327a383ced4c46746412f24020b7b718c404fd54afbc344aa01774b225a",
+      "new_hash": "d49c388acb9749f50ae44ae250ead1bc84dc0f724e259e42df0a26be0b44f7cd",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Start here"
+          },
+          {
+            "op": " ",
+            "text": "Single Rulebook"
+          },
+          {
+            "op": "+",
+            "text": "Overview of regulatory products"
+          },
+          {
+            "op": " ",
+            "text": "Simplification and efficiency"
+          },
+          {
+            "op": " ",
+            "text": "Implementing Basel III in Europe"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-10-20T10:59:29+00:00",
+      "id": "bankit-cyber-norme",
+      "name": "Banca d'Italia - Norme cyber (include DORA)",
+      "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "ffaa4b2125c1a3819b87c8ac96b5b18e827080d91a826a0f296f8658fe72ae07",
+      "new_hash": "0a378efe166c244bbf924afba03c198d645cbde5e1bc78a216ad0ab33d22b0fc",
+      "diff": {
+        "added": 11,
+        "removed": 13,
+        "summary": "+11 aggiunte, -13 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Le ricerche, le analisi empiriche e i confronti internazionali sviluppati in Banca d'Italia si fondano su un vasto patrimonio di statistiche, elaborate e diffuse seguendo i migliori standard internazionali e messe a disposizione del pubblico."
+          },
+          {
+            "op": " ",
+            "text": "Vai alla pagina Statistiche"
+          },
+          {
+            "op": "-",
+            "text": "Vai al video \"The Dissemination of Banca d'Italia’s microdata\""
+          },
+          {
+            "op": "+",
+            "text": "Vai al Portale delle Statistiche"
+          },
+          {
+            "op": " ",
+            "text": "(si apre in una nuova finestra)"
+          },
+          {
+            "op": " ",
+            "text": "In questa sezione"
+          },
+          {
+            "op": " ",
+            "text": "tematiche"
+          },
+          {
+            "op": "-",
+            "text": "Banche, istituzioni finanziarie, moneta e mercato finanziario"
+          },
+          {
+            "op": "+",
+            "text": "Banche, moneta e istituzioni finanziarie"
+          },
+          {
+            "op": "+",
+            "text": "Mercato finanziario"
+          },
+          {
+            "op": " ",
+            "text": "Conti finanziari, patrimoniali e distributivi"
+          },
+          {
+            "op": "+",
+            "text": "Rapporti con l'Estero"
+          },
+          {
+            "op": " ",
+            "text": "Finanza pubblica"
+          },
+          {
+            "op": "-",
+            "text": "Rapporti con l'Estero"
+          },
+          {
+            "op": "+",
+            "text": "Famiglie"
+          },
+          {
+            "op": "+",
+            "text": "Imprese"
+          },
+          {
+            "op": "+",
+            "text": "Attività economica e prezzi"
+          },
+          {
+            "op": " ",
+            "text": "Sistema dei pagamenti"
+          },
+          {
+            "op": "-",
+            "text": "Indagini su famiglie e imprese"
+          },
+          {
+            "op": "-",
+            "text": "Principali indicatori dell'economia italiana e dell'area dell'euro"
+          },
+          {
+            "op": "-",
+            "text": "Statistiche dell'Eurosistema"
+          },
+          {
+            "op": "-",
+            "text": "Statistiche diffuse nelle pubblicazioni economiche"
+          },
+          {
+            "op": "-",
+            "text": "Statistiche storiche"
+          },
+          {
+            "op": "-",
+            "text": "diffusione dati"
+          },
+          {
+            "op": "-",
+            "text": "Statistiche aggregate - Base Dati Statistica"
+          },
+          {
+            "op": "-",
+            "text": "Dati granulari - Research Data Center"
+          },
+          {
+            "op": "-",
+            "text": "IBIS - Serie storica bilanci Banca d'Italia"
+          },
+          {
+            "op": " ",
+            "text": "raccolta dati"
+          },
+          {
+            "op": " ",
+            "text": "Informazioni generali sulla raccolta dati"
+          },
+          {
+            "op": " ",
+            "text": "Vai alla pagina Statistiche"
+          },
+          {
+            "op": " ",
+            "text": "Link utili"
+          },
+          {
+            "op": "-",
+            "text": "Agenda delle Statistiche"
+          },
+          {
+            "op": "+",
+            "text": "Base Dati Statistica"
+          },
+          {
+            "op": "+",
+            "text": "(si apre in una nuova finestra)"
+          },
+          {
+            "op": "+",
+            "text": "Research Data Center"
+          },
+          {
+            "op": "+",
+            "text": "(si apre in una nuova finestra)"
+          },
+          {
+            "op": " ",
+            "text": "Scrivi a Statistiche"
+          },
+          {
+            "op": " ",
+            "text": "Media"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-19T12:18:51+00:00",
       "id": "eur-lex-2022-2554",
