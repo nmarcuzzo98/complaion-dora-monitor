@@ -390,6 +390,7 @@ Arbitro Bancario Finanziario (ABF)
 IVASS
 Premio per la scuola "Inventiamo una banconota"
 L'Economia per tutti
+Portale delle Statistiche
 Portale di prenotazione on-line delle visite a Palazzo Koch
 Mudem
 Altri siti
@@ -398,7 +399,7 @@ Convenzione Interbancaria per l'Automazione (CIPA)
 CERTFin
 Cooperazione PUMA
 Siti delle banche centrali
-Portale della vigilanza bancaria
+Portale della vigilanza bancaria (SSM)
 Comitato per le politiche macroprudenziali
 Informazioni su questo sito
 Informativa Privacy

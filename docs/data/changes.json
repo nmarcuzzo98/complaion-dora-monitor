@@ -1,7 +1,69 @@
 {
-  "last_updated": "2026-10-22T11:16:01+00:00",
-  "total_events": 130,
+  "last_updated": "2026-10-23T11:09:41+00:00",
+  "total_events": 131,
   "events": [
+    {
+      "timestamp": "2026-10-23T11:06:31+00:00",
+      "id": "bankit-cyber-norme",
+      "name": "Banca d'Italia - Norme cyber (include DORA)",
+      "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "0a378efe166c244bbf924afba03c198d645cbde5e1bc78a216ad0ab33d22b0fc",
+      "new_hash": "de208bd865dfbccb24aea5b6f0ab4b59e2f669b26a382eb4ad5d3a8c476c762e",
+      "diff": {
+        "added": 2,
+        "removed": 1,
+        "summary": "+2 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Premio per la scuola \"Inventiamo una banconota\""
+          },
+          {
+            "op": " ",
+            "text": "L'Economia per tutti"
+          },
+          {
+            "op": "+",
+            "text": "Portale delle Statistiche"
+          },
+          {
+            "op": " ",
+            "text": "Portale di prenotazione on-line delle visite a Palazzo Koch"
+          },
+          {
+            "op": " ",
+            "text": "Mudem"
+          },
+          {
+            "op": " ",
+            "text": "Cooperazione PUMA"
+          },
+          {
+            "op": " ",
+            "text": "Siti delle banche centrali"
+          },
+          {
+            "op": "-",
+            "text": "Portale della vigilanza bancaria"
+          },
+          {
+            "op": "+",
+            "text": "Portale della vigilanza bancaria (SSM)"
+          },
+          {
+            "op": " ",
+            "text": "Comitato per le politiche macroprudenziali"
+          },
+          {
+            "op": " ",
+            "text": "Informazioni su questo sito"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-20T10:59:52+00:00",
       "id": "esas-joint-committee-dora",
