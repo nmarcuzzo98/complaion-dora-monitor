@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-10-28T12:16:05+00:00",
-  "total_events": 131,
+  "last_updated": "2026-10-29T12:27:39+00:00",
+  "total_events": 132,
   "events": [
+    {
+      "timestamp": "2026-10-29T12:23:35+00:00",
+      "id": "eiopa-dora",
+      "name": "EIOPA - DORA",
+      "url": "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "20a81cfa3a284fb6045d826b3caaece4e7da033193d673e662a09d8a653e666b",
+      "new_hash": "97a2b1819db0ddf27f35c012e4f7e3fda320b7332c0aa2a76963c54268e4a496",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Insurance statistics"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions statistics"
+          },
+          {
+            "op": "-",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Insurance Risk Dashboard"
+          },
+          {
+            "op": " ",
+            "text": "Occupational pensions risk dashboard"
+          },
+          {
+            "op": "+",
+            "text": "Supervisory reporting"
+          },
+          {
+            "op": " ",
+            "text": "Registers, lists and databases"
+          },
+          {
+            "op": " ",
+            "text": "Financial education map"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-23T11:06:31+00:00",
       "id": "bankit-cyber-norme",

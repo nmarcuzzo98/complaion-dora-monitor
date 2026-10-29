@@ -95,9 +95,9 @@ Symmetric adjustment of the equity capital charge
 Supervisory reporting - DPM and XBRL
 Insurance statistics
 Occupational pensions statistics
-Supervisory reporting
 Insurance Risk Dashboard
 Occupational pensions risk dashboard
+Supervisory reporting
 Registers, lists and databases
 Financial education map
 Data on sanctions imposed on insurance distributors
