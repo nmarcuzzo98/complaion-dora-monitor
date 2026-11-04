@@ -1,7 +1,129 @@
 {
-  "last_updated": "2026-11-03T13:46:22+00:00",
-  "total_events": 132,
+  "last_updated": "2026-11-04T13:55:48+00:00",
+  "total_events": 133,
   "events": [
+    {
+      "timestamp": "2026-11-04T13:51:56+00:00",
+      "id": "ecb-supervision-priorities",
+      "name": "ECB Banking Supervision - Priorita' di vigilanza",
+      "url": "https://www.bankingsupervision.europa.eu/framework/priorities/",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "34c3d604e8a2a9aa95d74d23591480409b810827e365ce7be5f597f6de8b1a15",
+      "new_hash": "9b081d90517aed8bb420fea09f052fd7d6ade1d9c98cee456c0a5648fbf25339",
+      "diff": {
+        "added": 0,
+        "removed": 22,
+        "summary": "+0 aggiunte, -22 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Banking supervision explained"
+          },
+          {
+            "op": " ",
+            "text": "Working at the ECB"
+          },
+          {
+            "op": "-",
+            "text": "Vacancies"
+          },
+          {
+            "op": "-",
+            "text": "Who we are"
+          },
+          {
+            "op": "-",
+            "text": "About the ECB"
+          },
+          {
+            "op": "-",
+            "text": "Meet our people"
+          },
+          {
+            "op": "-",
+            "text": "Life in Frankfurt am Main"
+          },
+          {
+            "op": "-",
+            "text": "Why we value diversity"
+          },
+          {
+            "op": "-",
+            "text": "Women@ECB"
+          },
+          {
+            "op": "-",
+            "text": "Diversity networks"
+          },
+          {
+            "op": "-",
+            "text": "What we offer"
+          },
+          {
+            "op": "-",
+            "text": "Contract types"
+          },
+          {
+            "op": "-",
+            "text": "Fixed-term"
+          },
+          {
+            "op": "-",
+            "text": "Short-term"
+          },
+          {
+            "op": "-",
+            "text": "ESCB/IO"
+          },
+          {
+            "op": "-",
+            "text": "Other"
+          },
+          {
+            "op": "-",
+            "text": "Traineeship"
+          },
+          {
+            "op": "-",
+            "text": "Graduate programme"
+          },
+          {
+            "op": "-",
+            "text": "ECB Scholarship for Ukrainian graduates"
+          },
+          {
+            "op": "-",
+            "text": "How you can join us"
+          },
+          {
+            "op": "-",
+            "text": "How to apply"
+          },
+          {
+            "op": "-",
+            "text": "How we hire"
+          },
+          {
+            "op": "-",
+            "text": "Starting a new role at the ECB"
+          },
+          {
+            "op": "-",
+            "text": "Frequently asked questions"
+          },
+          {
+            "op": " ",
+            "text": "Supervisory fees"
+          },
+          {
+            "op": " ",
+            "text": "Who has to pay"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-10-29T12:23:35+00:00",
       "id": "eiopa-dora",
