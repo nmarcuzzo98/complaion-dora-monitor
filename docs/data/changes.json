@@ -1,7 +1,133 @@
 {
-  "last_updated": "2026-11-05T14:09:59+00:00",
-  "total_events": 133,
+  "last_updated": "2026-11-06T13:53:30+00:00",
+  "total_events": 136,
   "events": [
+    {
+      "timestamp": "2026-11-06T13:49:41+00:00",
+      "id": "esas-joint-committee-dora",
+      "name": "ESAs Joint Committee - DORA Technical Standards",
+      "url": "https://www.eba.europa.eu/legacy/regulation-and-policy/regulatory-activities/operational-resilience/esas-joint-committee",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "947e99c8ce9914978a390d9fb6fbd67960f53f5d95ba82f2551e7b1fdd52a27c",
+      "new_hash": "7553a57c2e102ecccae8b53fa331b053074351575f09ee99d41bcd95006f1459",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Organisation and governance"
+          },
+          {
+            "op": " ",
+            "text": "Governance structure and decision making"
+          },
+          {
+            "op": "-",
+            "text": "EBA within the EU institutional framework"
+          },
+          {
+            "op": "+",
+            "text": "EBA cooperation with EU institutions and international partners"
+          },
+          {
+            "op": " ",
+            "text": "Internal organisation"
+          },
+          {
+            "op": " ",
+            "text": "Accountability"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-06T13:49:32+00:00",
+      "id": "eba-op-resilience",
+      "name": "EBA - Operational Resilience",
+      "url": "https://www.eba.europa.eu/regulation-and-policy/operational-resilience",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "ad90dcc314997433e33cd84b9026e2fc4b06b1cfac8e23e894d26d531bc732a6",
+      "new_hash": "4dfdc352a5a7476fa0e63c0fcecb430520db42bc624dce9ff6091ef1dd097995",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Organisation and governance"
+          },
+          {
+            "op": " ",
+            "text": "Governance structure and decision making"
+          },
+          {
+            "op": "-",
+            "text": "EBA within the EU institutional framework"
+          },
+          {
+            "op": "+",
+            "text": "EBA cooperation with EU institutions and international partners"
+          },
+          {
+            "op": " ",
+            "text": "Internal organisation"
+          },
+          {
+            "op": " ",
+            "text": "Accountability"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-06T13:49:28+00:00",
+      "id": "eba-dora",
+      "name": "EBA - DORA (Direct Supervision and Oversight)",
+      "url": "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/digital-operational-resilience-act",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "d49c388acb9749f50ae44ae250ead1bc84dc0f724e259e42df0a26be0b44f7cd",
+      "new_hash": "a7adaf7991f30503c7e6716a78240e38645797e888f6f1ffff1c55995bb49c8a",
+      "diff": {
+        "added": 1,
+        "removed": 1,
+        "summary": "+1 aggiunte, -1 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Organisation and governance"
+          },
+          {
+            "op": " ",
+            "text": "Governance structure and decision making"
+          },
+          {
+            "op": "-",
+            "text": "EBA within the EU institutional framework"
+          },
+          {
+            "op": "+",
+            "text": "EBA cooperation with EU institutions and international partners"
+          },
+          {
+            "op": " ",
+            "text": "Internal organisation"
+          },
+          {
+            "op": " ",
+            "text": "Accountability"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-11-04T13:51:56+00:00",
       "id": "ecb-supervision-priorities",
