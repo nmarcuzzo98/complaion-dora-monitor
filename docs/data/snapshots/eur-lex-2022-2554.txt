@@ -116,7 +116,7 @@ Official Journal L series daily view
 Official Journal C series daily view
 Browse the Official Journal
 Legally binding printed editions
-Special edition
+Browse by Official Journal Special Edition
 National law and case-law
 National transposition
 National case-law
@@ -1374,6 +1374,4 @@ Articolo 23
 Incidenti operativi o relativi alla sicurezza dei pagamenti riguardanti enti creditizi, istituti di pagamento, prestatori di servizi di informazione sui conti e istituti di moneta elettronica
 I requisiti contenuti nel presente capo si applicano anche agli incidenti operativi o relativi alla sicurezza dei pagamenti ovvero ai gravi incidenti operativi o relativi alla sicurezza dei pagamenti allorché riguardano enti creditizi, istituti di pagamento, prestatori di servizi di informazione sui conti e istituti di moneta elettronica.
 CAPO IV
-Test di resilienza operativa digitale
-Articolo 24
-Requisi
+Test di resilienza operativa d
