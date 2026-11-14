@@ -1,7 +1,825 @@
 {
-  "last_updated": "2026-11-13T14:03:47+00:00",
-  "total_events": 138,
+  "last_updated": "2026-11-14T13:05:34+00:00",
+  "total_events": 139,
   "events": [
+    {
+      "timestamp": "2026-11-14T13:02:11+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_hash": "caab7926e4966a742f98389ef73a37856ac8126ed653eb1fb999b8f02a7678cd",
+      "diff": {
+        "added": 0,
+        "removed": 200,
+        "summary": "+0 aggiunte, -200 rimosse (diff troncato a 200 righe)",
+        "truncated": true,
+        "lines": [
+          {
+            "op": "-",
+            "text": "Regolamento - 2022/2554 - EN - EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "×"
+          },
+          {
+            "op": "-",
+            "text": "Skip to main content"
+          },
+          {
+            "op": "-",
+            "text": "Log in"
+          },
+          {
+            "op": "-",
+            "text": "My EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "My EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "Sign in"
+          },
+          {
+            "op": "-",
+            "text": "Register"
+          },
+          {
+            "op": "-",
+            "text": "My recent searches (0)"
+          },
+          {
+            "op": "-",
+            "text": "English"
+          },
+          {
+            "op": "-",
+            "text": "English"
+          },
+          {
+            "op": "-",
+            "text": "Select your language"
+          },
+          {
+            "op": "-",
+            "text": "Official EU languages:"
+          },
+          {
+            "op": "-",
+            "text": "bg"
+          },
+          {
+            "op": "-",
+            "text": "български"
+          },
+          {
+            "op": "-",
+            "text": "es"
+          },
+          {
+            "op": "-",
+            "text": "Español"
+          },
+          {
+            "op": "-",
+            "text": "cs"
+          },
+          {
+            "op": "-",
+            "text": "Čeština"
+          },
+          {
+            "op": "-",
+            "text": "da"
+          },
+          {
+            "op": "-",
+            "text": "Dansk"
+          },
+          {
+            "op": "-",
+            "text": "de"
+          },
+          {
+            "op": "-",
+            "text": "Deutsch"
+          },
+          {
+            "op": "-",
+            "text": "et"
+          },
+          {
+            "op": "-",
+            "text": "Eesti keel"
+          },
+          {
+            "op": "-",
+            "text": "el"
+          },
+          {
+            "op": "-",
+            "text": "Ελληνικά"
+          },
+          {
+            "op": "-",
+            "text": "en"
+          },
+          {
+            "op": "-",
+            "text": "English"
+          },
+          {
+            "op": "-",
+            "text": "fr"
+          },
+          {
+            "op": "-",
+            "text": "Français"
+          },
+          {
+            "op": "-",
+            "text": "ga"
+          },
+          {
+            "op": "-",
+            "text": "Gaeilge"
+          },
+          {
+            "op": "-",
+            "text": "hr"
+          },
+          {
+            "op": "-",
+            "text": "Hrvatski"
+          },
+          {
+            "op": "-",
+            "text": "it"
+          },
+          {
+            "op": "-",
+            "text": "Italiano"
+          },
+          {
+            "op": "-",
+            "text": "lv"
+          },
+          {
+            "op": "-",
+            "text": "Latviešu valoda"
+          },
+          {
+            "op": "-",
+            "text": "lt"
+          },
+          {
+            "op": "-",
+            "text": "Lietuvių kalba"
+          },
+          {
+            "op": "-",
+            "text": "hu"
+          },
+          {
+            "op": "-",
+            "text": "Magyar"
+          },
+          {
+            "op": "-",
+            "text": "mt"
+          },
+          {
+            "op": "-",
+            "text": "Malti"
+          },
+          {
+            "op": "-",
+            "text": "nl"
+          },
+          {
+            "op": "-",
+            "text": "Nederlands"
+          },
+          {
+            "op": "-",
+            "text": "pl"
+          },
+          {
+            "op": "-",
+            "text": "Polski"
+          },
+          {
+            "op": "-",
+            "text": "pt"
+          },
+          {
+            "op": "-",
+            "text": "Português"
+          },
+          {
+            "op": "-",
+            "text": "ro"
+          },
+          {
+            "op": "-",
+            "text": "Română"
+          },
+          {
+            "op": "-",
+            "text": "sk"
+          },
+          {
+            "op": "-",
+            "text": "Slovenčina"
+          },
+          {
+            "op": "-",
+            "text": "sl"
+          },
+          {
+            "op": "-",
+            "text": "Slovenščina"
+          },
+          {
+            "op": "-",
+            "text": "fi"
+          },
+          {
+            "op": "-",
+            "text": "Suomi"
+          },
+          {
+            "op": "-",
+            "text": "sv"
+          },
+          {
+            "op": "-",
+            "text": "Svenska"
+          },
+          {
+            "op": "-",
+            "text": "EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "Access to European Union law"
+          },
+          {
+            "op": "-",
+            "text": "<a href=\"https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html\" target=\"_blank\">More about the experimental features corner</a>"
+          },
+          {
+            "op": "-",
+            "text": "Experimental features"
+          },
+          {
+            "op": "-",
+            "text": "×"
+          },
+          {
+            "op": "-",
+            "text": "Choose the experimental features you want to try"
+          },
+          {
+            "op": "-",
+            "text": "Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback!"
+          },
+          {
+            "op": "-",
+            "text": "Warning! Experimental feature conflicts detected."
+          },
+          {
+            "op": "-",
+            "text": "Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles."
+          },
+          {
+            "op": "-",
+            "text": "Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts."
+          },
+          {
+            "op": "-",
+            "text": "Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB."
+          },
+          {
+            "op": "-",
+            "text": "Apply"
+          },
+          {
+            "op": "-",
+            "text": "EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "Access to European Union law"
+          },
+          {
+            "op": "-",
+            "text": "This document is an excerpt from the EUR-Lex website"
+          },
+          {
+            "op": "-",
+            "text": "You are here"
+          },
+          {
+            "op": "-",
+            "text": "EUROPA"
+          },
+          {
+            "op": "-",
+            "text": "EUR-Lex home"
+          },
+          {
+            "op": "-",
+            "text": "Regolamento - 2022/2554 - EN - EUR-Lex"
+          },
+          {
+            "op": "-",
+            "text": "Help"
+          },
+          {
+            "op": "-",
+            "text": "Print"
+          },
+          {
+            "op": "-",
+            "text": "Menu"
+          },
+          {
+            "op": "-",
+            "text": "EU law"
+          },
+          {
+            "op": "-",
+            "text": "Treaties"
+          },
+          {
+            "op": "-",
+            "text": "Treaties currently in force"
+          },
+          {
+            "op": "-",
+            "text": "Founding Treaties"
+          },
+          {
+            "op": "-",
+            "text": "Accession Treaties"
+          },
+          {
+            "op": "-",
+            "text": "Other treaties and protocols"
+          },
+          {
+            "op": "-",
+            "text": "Chronological overview"
+          },
+          {
+            "op": "-",
+            "text": "Legal acts"
+          },
+          {
+            "op": "-",
+            "text": "Consolidated texts"
+          },
+          {
+            "op": "-",
+            "text": "International agreements"
+          },
+          {
+            "op": "-",
+            "text": "Preparatory documents"
+          },
+          {
+            "op": "-",
+            "text": "EFTA documents"
+          },
+          {
+            "op": "-",
+            "text": "Lawmaking procedures"
+          },
+          {
+            "op": "-",
+            "text": "Summaries of EU legislation"
+          },
+          {
+            "op": "-",
+            "text": "Browse by EU institutions"
+          },
+          {
+            "op": "-",
+            "text": "European Parliament"
+          },
+          {
+            "op": "-",
+            "text": "European Council"
+          },
+          {
+            "op": "-",
+            "text": "Council of the European Union"
+          },
+          {
+            "op": "-",
+            "text": "European Commission"
+          },
+          {
+            "op": "-",
+            "text": "Court of Justice of the European Union"
+          },
+          {
+            "op": "-",
+            "text": "European Central Bank"
+          },
+          {
+            "op": "-",
+            "text": "European Court of Auditors"
+          },
+          {
+            "op": "-",
+            "text": "European Economic and Social Committee"
+          },
+          {
+            "op": "-",
+            "text": "European Committee of the Regions"
+          },
+          {
+            "op": "-",
+            "text": "Browse by EuroVoc"
+          },
+          {
+            "op": "-",
+            "text": "EU case-law"
+          },
+          {
+            "op": "-",
+            "text": "Case-law"
+          },
+          {
+            "op": "-",
+            "text": "Reports of cases"
+          },
+          {
+            "op": "-",
+            "text": "Directory of case-law"
+          },
+          {
+            "op": "-",
+            "text": "Official Journal"
+          },
+          {
+            "op": "-",
+            "text": "Access to the Official Journal"
+          },
+          {
+            "op": "-",
+            "text": "Official Journal L series daily view"
+          },
+          {
+            "op": "-",
+            "text": "Official Journal C series daily view"
+          },
+          {
+            "op": "-",
+            "text": "Browse the Official Journal"
+          },
+          {
+            "op": "-",
+            "text": "Legally binding printed editions"
+          },
+          {
+            "op": "-",
+            "text": "Browse by Official Journal Special Edition"
+          },
+          {
+            "op": "-",
+            "text": "National law and case-law"
+          },
+          {
+            "op": "-",
+            "text": "National transposition"
+          },
+          {
+            "op": "-",
+            "text": "National case-law"
+          },
+          {
+            "op": "-",
+            "text": "JURE case-law"
+          },
+          {
+            "op": "-",
+            "text": "Information"
+          },
+          {
+            "op": "-",
+            "text": "Themes in focus"
+          },
+          {
+            "op": "-",
+            "text": "EUR-Lex developments"
+          },
+          {
+            "op": "-",
+            "text": "Statistics"
+          },
+          {
+            "op": "-",
+            "text": "ELI register"
+          },
+          {
+            "op": "-",
+            "text": "What is ELI?"
+          },
+          {
+            "op": "-",
+            "text": "ELI background"
+          },
+          {
+            "op": "-",
+            "text": "Why implement ELI?"
+          },
+          {
+            "op": "-",
+            "text": "Countries implementing ELI"
+          },
+          {
+            "op": "-",
+            "text": "Testimonials"
+          },
+          {
+            "op": "-",
+            "text": "How to implement ELI"
+          },
+          {
+            "op": "-",
+            "text": "Glossary"
+          },
+          {
+            "op": "-",
+            "text": "EU budget online"
+          },
+          {
+            "op": "-",
+            "text": "Quick search"
+          },
+          {
+            "op": "-",
+            "text": "Use quotation marks to search for an \"exact phrase\". Append an asterisk ("
+          },
+          {
+            "op": "-",
+            "text": "*"
+          },
+          {
+            "op": "-",
+            "text": ") to a search term to find variations of it (transp"
+          },
+          {
+            "op": "-",
+            "text": "*"
+          },
+          {
+            "op": "-",
+            "text": ", 32019R"
+          },
+          {
+            "op": "-",
+            "text": "*"
+          },
+          {
+            "op": "-",
+            "text": "). Use a question mark ("
+          },
+          {
+            "op": "-",
+            "text": "?"
+          },
+          {
+            "op": "-",
+            "text": ") instead of a single character in your search term to find variations of it (ca"
+          },
+          {
+            "op": "-",
+            "text": "?"
+          },
+          {
+            "op": "-",
+            "text": "e finds case, cane, care)."
+          },
+          {
+            "op": "-",
+            "text": "Search tips"
+          },
+          {
+            "op": "-",
+            "text": "Need more search options? Use the"
+          },
+          {
+            "op": "-",
+            "text": "Advanced search"
+          },
+          {
+            "op": "-",
+            "text": "Document 32022R2554"
+          },
+          {
+            "op": "-",
+            "text": "Help"
+          },
+          {
+            "op": "-",
+            "text": "Print"
+          },
+          {
+            "op": "-",
+            "text": "Text"
+          },
+          {
+            "op": "-",
+            "text": "Document information"
+          },
+          {
+            "op": "-",
+            "text": "Procedure"
+          },
+          {
+            "op": "-",
+            "text": "Document summary"
+          },
+          {
+            "op": "-",
+            "text": "Up-to-date link"
+          },
+          {
+            "op": "-",
+            "text": "Permanent link"
+          },
+          {
+            "op": "-",
+            "text": "Download notice"
+          },
+          {
+            "op": "-",
+            "text": "Save to My items"
+          },
+          {
+            "op": "-",
+            "text": "Create an email alert"
+          },
+          {
+            "op": "-",
+            "text": "Create an RSS alert"
+          },
+          {
+            "op": "-",
+            "text": "Table of contents"
+          },
+          {
+            "op": "-",
+            "text": "Hide table of contents"
+          },
+          {
+            "op": "-",
+            "text": "All consolidated versions"
+          },
+          {
+            "op": "-",
+            "text": "Hide consolidated versions"
+          },
+          {
+            "op": "-",
+            "text": "27/12/2022"
+          },
+          {
+            "op": "-",
+            "text": "Legal act"
+          },
+          {
+            "op": "-",
+            "text": "​"
+          },
+          {
+            "op": "-",
+            "text": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+          },
+          {
+            "op": "-",
+            "text": "Regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14 dicembre 2022 relativo alla resilienza operativa digitale per il settore finanziario e che modifica i regolamenti (CE) n. 1060/2009, (UE) n. 648/2012, (UE) n. 600/2014, (UE) n. 909/2014 e (UE) 2016/1011 (Testo rilevante ai fini del SEE)"
+          },
+          {
+            "op": "-",
+            "text": "Regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14 dicembre 2022 relativo alla resilienza operativa digitale per il settore finanziario e che modifica i regolamenti (CE) n. 1060/2009, (UE) n. 648/2012, (UE) n. 600/2014, (UE) n. 909/2014 e (UE) 2016/1011 (Testo rilevante ai fini del SEE)"
+          },
+          {
+            "op": "-",
+            "text": "PE/41/2022/INIT"
+          },
+          {
+            "op": "-",
+            "text": "GU L 333 del 27.12.2022, pp. 1–79"
+          },
+          {
+            "op": "-",
+            "text": "(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)"
+          },
+          {
+            "op": "-",
+            "text": "In force"
+          },
+          {
+            "op": "-",
+            "text": "ELI:"
+          },
+          {
+            "op": "-",
+            "text": "http://data.europa.eu/eli/reg/2022/2554/oj"
+          },
+          {
+            "op": "-",
+            "text": "Expand all"
+          },
+          {
+            "op": "-",
+            "text": "Collapse all"
+          },
+          {
+            "op": "-",
+            "text": "Languages, formats and link to OJ"
+          },
+          {
+            "op": "-",
+            "text": "Language"
+          },
+          {
+            "op": "-",
+            "text": "BG"
+          },
+          {
+            "op": "-",
+            "text": "ES"
+          },
+          {
+            "op": "-",
+            "text": "CS"
+          },
+          {
+            "op": "-",
+            "text": "DA"
+          },
+          {
+            "op": "-",
+            "text": "DE"
+          },
+          {
+            "op": "-",
+            "text": "ET"
+          },
+          {
+            "op": "-",
+            "text": "EL"
+          },
+          {
+            "op": "-",
+            "text": "EN"
+          },
+          {
+            "op": "-",
+            "text": "FR"
+          },
+          {
+            "op": "-",
+            "text": "GA"
+          },
+          {
+            "op": "-",
+            "text": "HR"
+          },
+          {
+            "op": "-",
+            "text": "IT"
+          },
+          {
+            "op": "-",
+            "text": "LV"
+          },
+          {
+            "op": "-",
+            "text": "LT"
+          },
+          {
+            "op": "-",
+            "text": "HU"
+          },
+          {
+            "op": "-",
+            "text": "MT"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-11-09T15:22:37+00:00",
       "id": "eur-lex-2022-2554",
