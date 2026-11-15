@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-14T13:05:34+00:00",
-  "total_events": 139,
+  "last_updated": "2026-11-15T13:34:47+00:00",
+  "total_events": 140,
   "events": [
+    {
+      "timestamp": "2026-11-15T13:30:55+00:00",
+      "id": "eur-lex-2022-2554",
+      "name": "EUR-Lex - Regolamento (UE) 2022/2554 DORA",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R2554",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "caab7926e4966a742f98389ef73a37856ac8126ed653eb1fb999b8f02a7678cd",
+      "new_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
     {
       "timestamp": "2026-11-14T13:02:11+00:00",
       "id": "eur-lex-2022-2554",
