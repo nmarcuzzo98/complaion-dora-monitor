@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-11-17T15:38:58+00:00",
-  "total_events": 140,
+  "last_updated": "2026-11-18T15:15:47+00:00",
+  "total_events": 142,
   "events": [
+    {
+      "timestamp": "2026-11-18T15:12:27+00:00",
+      "id": "ecb-supervision-priorities",
+      "name": "ECB Banking Supervision - Priorita' di vigilanza",
+      "url": "https://www.bankingsupervision.europa.eu/framework/priorities/",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "9b081d90517aed8bb420fea09f052fd7d6ade1d9c98cee456c0a5648fbf25339",
+      "new_hash": "162bc3b689d672489c34dbd448169bff89dea0ed98230d240493bda0e7a91bc6",
+      "diff": {
+        "added": 2,
+        "removed": 0,
+        "summary": "+2 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Internal model investigations"
+          },
+          {
+            "op": " ",
+            "text": "Ongoing model monitoring"
+          },
+          {
+            "op": "+",
+            "text": "On-site activities"
+          },
+          {
+            "op": "+",
+            "text": "On-site inspections"
+          },
+          {
+            "op": " ",
+            "text": "Letters to banks"
+          },
+          {
+            "op": " ",
+            "text": "Outcomes & data"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-18T15:12:02+00:00",
+      "id": "bankit-cyber-norme",
+      "name": "Banca d'Italia - Norme cyber (include DORA)",
+      "url": "https://www.bancaditalia.it/focus/cybersicurezza/norme-cyber/index.html",
+      "type": "page",
+      "status": "changed",
+      "previous_hash": "de208bd865dfbccb24aea5b6f0ab4b59e2f669b26a382eb4ad5d3a8c476c762e",
+      "new_hash": "75b0d405a893285c8be94b259ee5f2f58d0db8af7a259231c090a78f6a7f1833",
+      "diff": {
+        "added": 1,
+        "removed": 0,
+        "summary": "+1 aggiunte, -0 rimosse",
+        "truncated": false,
+        "lines": [
+          {
+            "op": " ",
+            "text": "Centrale dei rischi"
+          },
+          {
+            "op": " ",
+            "text": "Direct reporting e altre statistiche sull'estero"
+          },
+          {
+            "op": "+",
+            "text": "Indagini su famiglie"
+          },
+          {
+            "op": " ",
+            "text": "Indagine triennale derivati"
+          },
+          {
+            "op": " ",
+            "text": "Sistema informativo statistico"
+          }
+        ]
+      }
+    },
     {
       "timestamp": "2026-11-15T13:30:55+00:00",
       "id": "eur-lex-2022-2554",
